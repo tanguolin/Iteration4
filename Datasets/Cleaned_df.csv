@@ -1,0 +1,1182 @@
+,ID,Region Of Residence,Age Of Subject,Time Spent On Online Class,Rating Of Online Class Experience,Medium For Online Class,Time Spent On Self Study,Time Spent On Fitness,Time Spent On Sleep,Time Spent On Social Media,Preferred Social Media Platform,Time Spent On TV,Number Of Meals Per Day,Change In Weight,Health Issue During Lockdown,Stress Busters,Time Utilized,Connection Status,Activities Missed (Most),Age Group
+0,R1,Delhi-NCR,21,2.0,Good,Laptop/Desktop,4.0,0.0,7.0,3.0,Linkedin,1.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+1,R2,Delhi-NCR,21,0.0,Excellent,Smartphone,0.0,2.0,10.0,3.0,Youtube,0.0,3,Decreased,NO,Social Media,YES,NO,Personal Exploration,Young Adults
+2,R3,Delhi-NCR,20,7.0,Very poor,Laptop/Desktop,3.0,0.0,6.0,2.0,Linkedin,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+3,R4,Delhi-NCR,20,3.0,Very poor,Smartphone,2.0,1.0,6.0,5.0,Instagram,0.0,3,Decreased,NO,Watching videos,NO,NO,Social Interactions,Young Adults
+4,R5,Delhi-NCR,21,3.0,Good,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,1.0,4,Remain Constant,NO,Social Media,NO,NO,Travel and Exploration,Young Adults
+5,R6,Delhi-NCR,21,0.0,Very poor,Smartphone,6.0,0.0,5.0,1.0,Youtube,0.0,1,Decreased,YES,Coding and studying for exams,NO,YES,Education,Young Adults
+6,R7,Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,1.0,5.0,4.0,Instagram,0.0,3,Increased,NO,Watching videos,NO,YES,Social Interactions,Pre-Teens
+7,R8,Outside Delhi-NCR,19,2.0,Very poor,Tablet,1.0,1.0,10.0,5.0,Instagram,0.0,3,Increased,YES,Social Media,NO,YES,Dining and Entertainment,Pre-Teens
+8,R9,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,2.0,WhatsApp,1.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Young Adults
+9,R10,Outside Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,1.0,0.5,8.0,5.0,Instagram,3.0,3,Decreased,YES,Watching videos,NO,NO,Education,Young Adults
+10,R11,Delhi-NCR,21,3.0,Good,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,1.0,4,Remain Constant,NO,Social Media,NO,NO,Social Interactions,Young Adults
+11,R12,Delhi-NCR,21,1.0,Very poor,Laptop/Desktop,0.0,1.0,7.0,3.0,Instagram,1.0,2,Increased,YES,Watching videos,YES,YES,Dining and Entertainment,Young Adults
+12,R13,Delhi-NCR,21,3.0,Average,Laptop/Desktop,0.0,0.0,8.0,3.0,Instagram,0.0,3,Increased,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+13,R14,Outside Delhi-NCR,22,1.0,Good,Laptop/Desktop,2.0,0.0,7.0,0.0,None,0.5,2,Increased,NO,Reading books,YES,YES,Travel and Exploration,Young Adults
+14,R15,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Social Media,NO,NO,Dining and Entertainment,Young Adults
+15,R16,Delhi-NCR,22,3.0,Average,Smartphone,3.0,1.0,6.0,2.0,Instagram,1.0,3,Increased,NO,Gaming,YES,YES,Dining and Entertainment,Young Adults
+16,R17,Outside Delhi-NCR,20,0.0,Good,Smartphone,0.0,0.0,8.0,2.0,Reddit,1.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+17,R18,Delhi-NCR,20,1.0,Very poor,Smartphone,2.0,1.0,8.0,1.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+18,R19,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,4.0,0.0,7.0,7.0,Youtube,0.0,2,Remain Constant,NO,Reading books,NO,NO,Social Interactions,Young Adults
+19,R20,Delhi-NCR,22,5.0,Very poor,Smartphone,2.0,1.0,8.0,4.0,Instagram,0.0,3,Increased,NO,Exercise,YES,YES,Social Interactions,Young Adults
+20,R21,Delhi-NCR,20,4.0,Excellent,Laptop/Desktop,5.0,0.0,6.0,2.0,Linkedin,1.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+21,R22,Delhi-NCR,21,5.0,Average,Laptop/Desktop,2.0,1.0,10.0,5.0,Instagram,2.0,3,Remain Constant,NO,Communication with others,YES,NO,Education,Young Adults
+22,R23,Delhi-NCR,21,4.0,Very poor,Smartphone,1.0,0.0,8.0,6.0,Instagram,1.0,4,Decreased,NO,Watching videos,NO,YES,Education,Young Adults
+23,R24,Delhi-NCR,21,4.0,Average,Laptop/Desktop,2.0,1.0,7.0,1.0,Linkedin,0.0,3,Decreased,NO,Exercise,YES,YES,Travel and Exploration,Young Adults
+24,R25,Delhi-NCR,20,3.0,Very poor,Smartphone,4.0,2.0,9.0,2.0,Instagram,1.0,3,Decreased,NO,Reading books,YES,NO,Education,Young Adults
+25,R26,Delhi-NCR,20,5.0,Very poor,Smartphone,2.0,0.0,9.0,5.0,Linkedin,3.0,2,Increased,NO,Communication with others,YES,YES,Dining and Entertainment,Young Adults
+26,R27,Delhi-NCR,21,4.0,Very poor,Laptop/Desktop,5.0,0.0,8.0,3.0,Instagram,0.0,2,Increased,YES,Leisure and Entertainment,NO,YES,Education,Young Adults
+27,R28,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,6.0,0.0,9.0,2.0,WhatsApp,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+28,R29,Delhi-NCR,31,8.0,Average,Laptop/Desktop,4.0,1.0,6.0,2.0,Linkedin,0.5,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Work and Career,Adults
+29,R30,Delhi-NCR,22,4.0,Very poor,Smartphone,6.0,1.0,5.0,3.0,Youtube,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Young Adults
+30,R31,Delhi-NCR,19,4.0,Very poor,Smartphone,5.0,1.0,7.0,2.0,WhatsApp,1.0,2,Decreased,YES,Leisure and Entertainment,YES,YES,Personal Exploration,Pre-Teens
+31,R32,Delhi-NCR,23,4.0,Excellent,Laptop/Desktop,18.0,1.0,8.0,2.0,Snapchat,0.0,2,Decreased,NO,Reading books,YES,YES,Travel and Exploration,Young Adults
+32,R33,Delhi-NCR,21,0.0,Very poor,,5.0,2.0,4.0,2.0,Omegle,0.0,3,Remain Constant,NO,Watching videos,YES,NO,Personal Reflection,Young Adults
+33,R34,Delhi-NCR,22,5.0,Very poor,Laptop/Desktop,1.0,0.0,6.0,2.0,Linkedin,0.5,3,Decreased,YES,Watching videos,YES,YES,Social Interactions,Young Adults
+34,R35,Delhi-NCR,20,0.0,NA,,6.0,1.0,6.0,5.0,Instagram,0.0,4,Increased,NO,Communication with others,YES,NO,Dining and Entertainment,Young Adults
+35,R36,Outside Delhi-NCR,21,6.0,Average,Smartphone,2.0,1.0,8.0,3.0,Instagram,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+36,R37,Delhi-NCR,17,4.0,Very poor,Laptop/Desktop,1.0,1.0,7.0,1.5,Instagram,0.0,3,Decreased,NO,Reading books,NO,YES,Travel and Exploration,Pre-Teens
+37,R38,Outside Delhi-NCR,20,4.0,Average,Laptop/Desktop,2.0,0.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Sleeping,NO,YES,Dining and Entertainment,Young Adults
+38,R39,Outside Delhi-NCR,22,1.0,Very poor,Smartphone,2.0,0.5,8.0,2.0,Linkedin,2.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+39,R40,Delhi-NCR,20,0.0,NA,,8.0,0.0,8.0,0.0,Youtube,0.0,3,Increased,NO,Reading books,NO,YES,Travel and Exploration,Young Adults
+40,R41,Delhi-NCR,24,4.0,Good,Laptop/Desktop,4.0,2.0,6.0,4.0,Youtube,0.0,4,Increased,NO,Social Media,YES,YES,Travel and Exploration,Young Adults
+41,R42,Outside Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,0.0,0.0,10.0,8.0,Youtube,1.0,4,Remain Constant,NO,Watching videos,YES,NO,Travel and Exploration,Young Adults
+42,R43,Delhi-NCR,20,7.0,Very poor,Smartphone,2.0,1.0,8.0,2.0,WhatsApp,2.0,4,Remain Constant,YES,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+43,R44,Delhi-NCR,21,5.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,1.0,Instagram,0.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Dining and Entertainment,Young Adults
+44,R45,Delhi-NCR,18,2.0,Average,Smartphone,2.0,3.0,12.0,1.0,Linkedin,0.0,4,Remain Constant,NO,Sleeping,NO,NO,Social Interactions,Pre-Teens
+45,R46,Delhi-NCR,22,3.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,1.0,Instagram,0.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+46,R47,Delhi-NCR,20,2.0,Very poor,Smartphone,6.0,2.0,7.0,1.0,Instagram,3.0,6,Decreased,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+47,R48,Delhi-NCR,20,2.0,Very poor,Smartphone,3.0,0.0,6.0,2.0,Youtube,0.0,3,Decreased,YES,Reading books,NO,NO,Education,Young Adults
+48,R49,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,4.0,2.0,8.0,2.0,Twitter,0.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+49,R50,Delhi-NCR,18,4.0,Good,Laptop/Desktop,2.0,0.0,8.0,4.0,Instagram,0.0,3,Remain Constant,NO,Social Media,YES,YES,Social Interactions,Pre-Teens
+50,R51,Delhi-NCR,19,0.0,Very poor,Smartphone,1.0,0.0,8.0,2.0,Youtube,2.0,3,Remain Constant,YES,Gaming,NO,YES,Education,Pre-Teens
+51,R52,Delhi-NCR,20,5.0,Average,Laptop/Desktop,6.0,1.0,7.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Reading books,NO,YES,Personal Exploration,Young Adults
+52,R53,Delhi-NCR,21,3.0,Average,Laptop/Desktop,17.0,0.0,5.0,1.0,Youtube,0.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Young Adults
+53,R54,Delhi-NCR,19,0.0,Average,Smartphone,2.0,2.0,10.0,1.0,Instagram,0.5,4,Remain Constant,NO,Reading books,YES,YES,Personal Exploration,Pre-Teens
+54,R55,Delhi-NCR,21,4.0,Average,Smartphone,4.0,1.0,8.0,2.0,Youtube,2.0,4,Remain Constant,NO,Sleeping,YES,YES,Sports and Activities,Young Adults
+55,R56,Delhi-NCR,19,4.0,Very poor,Smartphone,2.0,0.0,7.0,1.0,WhatsApp,0.0,3,Increased,YES,Watching videos,YES,YES,Personal Exploration,Pre-Teens
+56,R57,Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,2.0,8.0,1.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+57,R58,Delhi-NCR,18,1.0,Very poor,Smartphone,8.0,0.0,8.0,5.0,Youtube,2.0,3,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+58,R59,Delhi-NCR,20,5.0,Average,Laptop/Desktop,1.0,1.0,7.0,1.0,WhatsApp,0.0,3,Increased,YES,Leisure and Entertainment,NO,YES,Education,Young Adults
+59,R60,Delhi-NCR,21,0.0,Very poor,Smartphone,5.0,0.0,8.0,1.0,Instagram,1.0,3,Remain Constant,NO,Gaming,YES,NO,Dining and Entertainment,Young Adults
+60,R61,Delhi-NCR,22,6.0,Very poor,Laptop/Desktop,6.0,0.0,6.0,1.0,Instagram,0.0,2,Increased,NO,Watching videos,YES,NO,Social Interactions,Young Adults
+61,R62,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,6.0,1.0,8.0,1.0,Instagram,2.0,4,Increased,NO,Sleeping,YES,YES,Personal Exploration,Young Adults
+62,R63,Delhi-NCR,18,0.0,Very poor,Laptop/Desktop,2.0,1.0,6.0,5.0,Instagram,0.0,1,Remain Constant,NO,Unable to reduce stress,NO,YES,Social Interactions,Pre-Teens
+63,R64,Delhi-NCR,20,2.0,Very poor,Laptop/Desktop,0.0,1.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Watching videos,NO,YES,Education,Young Adults
+64,R65,Delhi-NCR,23,2.0,Very poor,Smartphone,1.0,1.0,7.0,5.0,Instagram,1.0,4,Decreased,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+65,R66,Delhi-NCR,20,4.0,Average,Smartphone,4.0,2.0,7.0,2.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+66,R67,Outside Delhi-NCR,19,0.0,NA,,0.0,2.0,6.0,4.0,Instagram,0.5,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Pre-Teens
+67,R68,Delhi-NCR,18,3.0,Average,Smartphone,1.0,1.0,8.0,3.0,WhatsApp,0.5,4,Remain Constant,NO,Exercise,YES,YES,Personal Exploration,Pre-Teens
+68,R69,Delhi-NCR,20,1.5,Very poor,Smartphone,3.0,2.0,9.0,1.0,Youtube,1.0,2,Decreased,YES,Sleeping,NO,YES,Travel and Exploration,Young Adults
+69,R70,Delhi-NCR,19,2.0,Very poor,Tablet,2.0,1.0,8.0,5.0,Instagram,0.0,4,Decreased,NO,Social Media,NO,YES,Personal Exploration,Pre-Teens
+70,R71,Outside Delhi-NCR,20,2.0,Very poor,Smartphone,3.0,1.0,6.0,2.0,Instagram,1.0,4,Increased,NO,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+71,R72,Delhi-NCR,22,6.0,Very poor,Smartphone,4.0,0.0,7.0,2.0,WhatsApp,0.0,1,Increased,NO,Gaming,NO,NO,Dining and Entertainment,Young Adults
+72,R73,Delhi-NCR,20,2.0,Very poor,Smartphone,2.0,0.0,7.0,3.0,WhatsApp,2.0,2,Remain Constant,NO,Reading books,NO,NO,Social Interactions,Young Adults
+73,R74,Delhi-NCR,19,1.0,Average,Laptop/Desktop,0.5,1.0,7.0,5.0,Instagram,2.0,3,Remain Constant,NO,Many options,NO,YES,Social Interactions,Pre-Teens
+74,R75,Delhi-NCR,18,3.0,Very poor,Smartphone,2.0,2.0,8.0,8.0,Instagram,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+75,R76,Outside Delhi-NCR,19,3.0,Average,Smartphone,5.0,0.0,5.0,4.0,Telegram,0.0,2,Increased,YES,Leisure and Entertainment,YES,NO,Personal Exploration,Pre-Teens
+76,R77,Delhi-NCR,19,0.0,Very poor,Smartphone,1.0,1.0,8.0,2.0,Instagram,0.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+77,R78,Delhi-NCR,20,3.0,Average,Laptop/Desktop,3.0,0.0,10.0,10.0,Facebook,4.5,3,Increased,NO,Social Media,NO,NO,Education,Young Adults
+78,R79,Delhi-NCR,20,3.0,Excellent,Laptop/Desktop,0.0,1.0,8.0,5.0,Youtube,1.0,3,Increased,NO,Gaming,NO,YES,Education,Young Adults
+79,R80,Delhi-NCR,19,1.0,Good,Laptop/Desktop,4.0,0.0,8.0,2.0,None,0.0,4,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Pre-Teens
+80,R81,Delhi-NCR,21,5.0,Average,Laptop/Desktop,5.0,0.0,8.0,7.0,Instagram,1.0,2,Increased,YES,Social Media,NO,YES,Social Interactions,Young Adults
+81,R82,Delhi-NCR,21,3.0,Good,Smartphone,2.0,1.0,10.0,1.0,Youtube,0.0,3,Remain Constant,NO,Gaming,NO,NO,Social Interactions,Young Adults
+82,R83,Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,0.5,9.0,3.0,Instagram,1.0,2,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+83,R84,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,1.0,1.0,12.0,2.0,Instagram,2.0,2,Increased,NO,Gaming,NO,YES,Personal Exploration,Young Adults
+84,R85,Outside Delhi-NCR,21,1.0,Poor,Smartphone,8.0,0.0,10.0,1.0,WhatsApp,0.0,3,Decreased,NO,Sleeping,YES,YES,Education,Young Adults
+85,R86,Delhi-NCR,19,2.0,Very poor,Tablet,2.0,1.0,8.0,5.0,Instagram,0.0,4,Decreased,NO,Social Media,NO,YES,Personal Exploration,Pre-Teens
+86,R87,Delhi-NCR,20,5.0,Average,Smartphone,3.0,1.0,7.0,1.5,Instagram,0.0,3,Increased,YES,Leisure and Entertainment,YES,YES,Education,Young Adults
+87,R88,Outside Delhi-NCR,21,4.0,Very poor,Smartphone,3.0,1.0,8.0,1.0,Linkedin,0.0,3,Decreased,NO,Meditation,NO,NO,All Options,Young Adults
+88,R89,Delhi-NCR,18,3.0,Very poor,Smartphone,4.0,1.0,7.0,1.0,WhatsApp,0.0,4,Remain Constant,YES,Leisure and Entertainment,NO,NO,Dining and Entertainment,Pre-Teens
+89,R90,Outside Delhi-NCR,19,4.0,Average,Smartphone,3.0,1.0,7.0,3.0,Instagram,2.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+90,R91,Outside Delhi-NCR,25,4.0,Very poor,Smartphone,3.0,1.0,7.0,1.0,Instagram,0.0,3,Remain Constant,YES,Sports and games,NO,NO,Dining and Entertainment,Young Adults
+91,R92,Delhi-NCR,19,0.0,Very poor,Smartphone,4.0,1.0,8.0,1.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+92,R93,Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,0.0,0.0,8.0,2.0,Instagram,1.5,3,Increased,YES,Watching videos,NO,NO,Education,Pre-Teens
+93,R94,Delhi-NCR,20,4.0,Good,Smartphone,2.0,2.0,8.0,6.0,Instagram,0.0,3,Decreased,NO,Sleeping,YES,YES,Education,Young Adults
+94,R95,Delhi-NCR,20,2.0,Average,Smartphone,3.0,1.0,5.0,4.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+95,R96,Delhi-NCR,19,5.0,Good,Tablet,3.0,1.0,8.0,2.0,Snapchat,0.0,2,Remain Constant,NO,Reading books,NO,YES,Travel and Exploration,Pre-Teens
+96,R97,Delhi-NCR,19,3.0,Average,Smartphone,1.0,0.0,10.0,4.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+97,R98,Delhi-NCR,22,2.0,Average,Smartphone,0.0,0.0,12.0,4.0,Instagram,2.0,3,Increased,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+98,R99,Outside Delhi-NCR,21,1.0,Good,Smartphone,3.0,2.0,10.0,1.0,Youtube,2.0,4,Increased,YES,Meditation,NO,YES,Social Interactions,Young Adults
+99,R100,Delhi-NCR,21,1.0,Very poor,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+100,R101,Outside Delhi-NCR,16,6.0,Poor,Smartphone,2.0,2.0,7.0,2.0,Youtube,1.0,3,Remain Constant,NO,Social Media,YES,YES,Travel and Exploration,Pre-Teens
+101,R102,Outside Delhi-NCR,21,3.0,Average,Laptop/Desktop,5.0,0.0,8.0,7.0,Linkedin,1.0,2,Remain Constant,NO,Watching videos,NO,YES,Education,Young Adults
+102,R103,Outside Delhi-NCR,21,4.0,Very poor,Smartphone,4.0,1.0,7.0,1.0,WhatsApp,0.0,4,Decreased,YES,Leisure and Entertainment,YES,NO,Travel and Exploration,Young Adults
+103,R104,Outside Delhi-NCR,16,3.0,Very poor,Smartphone,3.0,1.0,7.0,3.0,Youtube,1.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+104,R105,Delhi-NCR,21,2.0,Very poor,Smartphone,7.0,2.0,8.0,0.5,Instagram,0.0,5,Increased,NO,Reading books,YES,YES,Sports and Activities,Young Adults
+105,R106,Outside Delhi-NCR,23,4.0,Excellent,Laptop/Desktop,6.0,1.0,8.0,0.3,WhatsApp,0.0,3,Increased,NO,Communication with others,YES,NO,Travel and Exploration,Young Adults
+106,R107,Delhi-NCR,19,2.0,Very poor,Smartphone,1.5,1.0,7.0,2.0,Youtube,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+107,R108,Delhi-NCR,20,1.0,Very poor,Smartphone,2.0,1.0,8.0,1.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+108,R109,Delhi-NCR,18,2.0,Very poor,Smartphone,3.0,1.0,8.0,1.0,Instagram,1.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Pre-Teens
+109,R110,Outside Delhi-NCR,10,3.0,Good,Tablet,3.0,0.0,10.0,1.0,Youtube,4.0,3,Remain Constant,NO,Gaming,YES,NO,Social Interactions,Children
+110,R111,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,2.0,2.0,8.0,0.15,Linkedin,0.3,2,Decreased,NO,Communication with others,YES,YES,Education,Young Adults
+111,R112,Delhi-NCR,21,3.0,Average,Smartphone,3.0,0.0,11.0,2.0,WhatsApp,0.0,2,Increased,YES,Sleeping,NO,YES,Education,Young Adults
+112,R113,Delhi-NCR,19,1.0,Very poor,Smartphone,4.0,1.0,8.0,1.0,Youtube,0.0,4,Remain Constant,NO,Sleeping,NO,YES,Education,Pre-Teens
+113,R114,Outside Delhi-NCR,14,5.0,Average,Laptop/Desktop,4.0,1.0,7.0,4.0,Instagram,1.0,5,Increased,NO,Social Media,NO,NO,Social Interactions,Pre-Teens
+114,R115,Delhi-NCR,18,2.0,Very poor,Smartphone,3.0,1.0,10.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Gaming,NO,YES,Education,Pre-Teens
+115,R116,Delhi-NCR,18,3.0,Very poor,Smartphone,6.0,0.0,7.0,3.0,Youtube,1.0,3,Remain Constant,NO,Reading books,YES,NO,Education,Pre-Teens
+116,R117,Outside Delhi-NCR,24,4.0,Excellent,Laptop/Desktop,8.0,1.0,8.0,2.0,Youtube,2.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+117,R118,Outside Delhi-NCR,14,3.0,Good,Smartphone,5.0,1.0,12.0,0.3,Instagram,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Social Interactions,Pre-Teens
+118,R119,Outside Delhi-NCR,21,4.0,Good,Laptop/Desktop,2.0,2.0,7.0,2.0,Instagram,1.0,3,Increased,NO,Exercise,YES,YES,Travel and Exploration,Young Adults
+119,R120,Delhi-NCR,19,2.0,Average,Smartphone,6.0,1.0,6.0,1.0,Instagram,0.0,3,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+120,R121,Delhi-NCR,18,2.5,Average,Smartphone,2.0,1.0,8.0,1.0,Youtube,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Pre-Teens
+121,R122,Outside Delhi-NCR,23,6.0,Average,Laptop/Desktop,5.0,1.0,6.0,1.0,Linkedin,0.0,3,Remain Constant,NO,Meditation,YES,YES,Education,Young Adults
+122,R123,Outside Delhi-NCR,21,4.0,Average,Smartphone,4.0,1.0,8.0,1.0,Youtube,0.0,3,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Young Adults
+123,R124,Delhi-NCR,18,5.0,Very poor,Smartphone,3.0,0.0,9.0,7.0,WhatsApp,0.0,3,Increased,NO,Watching videos,YES,NO,Personal Exploration,Pre-Teens
+124,R125,Delhi-NCR,19,1.0,Very poor,Smartphone,2.0,0.0,7.0,1.0,WhatsApp,0.0,2,Increased,YES,Sleeping,NO,NO,Education,Pre-Teens
+125,R126,Outside Delhi-NCR,20,5.0,Average,Smartphone,4.0,1.0,7.0,2.0,WhatsApp,1.0,3,Increased,NO,Meditation,YES,YES,Education,Young Adults
+126,R127,Delhi-NCR,20,2.0,Average,Smartphone,3.0,0.5,6.5,1.0,WhatsApp,0.5,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+127,R128,Delhi-NCR,19,2.0,Very poor,Smartphone,4.0,1.0,8.0,2.0,Youtube,0.0,4,Decreased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Pre-Teens
+128,R129,Outside Delhi-NCR,15,1.0,Good,Smartphone,3.0,1.0,6.0,4.0,WhatsApp,1.5,4,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+129,R130,Delhi-NCR,19,0.0,NA,,1.0,3.0,8.0,5.0,Instagram,1.0,1,Decreased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Pre-Teens
+130,R131,Outside Delhi-NCR,20,3.0,Very poor,Smartphone,3.0,0.0,9.0,2.0,Youtube,2.0,2,Decreased,NO,Meditation,YES,YES,Travel and Exploration,Young Adults
+131,R132,Delhi-NCR,17,6.0,Average,Laptop/Desktop,4.0,1.0,8.0,1.0,Youtube,1.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+132,R133,Delhi-NCR,18,2.0,Very poor,Smartphone,2.0,1.0,9.0,2.0,Linkedin,2.0,2,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Pre-Teens
+133,R134,Delhi-NCR,20,2.0,Very poor,Smartphone,4.0,0.0,10.0,4.0,WhatsApp,2.0,3,Decreased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+134,R135,Delhi-NCR,18,5.0,Average,Smartphone,1.0,1.0,8.0,1.0,Youtube,0.0,4,Increased,NO,Sleeping,YES,YES,Personal Exploration,Pre-Teens
+135,R136,Delhi-NCR,22,0.1,Poor,Smartphone,2.5,1.0,12.0,0.3,Youtube,0.0,5,Increased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+136,R137,Delhi-NCR,18,3.0,Very poor,Smartphone,5.0,1.0,7.0,2.0,Youtube,0.0,3,Remain Constant,NO,Gaming,NO,YES,Personal Exploration,Pre-Teens
+137,R138,Delhi-NCR,15,4.0,Average,Smartphone,2.0,0.5,6.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Exercise,NO,YES,Dining and Entertainment,Pre-Teens
+138,R139,Outside Delhi-NCR,22,1.0,Very poor,Laptop/Desktop,10.0,1.0,7.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+139,R140,Delhi-NCR,19,3.0,Very poor,Laptop/Desktop,2.0,1.0,9.0,1.0,Youtube,0.0,3,Decreased,NO,Gaming,NO,YES,Education,Pre-Teens
+140,R141,Delhi-NCR,20,3.0,Very poor,Smartphone,5.0,0.0,7.0,2.0,Instagram,1.0,2,Remain Constant,YES,Watching videos,YES,YES,Education,Young Adults
+141,R142,Outside Delhi-NCR,20,3.0,Very poor,Smartphone,3.0,0.0,9.0,2.0,Youtube,2.0,2,Decreased,NO,Meditation,YES,YES,Travel and Exploration,Young Adults
+142,R143,Delhi-NCR,20,1.0,Very poor,Smartphone,1.0,0.0,6.0,0.0,None,0.0,2,Increased,NO,Sleeping,YES,YES,Education,Young Adults
+143,R144,Delhi-NCR,18,2.0,Poor,Smartphone,6.0,1.0,7.0,1.0,Youtube,1.0,2,Increased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+144,R145,Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,2.0,8.0,2.0,Youtube,3.0,2,Increased,NO,Watching videos,YES,YES,Dining and Entertainment,Pre-Teens
+145,R146,Outside Delhi-NCR,14,4.0,Average,Smartphone,2.0,1.0,8.0,2.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Pre-Teens
+146,R147,Delhi-NCR,20,6.0,Average,Laptop/Desktop,1.0,1.0,6.0,1.0,Linkedin,0.0,3,Increased,YES,Communication with others,YES,YES,Education,Young Adults
+147,R148,Delhi-NCR,20,3.0,Average,Laptop/Desktop,2.0,1.0,8.0,2.0,Linkedin,2.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+148,R149,Delhi-NCR,19,6.0,Very poor,Smartphone,3.0,0.0,7.0,2.0,WhatsApp,0.5,2,Increased,YES,Gaming,NO,YES,Social Interactions,Pre-Teens
+149,R150,Delhi-NCR,19,1.0,Average,Laptop/Desktop,1.0,1.0,10.0,1.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Pre-Teens
+150,R151,Delhi-NCR,18,2.0,Very poor,Smartphone,2.0,1.0,10.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Dining and Entertainment,Pre-Teens
+151,R152,Outside Delhi-NCR,21,4.0,Very poor,Smartphone,4.0,1.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Sleeping,NO,YES,Personal Exploration,Young Adults
+152,R153,Outside Delhi-NCR,15,4.0,Average,Smartphone,7.0,2.0,6.0,1.0,Instagram,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+153,R154,Delhi-NCR,20,5.0,Very poor,Tablet,3.0,1.0,8.0,2.0,WhatsApp,3.0,4,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+154,R155,Outside Delhi-NCR,21,1.0,Very poor,Smartphone,3.0,0.0,6.0,1.0,Instagram,1.0,1,Decreased,YES,Reading books,NO,YES,Dining and Entertainment,Young Adults
+155,R156,Delhi-NCR,19,0.5,Very poor,Smartphone,7.0,2.0,7.0,0.1,Instagram,0.0,4,Remain Constant,YES,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+156,R157,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,1.0,0.0,6.0,2.0,Facebook,0.0,2,Increased,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+157,R158,Delhi-NCR,21,5.0,Average,Smartphone,1.0,0.0,5.0,1.0,WhatsApp,0.0,2,Decreased,NO,Gaming,NO,NO,Travel and Exploration,Young Adults
+158,R159,Delhi-NCR,21,4.0,Excellent,Laptop/Desktop,6.0,2.0,6.0,1.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Young Adults
+159,R160,Delhi-NCR,21,3.0,Very poor,Smartphone,2.0,0.0,7.0,2.0,Twitter,0.0,3,Increased,YES,Reading books,NO,YES,Education,Young Adults
+160,R161,Delhi-NCR,20,4.0,Average,Laptop/Desktop,2.0,0.0,7.0,2.0,Snapchat,4.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Young Adults
+161,R162,Outside Delhi-NCR,20,6.0,Very poor,Smartphone,3.0,0.0,8.0,4.0,Linkedin,2.0,3,Increased,YES,Sleeping,NO,YES,Education,Young Adults
+162,R163,Outside Delhi-NCR,23,0.0,Very poor,Laptop/Desktop,1.0,0.0,10.0,4.0,Linkedin,0.0,4,Increased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+163,R164,Outside Delhi-NCR,21,4.0,Very poor,Smartphone,3.0,1.0,8.0,1.0,Youtube,1.0,3,Remain Constant,YES,Gaming,NO,YES,Social Interactions,Young Adults
+164,R165,Delhi-NCR,22,1.0,Very poor,Smartphone,4.0,1.0,7.0,2.0,Linkedin,0.0,2,Increased,YES,Watching videos,NO,NO,Personal Exploration,Young Adults
+165,R166,Delhi-NCR,23,3.0,Good,Tablet,0.0,0.0,12.0,4.0,Instagram,0.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+166,R167,Delhi-NCR,22,4.0,Good,Smartphone,4.0,0.5,8.0,2.0,WhatsApp,0.0,3,Increased,NO,Sleeping,YES,NO,Education,Young Adults
+167,R168,Outside Delhi-NCR,21,0.0,Very poor,Smartphone,1.0,0.0,7.0,10.0,WhatsApp,0.0,7,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+168,R169,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,3.0,2.0,12.0,1.0,Instagram,0.0,3,Increased,NO,Social Media,NO,NO,Education,Young Adults
+169,R170,Outside Delhi-NCR,15,4.0,Average,Smartphone,2.0,3.0,7.0,1.0,Instagram,2.0,4,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+170,R171,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,3.0,2.0,8.0,2.0,WhatsApp,1.0,3,Remain Constant,YES,Leisure and Entertainment,YES,YES,Education,Young Adults
+171,R172,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,1.0,0.0,8.0,0.5,WhatsApp,1.0,3,Decreased,YES,Reading books,NO,YES,Personal Exploration,Young Adults
+172,R173,Outside Delhi-NCR,16,4.0,Excellent,Laptop/Desktop,3.0,2.0,10.0,1.0,Youtube,1.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+173,R174,Outside Delhi-NCR,22,1.0,Average,Smartphone,3.0,1.0,7.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Sleeping,NO,YES,Education,Young Adults
+174,R175,Delhi-NCR,20,5.0,Average,Laptop/Desktop,4.0,0.0,10.0,2.0,Linkedin,4.0,3,Decreased,NO,Sleeping,YES,YES,Personal Exploration,Young Adults
+175,R176,Outside Delhi-NCR,21,0.0,Good,Smartphone,4.0,1.0,8.0,2.0,Instagram,0.0,2,Decreased,YES,Gaming,YES,YES,Social Interactions,Young Adults
+176,R177,Outside Delhi-NCR,34,3.0,Good,Laptop/Desktop,3.0,1.0,7.0,1.0,WhatsApp,2.0,3,Remain Constant,NO,Sleeping,YES,YES,Travel and Exploration,Adults
+177,R178,Outside Delhi-NCR,22,0.0,Average,Laptop/Desktop,3.0,1.0,9.0,0.0,Telegram,2.0,5,Decreased,NO,Watching videos,NO,YES,Personal Exploration,Young Adults
+178,R179,Delhi-NCR,22,6.0,Good,Laptop/Desktop,2.0,1.0,8.0,4.0,Instagram,0.0,4,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Young Adults
+179,R180,Outside Delhi-NCR,21,1.0,Average,Laptop/Desktop,1.0,2.0,7.0,2.0,Youtube,1.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+180,R181,Outside Delhi-NCR,20,1.0,Very poor,Smartphone,2.0,1.0,8.0,3.0,WhatsApp,0.0,3,Remain Constant,NO,Watching videos,YES,NO,Social Interactions,Young Adults
+181,R182,Outside Delhi-NCR,21,3.0,Average,Smartphone,0.5,3.0,6.0,2.0,Instagram,0.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Young Adults
+182,R183,Outside Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,1.0,8.0,2.0,Instagram,2.0,3,Increased,YES,Leisure and Entertainment,YES,YES,Personal Exploration,Pre-Teens
+183,R184,Outside Delhi-NCR,22,1.0,Very poor,Smartphone,7.0,0.0,7.0,1.0,Facebook,0.0,3,Remain Constant,NO,Communication with others,YES,YES,Social Interactions,Young Adults
+184,R185,Outside Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,1.5,1.0,6.0,2.0,Reddit,1.5,2,Decreased,YES,Watching videos,NO,NO,Social Interactions,Young Adults
+185,R186,Outside Delhi-NCR,14,4.0,Very poor,Smartphone,1.0,0.0,9.0,1.5,WhatsApp,5.0,3,Remain Constant,NO,Reading books,NO,YES,Social Interactions,Pre-Teens
+186,R187,Delhi-NCR,22,1.0,Average,Smartphone,4.0,0.5,11.0,1.0,Instagram,0.0,3,Remain Constant,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+187,R188,Outside Delhi-NCR,22,2.0,Average,Laptop/Desktop,5.0,0.0,8.0,3.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+188,R189,Delhi-NCR,19,2.0,Poor,Smartphone,10.0,0.25,8.0,2.0,Instagram,0.0,3,Increased,NO,Communication with others,YES,YES,Education,Pre-Teens
+189,R190,Outside Delhi-NCR,21,1.0,Average,Smartphone,0.0,1.0,6.0,2.0,WhatsApp,0.0,2,Decreased,NO,Gaming,NO,YES,Education,Young Adults
+190,R191,Outside Delhi-NCR,15,5.0,Average,Smartphone,5.0,0.0,7.0,3.0,Instagram,2.0,3,Remain Constant,NO,Watching videos,NO,YES,Education,Pre-Teens
+191,R192,Outside Delhi-NCR,21,3.0,Good,Laptop/Desktop,3.0,0.5,8.0,4.0,Youtube,0.0,3,Remain Constant,NO,Watching videos,NO,YES,Social Interactions,Young Adults
+192,R193,Delhi-NCR,21,3.0,Very poor,Smartphone,8.0,3.0,7.0,3.0,Youtube,0.0,3,Decreased,YES,Communication with others,NO,NO,Education,Young Adults
+193,R194,Outside Delhi-NCR,34,3.0,Average,Laptop/Desktop,3.0,1.0,8.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+194,R195,Outside Delhi-NCR,22,3.0,Very poor,Laptop/Desktop,0.0,5.0,8.0,10.0,Twitter,0.0,3,Remain Constant,NO,Communication with others,NO,YES,Social Interactions,Young Adults
+195,R196,Outside Delhi-NCR,34,1.5,Poor,Laptop/Desktop,1.0,0.0,6.0,1.0,Linkedin,0.0,2,Remain Constant,YES,Gaming,NO,NO,Family and Activities,Adults
+196,R197,Delhi-NCR,21,4.0,Good,Laptop/Desktop,4.0,1.0,7.0,2.0,Instagram,2.0,3,Remain Constant,NO,Communication with others,YES,YES,Social Interactions,Young Adults
+197,R198,Outside Delhi-NCR,20,3.0,Average,Laptop/Desktop,3.0,1.0,7.0,1.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+198,R199,Outside Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,5.0,0.0,7.5,2.0,WhatsApp,0.5,4,Increased,NO,Sleeping,YES,NO,Education,Young Adults
+199,R200,Outside Delhi-NCR,25,2.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,4.0,Facebook,1.0,2,Increased,NO,Watching videos,NO,NO,Personal Exploration,Young Adults
+200,R201,Outside Delhi-NCR,19,0.5,Very poor,Smartphone,3.0,1.0,8.0,1.0,Instagram,0.0,2,Remain Constant,NO,Sleeping,YES,YES,Education,Pre-Teens
+201,R202,Delhi-NCR,26,5.0,Average,Laptop/Desktop,10.0,1.0,8.0,1.0,Youtube,0.5,2,Remain Constant,NO,Meditation,YES,YES,Personal Exploration,Young Adults
+202,R203,Outside Delhi-NCR,20,3.0,Good,Laptop/Desktop,4.0,0.0,8.0,2.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+203,R204,Delhi-NCR,24,7.0,Very poor,Laptop/Desktop,7.0,2.0,7.0,2.0,Youtube,0.0,3,Remain Constant,NO,Reading books,YES,YES,Travel and Exploration,Young Adults
+204,R205,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,0.0,2.0,12.0,6.0,Facebook,0.0,4,Increased,NO,Watching videos,NO,NO,Travel and Exploration,Young Adults
+205,R206,Delhi-NCR,20,5.0,Good,Smartphone,2.5,1.0,9.0,3.0,Instagram,0.5,2,Remain Constant,NO,Exercise,YES,YES,Education,Young Adults
+206,R207,Delhi-NCR,16,7.0,Average,Tablet,4.0,1.0,7.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Reading books,YES,YES,All Options,Pre-Teens
+207,R208,Delhi-NCR,17,6.0,Average,Laptop/Desktop,1.0,0.0,7.0,2.0,Reddit,0.0,2,Remain Constant,NO,Gaming,YES,NO,Social Interactions,Pre-Teens
+208,R209,Delhi-NCR,59,3.0,Average,Smartphone,6.0,1.0,9.0,0.5,WhatsApp,1.0,2,Increased,NO,Sleeping,YES,YES,Education,Middle-Aged Adults
+209,R210,Delhi-NCR,17,7.0,Good,Smartphone,4.0,0.0,7.0,1.0,WhatsApp,1.0,2,Increased,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+210,R211,Delhi-NCR,16,6.0,Very poor,Smartphone,5.0,0.0,7.0,2.0,Youtube,0.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+211,R212,Outside Delhi-NCR,20,3.0,Average,Laptop/Desktop,4.0,1.0,7.0,2.0,Linkedin,2.0,3,Remain Constant,NO,Communication with others,YES,NO,Education,Young Adults
+212,R214,Delhi-NCR,17,6.0,Very poor,Smartphone,1.5,2.0,7.0,2.0,Instagram,0.5,4,Increased,NO,Exercise,YES,NO,Travel and Exploration,Pre-Teens
+213,R215,Delhi-NCR,17,6.0,Average,Laptop/Desktop,5.0,0.5,7.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Dining and Entertainment,Pre-Teens
+214,R216,Delhi-NCR,20,3.0,Good,Laptop/Desktop,4.0,0.0,7.0,4.0,WhatsApp,0.0,2,Remain Constant,YES,Social Media,YES,YES,Social Interactions,Young Adults
+215,R217,Outside Delhi-NCR,17,6.0,Average,Tablet,2.0,1.0,7.0,1.0,WhatsApp,1.0,4,Remain Constant,NO,Reading books,NO,YES,Social Interactions,Pre-Teens
+216,R218,Delhi-NCR,20,4.0,Very poor,Smartphone,2.0,0.0,7.0,0.5,WhatsApp,0.5,3,Increased,NO,Sleeping,NO,NO,Education,Young Adults
+217,R219,Outside Delhi-NCR,16,8.0,Good,Laptop/Desktop,7.0,0.0,6.0,1.0,WhatsApp,0.5,3,Remain Constant,NO,Social Media,NO,NO,Travel and Exploration,Pre-Teens
+218,R220,Delhi-NCR,19,0.5,Very poor,Smartphone,5.0,0.5,10.0,1.0,WhatsApp,1.0,2,Remain Constant,YES,Meditation,YES,NO,Education,Pre-Teens
+219,R221,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,2.0,0.0,10.0,3.0,Instagram,2.0,4,Increased,NO,Sleeping,NO,YES,Social Interactions,Young Adults
+220,R222,Outside Delhi-NCR,22,4.0,Average,Laptop/Desktop,3.0,1.0,8.0,3.0,WhatsApp,0.0,4,Increased,NO,Gaming,YES,NO,Travel and Exploration,Young Adults
+221,R223,Outside Delhi-NCR,17,9.0,Poor,Laptop/Desktop,3.0,0.0,5.0,0.5,Instagram,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,All Options,Pre-Teens
+222,R224,Delhi-NCR,23,1.0,Very poor,Smartphone,8.0,2.0,8.0,2.0,Instagram,2.0,3,Decreased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+223,R225,Outside Delhi-NCR,22,0.0,Very poor,Laptop/Desktop,3.0,0.0,10.0,8.0,Instagram,0.0,2,Increased,YES,Watching videos,YES,YES,Social Interactions,Young Adults
+224,R226,Delhi-NCR,22,1.5,Average,Laptop/Desktop,0.0,0.0,9.0,6.0,Instagram,2.0,3,Increased,NO,Social Media,YES,YES,Education,Young Adults
+225,R227,Outside Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,1.0,8.0,2.0,WhatsApp,1.0,3,Decreased,YES,Social Media,NO,YES,Personal Exploration,Pre-Teens
+226,R228,Delhi-NCR,19,2.0,Very poor,Smartphone,5.0,1.0,9.0,2.0,Twitter,0.0,4,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+227,R229,Outside Delhi-NCR,23,1.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,5.0,WhatsApp,0.0,4,Increased,NO,Communication with others,NO,YES,Dining and Entertainment,Young Adults
+228,R230,Outside Delhi-NCR,32,4.0,Good,Laptop/Desktop,5.0,2.0,5.0,3.0,Facebook,0.0,3,Remain Constant,NO,Reading books,YES,YES,Social Interactions,Adults
+229,R231,Delhi-NCR,17,6.0,Average,Smartphone,12.0,1.0,8.0,2.0,WhatsApp,3.0,4,Remain Constant,NO,Sleeping,NO,NO,Travel and Exploration,Pre-Teens
+230,R232,Delhi-NCR,21,0.0,NA,,10.0,1.0,5.0,0.5,Linkedin,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Technology and Media,Young Adults
+231,R233,Delhi-NCR,22,4.0,Average,Laptop/Desktop,3.0,2.0,8.0,2.0,WhatsApp,0.5,4,Increased,NO,Sleeping,YES,YES,Personal Exploration,Young Adults
+232,R234,Outside Delhi-NCR,17,6.0,Very poor,Any Gadget,4.0,2.5,8.0,0.5,Instagram,0.0,3,Remain Constant,NO,Reading books,YES,YES,Education,Pre-Teens
+233,R235,Outside Delhi-NCR,17,5.0,Average,Laptop/Desktop,1.5,2.0,8.0,1.0,Youtube,3.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+234,R236,Delhi-NCR,22,5.0,Good,Laptop/Desktop,10.0,1.0,6.0,1.0,Elyment,0.0,3,Remain Constant,YES,Gaming,YES,YES,Education,Young Adults
+235,R237,Outside Delhi-NCR,18,2.0,Very poor,Smartphone,2.0,2.0,9.0,4.0,Youtube,0.0,3,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+236,R238,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,12.0,0.0,7.0,1.0,Reddit,0.0,3,Increased,NO,Reading books,NO,YES,Personal Exploration,Young Adults
+237,R239,Outside Delhi-NCR,30,3.0,Average,Smartphone,1.0,0.5,4.0,1.0,WhatsApp,0.5,2,Remain Constant,NO,Meditation,YES,YES,Education,Adults
+238,R240,Delhi-NCR,19,1.0,Average,Laptop/Desktop,1.0,0.0,8.0,1.0,Youtube,2.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Dining and Entertainment,Pre-Teens
+239,R241,Outside Delhi-NCR,14,3.0,Good,Laptop/Desktop,2.0,0.0,8.0,1.0,WhatsApp,1.0,1,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+240,R242,Outside Delhi-NCR,19,0.0,NA,,2.0,1.0,8.0,4.0,Instagram,0.0,3,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+241,R243,Outside Delhi-NCR,16,7.0,Average,Smartphone,3.0,2.0,11.0,1.5,Instagram,1.0,3,Decreased,YES,Gaming,NO,YES,Education,Pre-Teens
+242,R244,Delhi-NCR,17,6.0,Average,Smartphone,2.0,1.0,9.0,3.0,Instagram,0.5,3,Remain Constant,NO,Sleeping,NO,YES,Social Interactions,Pre-Teens
+243,R245,Delhi-NCR,20,1.0,Very poor,Tablet,2.0,2.0,8.0,1.0,Youtube,0.0,2,Decreased,NO,Reading books,NO,YES,Education,Young Adults
+244,R246,Delhi-NCR,17,4.0,Good,Smartphone,2.0,0.0,7.0,3.0,Instagram,2.0,4,Increased,NO,Social Media,YES,YES,Education,Pre-Teens
+245,R247,Delhi-NCR,20,6.0,Average,Any Gadget,2.0,0.0,6.0,4.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+246,R249,Outside Delhi-NCR,17,5.0,Average,Smartphone,4.0,2.0,7.0,2.0,Youtube,2.0,2,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+247,R250,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,2.0,0.0,7.0,2.0,Facebook,2.0,3,Remain Constant,NO,Gaming,YES,NO,Entertainment,Young Adults
+248,R251,Delhi-NCR,16,4.0,Poor,Laptop/Desktop,0.0,0.0,9.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+249,R252,Delhi-NCR,21,5.0,Average,Smartphone,2.0,2.0,6.0,5.0,Instagram,0.0,3,Increased,NO,Social Media,NO,YES,Personal Exploration,Young Adults
+250,R253,Delhi-NCR,18,0.0,NA,,8.0,0.5,5.0,3.0,Linkedin,1.0,3,Remain Constant,NO,Exercise,YES,YES,Travel and Exploration,Pre-Teens
+251,R254,Outside Delhi-NCR,20,4.0,Good,Laptop/Desktop,5.0,1.0,7.0,0.1,WhatsApp,0.0,4,Remain Constant,NO,Reading books,NO,NO,Education,Young Adults
+252,R255,Outside Delhi-NCR,14,4.0,Average,Smartphone,4.0,0.0,8.0,2.0,Instagram,2.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+253,R256,Delhi-NCR,19,3.0,Good,Laptop/Desktop,2.0,0.0,8.0,5.0,Youtube,1.5,3,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+254,R257,Delhi-NCR,18,0.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,4.0,Facebook,1.0,3,Increased,NO,Watching videos,NO,YES,Social Interactions,Pre-Teens
+255,R258,Outside Delhi-NCR,13,5.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,10.0,WhatsApp,0.0,3,Decreased,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+256,R259,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,8.0,0.0,6.0,1.0,Instagram,0.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Young Adults
+257,R260,Outside Delhi-NCR,19,0.0,Very poor,Laptop/Desktop,4.0,0.3,8.0,2.0,WhatsApp,0.0,2,Remain Constant,NO,Communication with others,NO,NO,Education,Pre-Teens
+258,R261,Outside Delhi-NCR,15,5.0,Average,Smartphone,1.0,0.0,7.0,1.0,Youtube,1.5,3,Remain Constant,NO,Gaming,NO,YES,Education,Pre-Teens
+259,R262,Outside Delhi-NCR,20,1.0,Very poor,Smartphone,0.0,0.0,10.0,5.0,Youtube,1.0,2,Increased,YES,Sleeping,NO,YES,Education,Young Adults
+260,R263,Delhi-NCR,19,0.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,4.0,Twitter,2.0,3,Increased,NO,Watching videos,NO,NO,Social Interactions,Pre-Teens
+261,R264,Outside Delhi-NCR,21,3.0,Good,Laptop/Desktop,3.0,1.0,6.0,0.5,WhatsApp,0.5,2,Increased,YES,Leisure and Entertainment,YES,NO,Travel and Exploration,Young Adults
+262,R265,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,4.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+263,R266,Delhi-NCR,20,4.0,Good,Laptop/Desktop,5.0,1.0,6.0,2.0,Youtube,0.5,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+264,R267,Outside Delhi-NCR,16,6.0,Good,Laptop/Desktop,3.0,0.0,7.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+265,R268,Delhi-NCR,21,2.0,Poor,Laptop/Desktop,2.0,1.0,5.0,3.0,WhatsApp,1.0,3,Remain Constant,NO,Reading books,YES,YES,Personal Exploration,Young Adults
+266,R269,Delhi-NCR,17,5.5,Good,Smartphone,5.0,1.0,9.0,1.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+267,R270,Delhi-NCR,21,0.0,Average,Laptop/Desktop,12.0,0.0,7.0,3.0,Youtube,0.0,3,Remain Constant,NO,Reading books,YES,YES,Personal Reflection,Young Adults
+268,R271,Delhi-NCR,20,0.0,Good,Smartphone,0.0,0.0,7.5,3.5,Youtube,2.0,3,Remain Constant,NO,Sports and games,YES,YES,Personal Reflection,Young Adults
+269,R272,Delhi-NCR,21,4.0,Average,Laptop/Desktop,2.0,1.0,8.0,3.0,Instagram,0.0,2,Remain Constant,NO,Gaming,NO,NO,Dining and Entertainment,Young Adults
+270,R273,Delhi-NCR,20,3.0,Very poor,Smartphone,5.0,1.0,7.0,1.0,WhatsApp,0.0,3,Increased,NO,Sleeping,NO,YES,Personal Exploration,Young Adults
+271,R274,Outside Delhi-NCR,16,4.0,Poor,Smartphone or Laptop/Desktop,2.5,0.5,6.0,0.5,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education and Social Interactions,Pre-Teens
+272,R275,Outside Delhi-NCR,19,0.0,Very poor,Laptop/Desktop,8.0,1.0,8.0,2.0,WhatsApp,0.0,2,Increased,YES,Leisure and Entertainment,YES,YES,Personal Exploration,Pre-Teens
+273,R276,Delhi-NCR,19,1.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,3.0,Instagram,3.0,3,Increased,YES,Leisure and Entertainment,YES,YES,Personal Exploration,Pre-Teens
+274,R278,Outside Delhi-NCR,19,1.0,Excellent,Laptop/Desktop,1.0,3.0,9.0,2.0,Youtube,0.0,5,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Pre-Teens
+275,R279,Delhi-NCR,20,2.0,Good,Laptop/Desktop,1.0,0.0,10.0,1.0,WhatsApp,0.0,2,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Young Adults
+276,R280,Delhi-NCR,19,2.0,Average,Smartphone,3.0,1.0,9.0,3.0,WhatsApp,3.0,3,Increased,NO,Sleeping,NO,YES,Education,Pre-Teens
+277,R281,Outside Delhi-NCR,17,7.0,Average,Laptop/Desktop,2.0,0.0,6.0,2.0,Youtube,2.0,2,Increased,NO,Sleeping,YES,YES,Education,Pre-Teens
+278,R282,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,3.0,WhatsApp,5.0,3,Decreased,NO,Watching videos,NO,NO,Personal Exploration,Young Adults
+279,R283,Outside Delhi-NCR,17,6.0,Good,Smartphone,4.0,0.0,7.0,1.0,WhatsApp,2.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+280,R285,Delhi-NCR,25,5.0,Average,Laptop/Desktop,6.0,0.0,8.0,1.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+281,R286,Delhi-NCR,19,3.0,Average,Laptop/Desktop,6.0,0.5,8.0,0.6,Linkedin,1.5,4,Increased,NO,Reading books,YES,YES,Education,Pre-Teens
+282,R287,Delhi-NCR,16,5.0,Very poor,Smartphone,2.0,1.0,8.0,2.0,WhatsApp,0.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+283,R288,Delhi-NCR,17,7.0,Good,Smartphone,5.0,0.5,7.0,2.0,WhatsApp,2.0,3,Increased,NO,Gaming,NO,NO,All Options,Pre-Teens
+284,R289,Delhi-NCR,18,1.0,Average,Smartphone,2.0,0.0,10.0,1.0,Instagram,0.5,2,Remain Constant,NO,Reading books,NO,NO,Personal Exploration,Pre-Teens
+285,R290,Outside Delhi-NCR,20,5.0,Excellent,Laptop/Desktop,1.0,1.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Young Adults
+286,R291,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,9.0,1.0,6.0,1.0,WhatsApp,0.0,1,Increased,NO,Meditation,NO,YES,Personal Exploration,Young Adults
+287,R292,Delhi-NCR,20,1.0,Very poor,Laptop/Desktop,3.0,1.0,9.0,4.0,Instagram,0.0,2,Increased,NO,Social Media,YES,YES,Education,Young Adults
+288,R293,Delhi-NCR,22,3.0,Average,Smartphone,3.0,0.0,8.0,2.0,Instagram,1.0,3,Increased,NO,Communication with others,NO,NO,Education,Young Adults
+289,R294,Outside Delhi-NCR,16,7.0,Excellent,Tablet,2.0,1.0,6.0,2.0,WhatsApp,0.0,3,Decreased,NO,Gaming,YES,NO,Education,Pre-Teens
+290,R295,Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,1.0,1.0,7.0,5.0,Instagram,1.0,4,Remain Constant,NO,Communication with others,NO,YES,Social Interactions,Pre-Teens
+291,R296,Outside Delhi-NCR,17,9.0,Average,Laptop/Desktop,5.0,1.0,6.0,1.0,Youtube,0.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Travel and Exploration,Pre-Teens
+292,R297,Outside Delhi-NCR,20,0.0,Average,Laptop/Desktop,1.0,0.0,9.0,5.0,WhatsApp,2.0,4,Remain Constant,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+293,R298,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,6.0,0.0,6.0,4.0,Youtube,2.0,3,Increased,NO,Meditation,NO,YES,Personal Exploration,Young Adults
+294,R299,Outside Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,1.0,Instagram,2.0,4,Remain Constant,NO,Watching videos,YES,YES,Travel and Exploration,Pre-Teens
+295,R301,Delhi-NCR,17,8.0,Very poor,Smartphone,2.0,1.0,9.0,0.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,All Options,Pre-Teens
+296,R302,Outside Delhi-NCR,25,1.0,Average,Laptop/Desktop,3.0,1.0,7.0,3.0,WhatsApp,2.0,3,Increased,NO,Reading books,NO,YES,Travel and Exploration,Young Adults
+297,R303,Delhi-NCR,20,3.0,Average,Smartphone,2.0,0.5,8.0,3.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+298,R304,Outside Delhi-NCR,21,0.0,Very poor,,1.0,0.0,10.0,3.0,Instagram,2.0,3,Remain Constant,NO,Watching videos,NO,NO,Personal Exploration,Young Adults
+299,R305,Outside Delhi-NCR,19,5.0,Excellent,Smartphone,5.0,1.0,7.0,2.0,Youtube,3.0,3,Increased,NO,Sleeping,NO,YES,Travel and Exploration,Pre-Teens
+300,R306,Delhi-NCR,23,5.0,Average,Smartphone,5.0,1.0,8.0,1.0,WhatsApp,2.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+301,R307,Outside Delhi-NCR,22,2.0,Average,Laptop/Desktop,8.0,1.0,8.0,2.0,Linkedin,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Young Adults
+302,R308,Outside Delhi-NCR,22,4.0,Average,Laptop/Desktop,1.0,1.0,8.0,4.0,Youtube,1.0,3,Increased,NO,Gaming,YES,NO,Personal Exploration,Young Adults
+303,R309,Outside Delhi-NCR,18,0.0,NA,,1.0,1.0,12.0,4.0,Instagram,0.0,3,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+304,R310,Delhi-NCR,21,3.0,Average,Laptop/Desktop,3.0,2.0,6.5,2.0,Youtube,2.0,2,Increased,NO,Social Media,NO,YES,Social Interactions,Young Adults
+305,R311,Outside Delhi-NCR,22,1.0,Average,Smartphone,3.0,1.0,8.0,1.0,Instagram,0.0,2,Decreased,YES,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+306,R312,Outside Delhi-NCR,24,3.0,Very poor,Laptop/Desktop,4.0,0.0,6.0,3.0,WhatsApp,4.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+307,R313,Delhi-NCR,14,3.0,Average,Tablet,6.0,3.0,7.0,3.0,Instagram,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,All Options,Pre-Teens
+308,R314,Outside Delhi-NCR,16,4.0,Very poor,Smartphone,3.0,0.0,8.0,4.0,Youtube,0.0,4,Remain Constant,NO,No stress,YES,NO,Personal Reflection,Pre-Teens
+309,R315,Delhi-NCR,19,1.0,Average,Laptop/Desktop,3.0,2.0,7.0,1.0,Instagram,2.0,2,Remain Constant,YES,Gaming,NO,NO,Education,Pre-Teens
+310,R316,Outside Delhi-NCR,21,5.0,Very poor,Laptop/Desktop,3.0,2.0,10.0,6.0,Youtube,1.0,3,Increased,YES,Gaming,YES,NO,Dining and Entertainment,Young Adults
+311,R317,Delhi-NCR,17,2.0,Average,Laptop/Desktop,5.0,0.0,8.0,4.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Dining and Entertainment,Pre-Teens
+312,R318,Delhi-NCR,16,4.0,Good,Smartphone,2.0,0.5,9.0,1.0,Instagram,0.1,3,Increased,NO,Sleeping,NO,YES,Social Interactions,Pre-Teens
+313,R320,Delhi-NCR,29,8.0,Good,Laptop/Desktop,2.0,1.0,8.0,0.5,Instagram,2.0,4,Remain Constant,NO,Watching videos,NO,NO,Travel and Exploration,Young Adults
+314,R321,Outside Delhi-NCR,26,1.0,Good,Laptop/Desktop,4.0,0.0,6.0,6.0,Facebook,4.0,3,Remain Constant,NO,Communication with others,NO,YES,Travel and Exploration,Young Adults
+315,R322,Delhi-NCR,21,5.0,Very poor,Smartphone,2.0,1.0,12.0,2.0,Instagram,1.0,4,Increased,NO,Leisure and Entertainment,YES,NO,Education,Young Adults
+316,R323,Outside Delhi-NCR,18,0.0,Very poor,Smartphone,0.0,2.0,7.0,6.0,Instagram,0.0,4,Increased,NO,Work,YES,YES,Social Interactions,Pre-Teens
+317,R324,Delhi-NCR,19,3.0,Very poor,Smartphone,0.0,0.0,12.0,5.0,Instagram,0.0,3,Decreased,NO,Gaming,NO,NO,Dining and Entertainment,Pre-Teens
+318,R325,Delhi-NCR,21,2.0,Average,Laptop/Desktop,2.0,1.0,10.0,2.0,Youtube,0.25,3,Remain Constant,NO,Sleeping,YES,NO,Education,Young Adults
+319,R326,Delhi-NCR,12,1.0,Good,Laptop/Desktop,3.0,2.0,8.0,2.0,Youtube,1.0,4,Increased,NO,Reading books,YES,YES,Social Interactions,Children
+320,R327,Delhi-NCR,26,0.0,Very poor,Smartphone,1.0,1.0,7.0,1.0,WhatsApp,2.0,2,Decreased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+321,R328,Outside Delhi-NCR,20,6.0,Very poor,Laptop/Desktop,6.0,0.0,6.0,3.0,WhatsApp,0.0,4,Increased,NO,Reading books,NO,YES,Education,Young Adults
+322,R329,Delhi-NCR,16,4.0,Very poor,Smartphone,2.0,1.0,9.0,2.0,Youtube,1.0,2,Decreased,NO,Many options,NO,NO,Travel and Exploration,Pre-Teens
+323,R330,Delhi-NCR,21,0.0,Average,Laptop/Desktop,2.0,0.0,10.0,5.0,Twitter,1.0,3,Increased,NO,Leisure and Entertainment,YES,NO,Education,Young Adults
+324,R331,Outside Delhi-NCR,21,5.0,Average,Laptop/Desktop,2.0,0.0,8.0,0.5,WhatsApp,1.0,2,Increased,NO,Sleeping,NO,YES,Social Interactions,Young Adults
+325,R332,Delhi-NCR,20,6.0,Average,Laptop/Desktop,4.0,0.0,7.0,1.0,Linkedin,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+326,R333,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,2.0,1.0,7.0,1.0,Instagram,0.0,4,Remain Constant,YES,Leisure and Entertainment,YES,NO,Travel and Exploration,Young Adults
+327,R334,Outside Delhi-NCR,21,2.0,Average,Smartphone,2.0,1.0,7.0,1.0,WhatsApp,4.0,3,Remain Constant,NO,Gaming,YES,NO,All Options,Young Adults
+328,R335,Delhi-NCR,19,1.0,Very poor,Laptop/Desktop,0.0,0.0,12.0,10.0,Instagram,2.0,2,Remain Constant,NO,Gaming,NO,NO,Personal Reflection,Pre-Teens
+329,R336,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,2.0,0.0,8.0,2.0,Instagram,1.0,3,Remain Constant,YES,Reading books,NO,YES,Dining and Entertainment,Young Adults
+330,R337,Delhi-NCR,14,5.0,Average,Smartphone,2.3,0.0,8.0,2.0,Youtube,3.0,2,Remain Constant,NO,Social Media,YES,YES,Travel and Exploration,Pre-Teens
+331,R338,Delhi-NCR,22,1.0,Average,Laptop/Desktop,2.0,0.0,11.0,3.0,WhatsApp,3.0,2,Increased,YES,Exercise,NO,NO,Social Interactions,Young Adults
+332,R339,Delhi-NCR,19,2.0,Average,Smartphone,2.5,0.0,9.0,2.0,Facebook,1.0,3,Remain Constant,NO,Gaming,NO,NO,Personal Reflection,Pre-Teens
+333,R340,Outside Delhi-NCR,18,4.0,Average,Smartphone,1.0,1.0,12.0,1.0,Instagram,1.0,2,Increased,NO,Watching videos,NO,YES,All Options,Pre-Teens
+334,R341,Outside Delhi-NCR,16,8.0,Average,Laptop/Desktop,6.0,0.0,6.0,1.0,Youtube,0.0,4,Remain Constant,NO,Watching videos,YES,NO,Social Interactions,Pre-Teens
+335,R342,Outside Delhi-NCR,43,2.0,Average,Smartphone,0.0,1.0,6.0,2.0,Facebook,0.5,3,Increased,NO,Communication with others,NO,YES,Family,Adults
+336,R343,Outside Delhi-NCR,15,4.0,Very poor,Tablet,10.0,0.0,8.0,1.0,Twitter,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+337,R344,Outside Delhi-NCR,32,1.0,Very poor,Laptop/Desktop,10.0,1.0,8.0,2.0,Twitter,0.0,3,Increased,NO,Reading books,YES,YES,Education,Adults
+338,R345,Delhi-NCR,15,3.0,Good,Laptop/Desktop,3.0,1.0,7.0,1.0,Youtube,2.0,2,Increased,NO,Sleeping,YES,YES,Social Interactions,Pre-Teens
+339,R346,Outside Delhi-NCR,22,0.0,NA,,5.0,1.0,7.0,2.0,Youtube,1.0,4,Increased,NO,Watching videos,NO,YES,Education,Young Adults
+340,R347,Delhi-NCR,16,4.0,Average,,4.0,1.0,6.0,1.0,WhatsApp,1.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+341,R348,Outside Delhi-NCR,21,2.0,Very poor,,4.0,0.0,9.0,2.0,WhatsApp,0.0,4,Remain Constant,NO,Sleeping,NO,YES,Travel and Exploration,Young Adults
+342,R349,Outside Delhi-NCR,14,5.0,Good,,2.0,1.0,9.0,1.0,WhatsApp,1.0,4,Increased,NO,Communication with others,NO,YES,Education,Pre-Teens
+343,R350,Delhi-NCR,19,2.0,Very poor,,1.0,1.0,11.0,3.0,WhatsApp,0.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+344,R351,Outside Delhi-NCR,18,1.5,Average,,2.0,1.0,8.0,1.0,WhatsApp,0.5,2,Remain Constant,NO,Meditation,YES,YES,Education,Pre-Teens
+345,R352,Delhi-NCR,11,4.0,Average,,2.0,2.0,10.0,1.0,WhatsApp,3.0,4,Remain Constant,NO,Sports and games,NO,YES,Personal Exploration,Children
+346,R353,Delhi-NCR,24,0.5,Average,,2.0,0.0,8.0,1.0,Instagram,0.0,3,Remain Constant,NO,Watching videos,YES,YES,Dining and Entertainment,Young Adults
+347,R354,Outside Delhi-NCR,21,3.0,Average,Laptop/Desktop,3.0,1.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Watching videos,NO,YES,Dining and Entertainment,Young Adults
+348,R355,Delhi-NCR,15,5.0,Average,Smartphone,3.0,3.0,8.0,3.0,Instagram,2.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+349,R356,Delhi-NCR,34,2.0,Average,Laptop/Desktop,3.0,1.0,7.0,2.0,Twitter,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Travel and Exploration,Adults
+350,R357,Delhi-NCR,17,0.75,Average,Smartphone,5.0,1.0,6.0,2.0,Youtube,2.0,1,Increased,YES,Reading books,NO,YES,Education,Pre-Teens
+351,R358,Delhi-NCR,12,1.0,Excellent,Smartphone,2.0,1.0,9.0,2.0,Youtube,1.0,3,Increased,NO,Gaming,YES,YES,Education,Children
+352,R359,Delhi-NCR,16,1.0,Average,Smartphone,2.0,1.0,7.0,2.0,WhatsApp,3.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+353,R360,Delhi-NCR,17,7.0,Average,Laptop/Desktop,8.0,1.0,6.0,1.0,WhatsApp,1.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+354,R361,Delhi-NCR,14,2.5,Good,Smartphone,1.0,0.5,6.0,2.0,Youtube,1.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+355,R362,Outside Delhi-NCR,16,4.0,Average,Smartphone,5.0,1.0,6.0,2.0,WhatsApp,2.0,2,Remain Constant,NO,Exercise,YES,NO,Travel and Exploration,Pre-Teens
+356,R363,Delhi-NCR,13,2.0,Excellent,Smartphone,1.0,3.0,11.0,3.0,Youtube,2.0,4,Increased,NO,Reading books,NO,YES,Dining and Entertainment,Pre-Teens
+357,R364,Delhi-NCR,23,0.0,Average,Laptop/Desktop,2.0,0.0,7.0,3.0,Linkedin,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+358,R365,Delhi-NCR,21,6.0,Very poor,Smartphone,0.0,1.0,7.0,4.0,Instagram,1.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+359,R366,Outside Delhi-NCR,31,4.0,Excellent,Laptop/Desktop,2.0,1.0,8.0,1.0,Facebook,1.0,3,Increased,NO,Sleeping,YES,NO,Education,Adults
+360,R367,Delhi-NCR,23,5.0,Excellent,Smartphone,1.0,1.0,9.0,2.0,WhatsApp,0.0,4,Decreased,NO,Gaming,YES,YES,Sports and Activities,Young Adults
+361,R368,Delhi-NCR,13,1.0,Excellent,Smartphone,5.0,3.0,6.0,2.0,Instagram,2.0,7,Increased,NO,Exercise,YES,YES,Education,Pre-Teens
+362,R369,Delhi-NCR,21,3.0,Average,Laptop/Desktop,0.0,1.0,8.0,3.0,Instagram,0.0,3,Increased,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+363,R370,Delhi-NCR,17,6.0,Average,Laptop/Desktop,2.5,1.0,6.0,0.0,None,0.5,3,Remain Constant,NO,Reading books,YES,YES,Personal Exploration,Pre-Teens
+364,R371,Delhi-NCR,23,3.0,Good,Laptop/Desktop,3.0,0.0,7.0,2.0,Linkedin,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+365,R372,Delhi-NCR,13,1.0,Excellent,Smartphone,2.0,0.0,8.0,0.0,None,4.0,3,Increased,NO,Watching videos,YES,NO,Social Interactions,Pre-Teens
+366,R373,Delhi-NCR,20,1.0,Average,Laptop/Desktop,2.5,0.0,6.0,4.0,Instagram,1.0,3,Remain Constant,NO,Gaming,YES,YES,Personal Exploration,Young Adults
+367,R374,Delhi-NCR,13,0.5,Average,Smartphone,2.0,2.0,10.0,2.0,Youtube,0.0,3,Increased,NO,Gaming,YES,NO,Education,Pre-Teens
+368,R375,Delhi-NCR,14,2.0,Excellent,Smartphone,1.0,1.0,8.0,1.0,WhatsApp,2.0,1,Increased,YES,Gaming,YES,YES,Education,Pre-Teens
+369,R376,Delhi-NCR,40,1.0,Average,Laptop/Desktop,2.0,1.0,6.0,4.0,WhatsApp,0.0,2,Remain Constant,NO,Gaming,NO,YES,Dining and Entertainment,Adults
+370,R377,Delhi-NCR,12,1.0,Excellent,Smartphone,1.2,0.5,10.0,0.0,WhatsApp,2.0,3,Increased,NO,Communication with others,YES,YES,Social Interactions,Children
+371,R378,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,4.0,Linkedin,0.0,3,Remain Constant,YES,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+372,R379,Delhi-NCR,12,1.0,Good,Smartphone,2.0,0.5,8.0,2.0,WhatsApp,2.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Children
+373,R380,Delhi-NCR,21,3.0,Average,Laptop/Desktop,3.0,0.0,8.0,2.0,Instagram,0.0,4,Decreased,NO,Sleeping,NO,YES,Travel and Exploration,Young Adults
+374,R381,Delhi-NCR,42,4.0,Good,Laptop/Desktop,3.0,0.0,7.0,1.0,Facebook,0.5,2,Increased,NO,Social Media,YES,YES,Travel and Exploration,Adults
+375,R382,Outside Delhi-NCR,20,3.0,Good,Smartphone,4.0,2.0,7.0,4.0,WhatsApp,0.5,4,Remain Constant,YES,Communication with others,NO,YES,Education,Young Adults
+376,R383,Delhi-NCR,28,0.0,NA,,4.0,2.0,7.0,2.0,Twitter,2.0,2,Decreased,NO,Meditation,YES,YES,Travel and Exploration,Young Adults
+377,R384,Delhi-NCR,40,2.0,Good,,1.0,1.0,8.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Watching videos,YES,YES,Travel and Exploration,Adults
+378,R385,Delhi-NCR,14,3.0,Excellent,,2.0,0.0,12.0,2.0,Facebook,3.0,1,Decreased,NO,Gaming,NO,NO,Education,Pre-Teens
+379,R386,Delhi-NCR,12,1.0,Average,,1.0,0.0,12.0,1.0,Youtube,1.0,1,Remain Constant,NO,Reading books,NO,YES,Social Interactions,Children
+380,R387,Delhi-NCR,14,4.0,Average,,2.0,1.0,8.0,2.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Pre-Teens
+381,R388,Delhi-NCR,22,0.0,Average,,0.0,0.0,9.0,2.0,Linkedin,2.0,3,Remain Constant,NO,Communication with others,NO,NO,Personal Exploration,Young Adults
+382,R389,Outside Delhi-NCR,40,4.0,Average,,4.0,0.0,8.0,2.0,WhatsApp,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Adults
+383,R390,Outside Delhi-NCR,21,4.0,Very poor,,3.0,1.0,6.0,2.0,Youtube,5.0,2,Remain Constant,NO,Meditation,NO,YES,Personal Routine,Young Adults
+384,R391,Delhi-NCR,23,3.0,Good,Smartphone,1.0,0.0,6.0,2.0,WhatsApp,3.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+385,R392,Delhi-NCR,12,2.0,Excellent,Smartphone,2.0,1.0,10.0,1.0,Youtube,1.0,4,Remain Constant,NO,Reading books,YES,YES,Education,Children
+386,R393,Outside Delhi-NCR,17,2.0,Excellent,Smartphone,3.0,1.0,6.0,2.0,WhatsApp,2.0,1,Increased,NO,Communication with others,YES,YES,Education,Pre-Teens
+387,R394,Outside Delhi-NCR,18,1.0,Average,Laptop/Desktop,1.0,0.0,8.0,4.0,Instagram,0.0,3,Decreased,NO,Watching videos,YES,YES,Personal Exploration,Pre-Teens
+388,R395,Outside Delhi-NCR,20,1.0,Average,Laptop/Desktop,2.0,2.0,9.0,4.0,Instagram,5.0,2,Remain Constant,NO,Leisure and Entertainment,YES,NO,Travel and Exploration,Young Adults
+389,R396,Outside Delhi-NCR,17,5.0,Average,Smartphone,3.0,1.0,6.0,1.0,Facebook,2.0,1,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+390,R397,Delhi-NCR,20,1.0,Average,Laptop/Desktop,4.0,0.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Watching videos,NO,NO,Social Interactions,Young Adults
+391,R398,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,2.0,WhatsApp,0.5,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+392,R399,Delhi-NCR,19,0.75,Poor,Laptop/Desktop,2.0,1.0,6.0,4.0,Youtube,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+393,R400,Outside Delhi-NCR,20,4.0,Good,Laptop/Desktop,2.0,0.0,11.0,1.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+394,R401,Delhi-NCR,16,2.0,Excellent,Smartphone,5.0,1.0,8.0,4.0,WhatsApp,4.0,3,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+395,R402,Delhi-NCR,13,3.0,Excellent,Smartphone,2.0,0.0,8.0,1.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+396,R403,Delhi-NCR,20,0.0,Good,Laptop/Desktop,4.0,1.0,7.0,4.0,Youtube,2.0,3,Remain Constant,YES,Watching videos,NO,YES,Travel and Exploration,Young Adults
+397,R404,Outside Delhi-NCR,14,3.0,Excellent,Smartphone,2.0,0.0,10.0,1.0,Youtube,1.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+398,R405,Delhi-NCR,17,2.0,Good,Smartphone,1.0,1.0,8.0,3.0,Facebook,2.0,3,Decreased,NO,Gaming,YES,YES,Travel and Exploration,Pre-Teens
+399,R406,Outside Delhi-NCR,20,1.0,Very poor,Laptop/Desktop,1.0,0.0,12.0,2.0,Twitter,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+400,R407,Delhi-NCR,17,7.0,Excellent,Smartphone,1.0,1.0,4.0,1.0,Youtube,0.0,1,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+401,R408,Outside Delhi-NCR,13,2.0,Excellent,Smartphone,1.0,1.0,6.0,2.0,WhatsApp,0.0,1,Decreased,YES,Reading books,YES,YES,Education,Pre-Teens
+402,R409,Delhi-NCR,13,1.0,Good,Smartphone,2.0,1.0,8.0,3.0,Youtube,0.5,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+403,R410,Outside Delhi-NCR,20,2.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,2.0,Instagram,0.0,3,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Young Adults
+404,R411,Outside Delhi-NCR,27,0.0,Good,Laptop/Desktop,2.0,0.0,10.0,6.0,WhatsApp,6.0,3,Decreased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+405,R412,Delhi-NCR,20,1.0,Good,Laptop/Desktop,0.0,1.0,7.0,2.0,Instagram,0.0,3,Decreased,NO,Watching videos,YES,NO,Dining and Entertainment,Young Adults
+406,R413,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,3.0,1.0,7.0,4.0,Twitter,0.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+407,R414,Delhi-NCR,17,4.0,Average,Smartphone,1.0,1.0,8.0,5.0,Youtube,0.3,2,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+408,R415,Delhi-NCR,27,3.0,Excellent,Laptop/Desktop,2.0,2.0,7.0,1.0,Instagram,0.0,3,Decreased,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+409,R416,Outside Delhi-NCR,14,1.0,Good,Smartphone,3.0,1.0,9.0,1.0,None,0.0,3,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+410,R417,Delhi-NCR,9,1.0,Average,Laptop/Desktop,1.0,0.0,8.0,0.0,Youtube,1.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Children
+411,R418,Delhi-NCR,14,5.0,Average,Smartphone,1.0,1.0,7.0,1.0,WhatsApp,4.5,2,Decreased,NO,Watching videos,NO,YES,Social Interactions,Pre-Teens
+412,R419,Delhi-NCR,36,2.0,Excellent,Tablet,3.0,1.0,7.0,5.0,Youtube,3.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Adults
+413,R420,Delhi-NCR,8,2.0,Excellent,Laptop/Desktop,2.0,1.0,8.0,1.0,WhatsApp,2.0,3,Remain Constant,NO,Exercise,YES,YES,Personal Exploration,Children
+414,R421,Delhi-NCR,20,2.0,Average,Laptop/Desktop,1.0,1.0,7.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Watching videos,YES,YES,Education,Young Adults
+415,R422,Outside Delhi-NCR,12,2.0,Average,Laptop/Desktop,1.0,1.0,7.0,2.0,Instagram,2.0,2,Increased,NO,Sleeping,YES,YES,Social Interactions,Children
+416,R423,Delhi-NCR,19,8.0,Excellent,Laptop/Desktop,10.0,1.0,6.0,1.0,Linkedin,0.0,4,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+417,R424,Outside Delhi-NCR,24,0.0,Excellent,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,0.0,3,Decreased,NO,Gaming,YES,NO,Travel and Exploration,Young Adults
+418,R425,Delhi-NCR,20,2.0,Average,Laptop/Desktop,2.0,2.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Watching videos,YES,YES,Personal Exploration,Young Adults
+419,R426,Delhi-NCR,22,1.0,Very poor,Smartphone,3.0,0.0,7.0,3.0,Youtube,2.0,3,Remain Constant,NO,Watching videos,NO,YES,Personal Exploration,Young Adults
+420,R427,Outside Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,0.0,1.0,9.0,4.0,Youtube,4.0,4,Decreased,NO,Sleeping,NO,YES,Social Interactions,Young Adults
+421,R428,Delhi-NCR,12,1.0,Excellent,Smartphone,3.0,1.0,6.0,1.0,Youtube,1.0,1,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Children
+422,R429,Outside Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,1.0,0.0,6.0,6.0,Instagram,1.0,3,Remain Constant,YES,Social Media,NO,NO,Education,Young Adults
+423,R430,Delhi-NCR,20,2.0,Average,Laptop/Desktop,3.0,2.0,7.0,3.0,Instagram,1.0,2,Decreased,NO,Communication with others,YES,YES,Personal Exploration,Young Adults
+424,R431,Outside Delhi-NCR,32,1.0,Average,Smartphone,0.0,0.0,14.0,2.0,Facebook,2.0,3,Remain Constant,NO,Watching videos,NO,YES,Education,Adults
+425,R432,Outside Delhi-NCR,28,4.0,Good,Laptop/Desktop,4.0,1.0,12.0,2.0,Youtube,0.0,3,Decreased,NO,Social Media,YES,YES,Travel and Exploration,Young Adults
+426,R433,Delhi-NCR,21,2.0,Very poor,Laptop/Desktop,0.0,1.0,12.0,5.0,Instagram,5.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+427,R434,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,2.0,1.0,8.0,2.0,WhatsApp,2.0,3,Remain Constant,YES,Watching videos,YES,YES,Social Interactions,Young Adults
+428,R435,Delhi-NCR,15,5.0,Average,Laptop/Desktop,3.0,1.0,10.0,3.0,Instagram,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,All Options,Pre-Teens
+429,R436,Outside Delhi-NCR,19,1.0,Very poor,Laptop/Desktop,0.0,1.0,9.0,8.0,Youtube,0.0,3,Remain Constant,NO,Gaming,NO,NO,Social Interactions,Pre-Teens
+430,R437,Outside Delhi-NCR,19,3.0,Very poor,Laptop/Desktop,1.0,0.0,5.0,1.0,Youtube,2.0,3,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+431,R438,Outside Delhi-NCR,18,3.0,Very poor,Smartphone,2.0,0.0,8.0,2.0,Instagram,0.5,3,Remain Constant,NO,Social Media,NO,YES,Social Interactions,Pre-Teens
+432,R439,Delhi-NCR,14,7.0,Very poor,Tablet,3.0,0.0,8.0,0.0,None,1.0,2,Decreased,NO,Sleeping,NO,NO,Travel and Exploration,Pre-Teens
+433,R440,Outside Delhi-NCR,18,1.0,Excellent,Smartphone,2.0,1.0,8.0,1.0,Facebook,0.0,2,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+434,R441,Delhi-NCR,50,2.0,Good,Smartphone,2.0,0.0,6.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Middle-Aged Adults
+435,R442,Outside Delhi-NCR,20,0.7,Very poor,Laptop/Desktop,3.5,0.5,8.0,3.0,Instagram,0.6,4,Increased,NO,Reading books,YES,YES,Personal Exploration,Young Adults
+436,R443,Outside Delhi-NCR,16,2.0,Very poor,Laptop/Desktop,2.0,1.0,9.0,2.0,Instagram,0.5,2,Remain Constant,YES,Leisure and Entertainment,NO,YES,Personal Exploration,Pre-Teens
+437,R444,Delhi-NCR,13,2.0,Good,Smartphone,1.0,0.0,11.0,2.0,Youtube,3.0,2,Increased,YES,Social Media,NO,NO,Education,Pre-Teens
+438,R445,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,2.0,Twitter,0.0,3,Remain Constant,NO,Reading books,YES,YES,Dining and Entertainment,Young Adults
+439,R446,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,2.0,1.0,7.0,2.0,WhatsApp,7.0,3,Increased,NO,Watching videos,NO,NO,Social Interactions,Young Adults
+440,R447,Delhi-NCR,14,3.0,Excellent,Laptop/Desktop,5.0,2.0,10.0,3.0,Facebook,3.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+441,R448,Outside Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,2.0,0.0,7.0,5.0,Instagram,0.0,2,Decreased,YES,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+442,R449,Delhi-NCR,22,3.0,Average,Laptop/Desktop,2.0,0.0,7.0,3.0,Youtube,0.0,3,Increased,NO,Reading books,YES,YES,Dining and Entertainment,Young Adults
+443,R450,Delhi-NCR,13,0.75,Excellent,Smartphone,2.0,0.0,7.0,1.0,Youtube,0.0,1,Remain Constant,NO,Reading books,YES,NO,Education,Pre-Teens
+444,R451,Delhi-NCR,13,3.0,Good,Smartphone,3.0,1.0,8.0,1.0,WhatsApp,0.5,2,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+445,R452,Delhi-NCR,16,6.0,Good,Smartphone,3.0,1.0,6.0,1.0,Youtube,1.0,1,Decreased,NO,Communication with others,YES,YES,Social Interactions,Pre-Teens
+446,R453,Outside Delhi-NCR,35,4.0,Average,Smartphone,2.0,1.0,6.0,0.5,Facebook,1.0,2,Remain Constant,NO,Gaming,NO,YES,Personal Exploration,Adults
+447,R454,Outside Delhi-NCR,45,3.0,Excellent,Laptop/Desktop,4.0,1.0,8.0,2.0,Youtube,1.0,3,Increased,NO,Meditation,YES,YES,Social Interactions,Middle-Aged Adults
+448,R455,Delhi-NCR,16,0.0,Good,Smartphone,0.0,2.0,6.0,1.0,Facebook,4.0,2,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+449,R456,Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,6.0,0.0,8.0,0.0,Youtube,0.0,2,Remain Constant,NO,Reading books,YES,YES,Education,Young Adults
+450,R457,Outside Delhi-NCR,21,0.0,Poor,Laptop/Desktop,9.0,0.0,7.0,2.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Young Adults
+451,R458,Delhi-NCR,23,6.0,Average,Laptop/Desktop,4.0,1.0,9.0,1.0,Instagram,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Young Adults
+452,R459,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,4.0,1.0,8.0,8.0,Instagram,1.0,2,Increased,NO,Social Media,YES,YES,Education,Young Adults
+453,R460,Delhi-NCR,20,7.0,Good,Laptop/Desktop,2.0,0.0,8.0,4.0,Facebook,3.0,4,Increased,NO,Social Media,NO,NO,Travel and Exploration,Young Adults
+454,R461,Outside Delhi-NCR,19,0.0,Very poor,Smartphone,5.0,0.5,7.0,4.0,Instagram,0.0,3,Remain Constant,NO,Reading books,YES,YES,Travel and Exploration,Pre-Teens
+455,R462,Outside Delhi-NCR,18,4.0,Very poor,Smartphone,2.0,1.0,12.0,2.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Pre-Teens
+456,R463,Delhi-NCR,30,0.0,NA,,0.5,0.0,7.0,1.0,Youtube,0.5,2,Remain Constant,NO,Gaming,YES,YES,Travel and Exploration,Adults
+457,R464,Delhi-NCR,18,2.0,Good,,3.0,1.0,7.0,2.0,WhatsApp,1.0,3,Remain Constant,YES,Gaming,YES,YES,Travel and Exploration,Pre-Teens
+458,R465,Outside Delhi-NCR,21,2.0,Average,,4.0,1.0,10.0,8.0,Instagram,1.0,3,Increased,NO,Social Media,NO,YES,Social Interactions,Young Adults
+459,R466,Outside Delhi-NCR,13,4.0,Good,,2.0,2.0,8.0,2.0,Youtube,2.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+460,R467,Outside Delhi-NCR,22,1.0,Average,,3.0,3.0,8.0,3.0,Instagram,3.0,4,Increased,NO,Sleeping,YES,YES,Personal Exploration,Young Adults
+461,R468,Delhi-NCR,21,1.0,Very poor,,0.0,0.0,8.0,2.0,Instagram,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Young Adults
+462,R469,Outside Delhi-NCR,21,2.0,Good,,6.0,0.0,6.5,0.5,WhatsApp,0.0,3,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+463,R470,Delhi-NCR,21,2.0,Very poor,,1.0,0.0,13.0,6.0,Twitter,7.0,2,Decreased,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+464,R471,Outside Delhi-NCR,20,5.0,Good,Laptop/Desktop,7.0,0.0,6.0,1.0,Linkedin,0.0,4,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+465,R472,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,10.0,4.0,6.0,2.0,WhatsApp,0.0,7,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+466,R473,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,5.0,1.0,9.0,2.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+467,R474,Outside Delhi-NCR,19,4.0,Average,Laptop/Desktop,0.0,0.0,8.0,6.0,Instagram,1.0,3,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+468,R475,Delhi-NCR,19,0.0,Good,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,1.0,3,Increased,NO,Social Media,NO,NO,Education,Pre-Teens
+469,R476,Delhi-NCR,7,2.0,Good,Smartphone,2.0,1.0,9.0,1.0,WhatsApp,2.0,3,Increased,NO,Gaming,NO,YES,Travel and Exploration,Children
+470,R477,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,0.0,1.0,7.0,3.0,Instagram,0.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Young Adults
+471,R478,Delhi-NCR,23,4.0,Very poor,Laptop/Desktop,10.0,1.0,7.0,1.0,WhatsApp,0.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+472,R479,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,2.0,0.0,13.0,4.0,Instagram,0.0,2,Increased,NO,Social Media,NO,NO,Education,Young Adults
+473,R480,Delhi-NCR,20,4.0,Very poor,Smartphone,4.0,0.0,8.0,4.0,Instagram,3.0,3,Remain Constant,NO,Gaming,YES,YES,Dining and Entertainment,Young Adults
+474,R481,Outside Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,3.0,WhatsApp,2.0,3,Increased,NO,Meditation,YES,YES,Education,Pre-Teens
+475,R482,Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,2.0,Youtube,0.0,3,Increased,NO,Exercise,YES,YES,Social Interactions,Young Adults
+476,R483,Outside Delhi-NCR,18,4.0,Average,Smartphone,1.0,0.0,9.0,4.0,WhatsApp,1.0,3,Decreased,YES,Gaming,NO,YES,Dining and Entertainment,Pre-Teens
+477,R484,Delhi-NCR,21,4.0,Very poor,Tablet,0.0,3.0,11.0,10.0,Snapchat,0.0,1,Decreased,NO,Meditation,NO,NO,Travel and Exploration,Young Adults
+478,R485,Outside Delhi-NCR,18,6.0,Very poor,Laptop/Desktop,6.0,1.0,6.0,1.0,Instagram,0.5,5,Remain Constant,YES,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+479,R486,Delhi-NCR,21,6.0,Excellent,Laptop/Desktop,6.0,1.0,6.0,1.0,Instagram,0.0,4,Decreased,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+480,R487,Outside Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,3.0,0.0,7.0,3.0,WhatsApp,2.0,2,Increased,NO,Gaming,NO,NO,Education,Pre-Teens
+481,R488,Outside Delhi-NCR,19,0.0,Average,Laptop/Desktop,1.0,0.5,8.0,1.0,Instagram,0.0,3,Increased,NO,Social Media,NO,YES,Personal Reflection,Pre-Teens
+482,R489,Outside Delhi-NCR,22,2.0,Average,Laptop/Desktop,2.0,0.0,8.0,1.0,Instagram,1.0,3,Remain Constant,YES,Reading books,NO,NO,Education,Young Adults
+483,R490,Delhi-NCR,21,3.0,Average,Laptop/Desktop,7.0,3.0,6.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Meditation,YES,NO,Education,Young Adults
+484,R491,Delhi-NCR,24,2.0,Poor,Smartphone,6.0,0.0,6.0,3.0,WhatsApp,0.5,4,Decreased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+485,R492,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,4.0,0.0,8.0,2.0,WhatsApp,0.0,1,Remain Constant,NO,Reading books,NO,NO,Education,Young Adults
+486,R493,Outside Delhi-NCR,20,2.0,Average,Smartphone,2.0,0.0,12.0,4.0,Instagram,0.0,3,Remain Constant,NO,Communication with others,NO,YES,Social Interactions,Young Adults
+487,R494,Outside Delhi-NCR,24,5.0,Average,Laptop/Desktop,2.0,0.0,6.0,3.0,Instagram,0.0,4,Increased,NO,Watching videos,NO,YES,Dining and Entertainment,Young Adults
+488,R495,Delhi-NCR,21,5.0,Average,Laptop/Desktop,6.0,0.0,7.0,2.0,Linkedin,0.5,3,Increased,NO,Gaming,YES,YES,Education,Young Adults
+489,R496,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,6.0,2.0,5.0,3.0,Youtube,0.0,3,Remain Constant,NO,Exercise,YES,YES,Travel and Exploration,Young Adults
+490,R497,Outside Delhi-NCR,22,5.0,Very poor,Smartphone,0.0,1.0,8.0,4.0,Facebook,0.0,3,Remain Constant,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+491,R498,Outside Delhi-NCR,20,7.0,Very poor,Laptop/Desktop,0.0,1.0,6.0,2.0,Facebook,1.0,4,Remain Constant,NO,Gaming,NO,YES,Personal Exploration,Young Adults
+492,R499,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,3.0,1.0,10.0,3.0,Instagram,2.0,2,Increased,YES,Social Media,NO,NO,Social Interactions,Young Adults
+493,R500,Delhi-NCR,19,0.0,NA,,8.0,1.0,8.0,0.0,None,0.0,2,Remain Constant,NO,Gaming,NO,NO,Social Interactions,Pre-Teens
+494,R501,Outside Delhi-NCR,22,0.5,Very poor,Laptop/Desktop,1.0,1.0,8.0,3.0,Instagram,0.0,4,Increased,NO,Gaming,NO,NO,Personal Exploration,Young Adults
+495,R502,Outside Delhi-NCR,21,4.0,Average,Laptop/Desktop,1.0,0.0,10.0,2.0,WhatsApp,0.0,3,Increased,NO,Gaming,NO,YES,Education,Young Adults
+496,R503,Outside Delhi-NCR,19,3.0,Very poor,Laptop/Desktop,2.0,1.0,6.0,2.0,Instagram,0.0,3,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+497,R504,Outside Delhi-NCR,13,3.0,Average,Smartphone,2.0,1.0,7.0,2.0,WhatsApp,0.0,3,Decreased,NO,Exercise,YES,YES,Social Interactions,Pre-Teens
+498,R505,Delhi-NCR,10,4.0,Average,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,2.0,3,Remain Constant,NO,Exercise,YES,YES,Education,Children
+499,R506,Outside Delhi-NCR,21,4.0,Very poor,Laptop/Desktop,2.0,0.0,6.0,1.0,Youtube,0.0,3,Increased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+500,R507,Outside Delhi-NCR,20,2.0,Very poor,Laptop/Desktop,3.0,0.0,11.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Sleeping,NO,NO,Education,Young Adults
+501,R508,Delhi-NCR,22,1.0,Very poor,Smartphone,2.0,1.0,6.0,2.0,Instagram,0.0,3,Increased,NO,Gaming,YES,YES,Education,Young Adults
+502,R509,Delhi-NCR,20,4.0,Average,Laptop/Desktop,0.0,0.0,12.0,2.0,Instagram,2.0,3,Increased,NO,Social Media,NO,NO,Personal Exploration,Young Adults
+503,R510,Outside Delhi-NCR,20,0.0,Poor,Laptop/Desktop,2.0,0.0,10.0,4.0,Instagram,0.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Young Adults
+504,R511,Delhi-NCR,20,0.0,Average,Laptop/Desktop,1.0,1.0,8.0,4.0,WhatsApp,0.0,3,Increased,NO,Sleeping,NO,YES,Education,Young Adults
+505,R512,Outside Delhi-NCR,21,0.0,Average,Smartphone,4.0,1.0,7.0,2.0,Facebook,4.0,4,Increased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+506,R513,Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,3.0,2.0,8.0,2.0,Instagram,1.0,4,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+507,R514,Outside Delhi-NCR,13,2.0,Excellent,Smartphone,2.0,1.0,6.0,6.0,Instagram,8.0,4,Increased,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+508,R515,Outside Delhi-NCR,20,2.0,Average,Laptop/Desktop,3.0,0.0,7.0,5.0,Instagram,6.0,2,Increased,NO,Gaming,NO,NO,Dining and Entertainment,Young Adults
+509,R516,Outside Delhi-NCR,17,2.0,Average,Smartphone,5.0,3.0,5.0,1.0,WhatsApp,0.5,3,Decreased,NO,Exercise,NO,YES,Education,Pre-Teens
+510,R517,Outside Delhi-NCR,11,1.0,Good,Laptop/Desktop,1.0,1.0,15.0,3.0,Youtube,1.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Education,Children
+511,R518,Delhi-NCR,17,2.0,Excellent,Smartphone,3.0,1.0,8.0,3.0,WhatsApp,1.0,2,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+512,R519,Outside Delhi-NCR,17,1.0,Average,Smartphone,2.0,0.0,8.0,1.0,Youtube,1.0,2,Decreased,NO,Communication with others,NO,YES,Education,Pre-Teens
+513,R520,Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,5.0,0.0,8.0,3.0,Twitter,2.0,3,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+514,R521,Outside Delhi-NCR,20,6.0,Good,Laptop/Desktop,5.0,2.0,6.0,10.0,Twitter,15.0,3,Remain Constant,NO,Communication with others,YES,YES,Education,Young Adults
+515,R522,Delhi-NCR,18,3.0,Good,Laptop/Desktop,4.0,2.0,7.0,2.0,Youtube,2.0,3,Increased,NO,Exercise,YES,YES,Travel and Exploration,Pre-Teens
+516,R523,Delhi-NCR,20,4.0,Average,Laptop/Desktop,3.0,0.0,8.0,4.0,Youtube,2.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+517,R524,Delhi-NCR,19,0.0,Very poor,Laptop/Desktop,1.0,0.0,9.0,6.0,Twitter,0.0,4,Increased,NO,Sleeping,NO,NO,Travel and Exploration,Pre-Teens
+518,R525,Delhi-NCR,17,3.0,Average,Smartphone,3.0,3.0,9.0,2.0,Youtube,0.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Pre-Teens
+519,R526,Outside Delhi-NCR,19,0.0,Very poor,Smartphone,0.0,1.0,10.0,7.0,Youtube,1.0,3,Increased,YES,Gaming,NO,YES,Education,Pre-Teens
+520,R527,Outside Delhi-NCR,21,1.0,Average,Laptop/Desktop,8.0,2.0,8.0,2.0,WhatsApp,1.0,3,Remain Constant,YES,Gaming,NO,NO,Personal Exploration,Young Adults
+521,R528,Outside Delhi-NCR,34,2.0,Average,Laptop/Desktop,1.0,0.0,7.0,6.0,WhatsApp,6.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Adults
+522,R529,Outside Delhi-NCR,15,4.0,Very poor,Smartphone,4.0,0.0,7.0,1.0,Youtube,2.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+523,R530,Outside Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,0.0,1.0,12.0,2.0,Instagram,1.0,3,Decreased,YES,Leisure and Entertainment,NO,NO,Travel and Exploration,Pre-Teens
+524,R531,Delhi-NCR,24,0.0,NA,,1.0,0.0,10.0,6.0,Instagram,3.0,4,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+525,R532,Outside Delhi-NCR,17,6.0,Average,Smartphone,4.0,0.0,7.0,9.0,Youtube,0.5,2,Increased,NO,Social Media,NO,YES,Social Interactions,Pre-Teens
+526,R533,Delhi-NCR,26,2.0,Very poor,Laptop/Desktop,1.0,1.0,8.0,4.0,Facebook,0.0,3,Decreased,NO,Social Media,NO,YES,Travel and Exploration,Young Adults
+527,R534,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,1.0,1.0,7.0,0.5,Instagram,0.5,3,Increased,NO,Reading books,YES,YES,Education,Young Adults
+528,R535,Outside Delhi-NCR,22,3.0,Average,Laptop/Desktop,6.0,2.0,8.0,4.0,Instagram,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+529,R536,Outside Delhi-NCR,20,6.0,Poor,Laptop/Desktop,2.0,2.0,8.0,1.0,Instagram,0.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+530,R537,Outside Delhi-NCR,21,4.0,Very poor,Laptop/Desktop,2.0,2.0,8.0,4.0,Youtube,4.0,3,Decreased,NO,Watching videos,YES,YES,Social Interactions,Young Adults
+531,R538,Outside Delhi-NCR,14,3.0,Good,Smartphone or Laptop/Desktop,2.0,0.0,6.0,1.0,WhatsApp,1.0,1,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+532,R539,Outside Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,6.0,1.0,7.0,2.0,Youtube,0.0,3,Remain Constant,NO,Watching videos,NO,YES,Dining and Entertainment,Young Adults
+533,R540,Delhi-NCR,19,2.0,Excellent,Smartphone,2.0,1.0,10.0,2.0,Youtube,1.0,2,Remain Constant,NO,Sleeping,YES,YES,Education,Pre-Teens
+534,R541,Delhi-NCR,44,3.0,Average,Smartphone,4.0,0.0,6.0,1.0,Facebook,1.0,2,Remain Constant,NO,Reading books,YES,YES,Personal Exploration,Adults
+535,R542,Outside Delhi-NCR,20,1.0,Very poor,Tablet,2.0,3.0,8.0,2.0,WhatsApp,2.0,2,Decreased,NO,Reading books,YES,YES,Social Interactions,Young Adults
+536,R543,Delhi-NCR,22,3.0,Average,Laptop/Desktop,6.0,1.0,6.0,3.0,WhatsApp,2.0,3,Remain Constant,NO,Sleeping,NO,YES,Family and Social Interactions,Young Adults
+537,R544,Outside Delhi-NCR,21,1.0,Poor,Smartphone,4.0,1.0,8.0,4.0,Youtube,0.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Young Adults
+538,R545,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,1.0,Linkedin,2.0,3,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Young Adults
+539,R546,Delhi-NCR,18,4.0,Very poor,Tablet,4.0,0.0,9.0,2.0,Instagram,2.0,3,Remain Constant,NO,Watching videos,NO,YES,Travel and Exploration,Pre-Teens
+540,R547,Outside Delhi-NCR,15,1.0,Good,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,2.0,2,Increased,NO,Meditation,NO,YES,Education,Pre-Teens
+541,R548,Outside Delhi-NCR,19,2.0,Average,Smartphone,0.0,0.0,8.0,10.0,Instagram,1.0,2,Decreased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+542,R549,Outside Delhi-NCR,24,2.0,Average,Smartphone,2.0,0.0,6.0,3.0,WhatsApp,0.0,2,Decreased,NO,Sleeping,NO,NO,Education,Young Adults
+543,R550,Delhi-NCR,16,7.0,Average,Smartphone,4.0,1.0,6.0,1.0,WhatsApp,0.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Pre-Teens
+544,R551,Outside Delhi-NCR,21,0.0,Poor,Smartphone,8.0,0.0,7.0,2.0,WhatsApp,0.5,3,Remain Constant,YES,Gaming,YES,NO,Education,Young Adults
+545,R552,Outside Delhi-NCR,17,4.0,Good,Smartphone,3.0,3.0,6.0,5.0,Instagram,0.0,4,Decreased,NO,Exercise,YES,YES,All Options,Pre-Teens
+546,R553,Delhi-NCR,15,5.0,Good,Smartphone,2.0,1.0,7.0,0.0,Youtube,0.0,2,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+547,R554,Outside Delhi-NCR,16,2.0,Very poor,Smartphone,1.0,0.0,9.0,1.0,WhatsApp,0.0,3,Decreased,NO,Reading books,NO,YES,Education,Pre-Teens
+548,R555,Delhi-NCR,21,6.0,Average,Laptop/Desktop,2.0,1.0,7.0,1.5,Youtube,1.5,3,Remain Constant,NO,Watching videos,NO,YES,Personal Routine,Young Adults
+549,R556,Delhi-NCR,13,2.0,Excellent,Smartphone,2.0,1.0,9.0,2.0,Facebook,1.0,3,Increased,NO,Social Media,YES,NO,Education,Pre-Teens
+550,R557,Delhi-NCR,22,3.0,Very poor,Smartphone,2.0,1.0,9.0,1.0,WhatsApp,1.0,4,Remain Constant,YES,Social Media,NO,YES,Social Interactions,Young Adults
+551,R558,Outside Delhi-NCR,15,4.0,Average,Laptop/Desktop,4.0,1.0,11.0,1.0,Instagram,2.0,5,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+552,R559,Outside Delhi-NCR,26,0.5,Very poor,Smartphone,1.0,0.0,6.0,1.0,WhatsApp,1.0,3,Decreased,YES,Sleeping,NO,NO,Education,Young Adults
+553,R560,Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,2.0,0.0,10.0,6.0,Youtube,0.0,2,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Young Adults
+554,R561,Outside Delhi-NCR,13,1.0,Good,Smartphone,1.0,1.0,8.0,1.0,Youtube,2.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+555,R562,Delhi-NCR,21,3.0,Average,Laptop/Desktop,0.0,2.0,8.0,2.0,Instagram,2.0,3,Increased,NO,Gaming,NO,NO,Social Interactions,Young Adults
+556,R563,Outside Delhi-NCR,21,3.0,Very poor,Smartphone,1.0,1.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+557,R564,Delhi-NCR,17,2.0,Average,Smartphone,1.0,1.0,8.0,7.0,Instagram,0.0,4,Increased,NO,Watching videos,NO,YES,Personal Exploration,Pre-Teens
+558,R565,Delhi-NCR,20,1.0,Good,Smartphone,3.0,1.0,8.0,3.0,Youtube,1.0,4,Remain Constant,NO,Reading books,NO,YES,Education,Young Adults
+559,R566,Delhi-NCR,18,3.0,Good,Smartphone,2.0,0.0,8.0,1.0,Youtube,1.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+560,R567,Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,8.0,0.0,8.0,1.0,Youtube,0.0,4,Decreased,YES,Sleeping,NO,NO,Dining and Entertainment,Pre-Teens
+561,R568,Delhi-NCR,21,4.0,Average,Laptop/Desktop,4.0,1.0,8.0,3.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+562,R569,Delhi-NCR,20,8.0,Excellent,Smartphone,8.0,1.0,7.0,2.0,Youtube,1.0,4,Increased,NO,Watching videos,YES,YES,Personal Exploration,Young Adults
+563,R570,Delhi-NCR,21,8.0,Good,Laptop/Desktop,2.0,1.0,7.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Communication with others,YES,YES,Dining and Entertainment,Young Adults
+564,R571,Outside Delhi-NCR,32,2.0,Good,Smartphone,0.0,0.0,11.0,1.0,WhatsApp,3.0,4,Remain Constant,NO,Meditation,NO,NO,Dining and Entertainment,Adults
+565,R572,Delhi-NCR,19,4.0,Good,Laptop/Desktop,4.0,2.0,8.0,6.0,Instagram,6.0,3,Increased,NO,Meditation,NO,YES,Travel and Exploration,Pre-Teens
+566,R573,Delhi-NCR,18,2.0,Very poor,Smartphone,0.0,3.0,8.0,1.0,Twitter,0.0,3,Increased,NO,Exercise,NO,YES,All Options,Pre-Teens
+567,R574,Delhi-NCR,23,0.0,NA,,1.0,0.0,9.0,3.0,Instagram,2.0,2,Remain Constant,NO,Social Media,NO,YES,Personal Exploration,Young Adults
+568,R575,Delhi-NCR,18,0.0,Very poor,Smartphone,0.0,0.0,7.0,3.0,Instagram,2.0,4,Remain Constant,YES,Social Media,NO,YES,Social Interactions,Pre-Teens
+569,R576,Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,1.0,2.0,8.0,3.0,Instagram,2.0,4,Increased,NO,Sleeping,YES,NO,Education,Pre-Teens
+570,R577,Delhi-NCR,19,2.0,Very poor,Smartphone,2.0,0.0,8.0,1.5,Instagram,1.0,2,Decreased,NO,Watching videos,NO,YES,Personal Exploration,Pre-Teens
+571,R578,Outside Delhi-NCR,19,3.0,Excellent,Laptop/Desktop,0.0,0.0,9.0,6.0,WhatsApp,0.0,2,Remain Constant,YES,Meditation,YES,YES,Personal Reflection,Pre-Teens
+572,R579,Delhi-NCR,23,4.0,Very poor,Smartphone,4.0,1.0,8.0,2.0,Youtube,2.0,2,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+573,R580,Delhi-NCR,25,0.0,NA,,2.0,1.0,9.0,2.0,WhatsApp,1.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+574,R581,Delhi-NCR,22,4.0,Very poor,Laptop/Desktop,1.0,0.0,9.0,1.0,Youtube,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Young Adults
+575,R582,Delhi-NCR,12,6.0,Good,Tablet,4.0,0.0,7.0,1.0,Youtube,2.0,4,Increased,NO,Gaming,NO,YES,Education,Children
+576,R583,Delhi-NCR,8,2.0,Excellent,Laptop/Desktop,1.0,1.0,5.0,1.0,Youtube,1.0,2,Remain Constant,NO,Sleeping,YES,YES,Education,Children
+577,R584,Delhi-NCR,17,0.75,Excellent,Smartphone,4.0,1.0,7.0,1.0,WhatsApp,0.3,2,Decreased,NO,Sleeping,YES,YES,Education,Pre-Teens
+578,R585,Delhi-NCR,21,3.0,Excellent,Laptop/Desktop,1.0,0.0,11.0,3.0,Twitter,2.0,1,Remain Constant,NO,Reading books,YES,NO,Dining and Entertainment,Young Adults
+579,R586,Delhi-NCR,14,3.0,Average,Smartphone,2.0,2.0,7.0,2.0,WhatsApp,2.0,3,Remain Constant,NO,Gaming,YES,NO,Education,Pre-Teens
+580,R587,Outside Delhi-NCR,20,4.0,Very poor,Smartphone,3.0,0.0,8.0,1.0,Facebook,0.0,1,Increased,NO,Social Media,NO,YES,Personal Reflection,Young Adults
+581,R588,Delhi-NCR,22,0.0,Very poor,Smartphone,2.0,1.0,6.0,0.5,Youtube,0.0,1,Decreased,NO,Communication with others,YES,YES,Personal Exploration,Young Adults
+582,R589,Delhi-NCR,13,6.0,Average,Tablet,3.0,1.0,10.0,1.0,Snapchat,6.0,3,Remain Constant,NO,Communication with others,YES,YES,All Options,Pre-Teens
+583,R590,Delhi-NCR,21,2.0,Very poor,Smartphone,0.5,1.0,8.0,1.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+584,R591,Delhi-NCR,36,3.0,Excellent,Laptop/Desktop,2.0,0.0,8.0,2.0,Facebook,0.0,3,Remain Constant,NO,Reading books,NO,YES,Dining and Entertainment,Adults
+585,R592,Delhi-NCR,13,4.0,Good,Any Gadget,3.0,1.0,9.0,3.0,Instagram,2.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+586,R593,Outside Delhi-NCR,24,2.0,Average,Smartphone,1.0,1.0,7.0,4.0,Instagram,0.0,3,Remain Constant,NO,Sports and games,YES,YES,Education,Young Adults
+587,R594,Outside Delhi-NCR,46,2.0,Very poor,Smartphone,0.5,0.25,7.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Travel and Exploration,Middle-Aged Adults
+588,R595,Delhi-NCR,16,5.0,Good,Laptop/Desktop,8.0,0.5,6.0,0.4,Instagram,0.0,3,Remain Constant,NO,Gaming,YES,NO,Social Interactions,Pre-Teens
+589,R596,Delhi-NCR,25,2.0,Good,Laptop/Desktop,3.0,0.0,7.0,2.0,Linkedin,3.0,2,Remain Constant,NO,Communication with others,YES,YES,Dining and Entertainment,Young Adults
+590,R597,Delhi-NCR,24,6.0,Good,Laptop/Desktop,8.0,0.0,9.0,2.0,Youtube,0.0,3,Decreased,YES,Reading books,YES,YES,Social Interactions,Young Adults
+591,R598,Delhi-NCR,17,4.0,Very poor,Smartphone,2.0,0.0,10.0,3.0,Facebook,4.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+592,R599,Delhi-NCR,16,1.0,Average,Smartphone,2.0,0.0,10.0,2.0,Youtube,3.0,4,Remain Constant,NO,Gaming,NO,YES,Education,Pre-Teens
+593,R600,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,6.0,1.0,8.0,3.0,Instagram,1.0,4,Increased,NO,Gaming,YES,YES,Education,Young Adults
+594,R601,Delhi-NCR,40,5.0,Very poor,Laptop/Desktop,3.0,0.0,6.0,3.0,WhatsApp,0.0,3,Increased,YES,Sleeping,YES,YES,Social Interactions,Adults
+595,R602,Outside Delhi-NCR,32,1.0,Average,Laptop/Desktop,2.0,0.5,7.0,3.0,WhatsApp,0.0,3,Increased,YES,Social Media,NO,YES,Personal Exploration,Adults
+596,R603,Outside Delhi-NCR,14,5.0,Average,Smartphone,2.0,0.0,9.0,1.0,WhatsApp,2.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+597,R604,Delhi-NCR,18,4.0,Average,Laptop/Desktop,2.0,3.0,7.0,4.0,Instagram,1.0,2,Decreased,NO,Gaming,NO,NO,Education,Pre-Teens
+598,R605,Delhi-NCR,52,0.0,Good,Laptop/Desktop,2.0,1.0,8.0,2.0,Youtube,0.0,4,Remain Constant,NO,Reading books,YES,YES,Social Interactions,Middle-Aged Adults
+599,R606,Delhi-NCR,21,1.0,Very poor,Laptop/Desktop,8.0,0.0,8.0,2.0,Youtube,2.0,2,Decreased,YES,Social Media,YES,NO,Social Interactions,Young Adults
+600,R608,Delhi-NCR,21,6.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,4.0,Linkedin,1.0,3,Increased,YES,Leisure and Entertainment,NO,NO,Dining and Entertainment,Young Adults
+601,R609,Delhi-NCR,21,4.0,Average,Laptop/Desktop,3.0,0.0,8.0,2.0,WhatsApp,1.0,3,Decreased,NO,Social Media,NO,NO,Social Interactions,Young Adults
+602,R610,Delhi-NCR,22,1.0,Very poor,Laptop/Desktop,10.0,2.0,7.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+603,R611,Delhi-NCR,19,0.0,Very poor,Smartphone,4.0,0.0,8.0,4.0,Instagram,0.0,1,Increased,NO,Reading books,NO,NO,Social Interactions,Pre-Teens
+604,R612,Outside Delhi-NCR,14,4.0,Good,Smartphone,1.0,1.0,8.0,1.0,Facebook,0.5,2,Increased,NO,Social Media,YES,NO,Social Interactions,Pre-Teens
+605,R613,Delhi-NCR,18,1.0,Average,Smartphone,2.0,0.0,7.0,1.0,WhatsApp,0.0,3,Decreased,YES,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+606,R614,Delhi-NCR,17,2.0,Excellent,Smartphone,3.0,2.0,10.0,1.0,Youtube,1.0,2,Increased,NO,Watching videos,YES,YES,Social Interactions,Pre-Teens
+607,R615,Delhi-NCR,21,2.0,Average,Laptop/Desktop,0.0,0.0,7.0,5.0,Youtube,0.0,3,Decreased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+608,R616,Delhi-NCR,22,2.0,Very poor,Laptop/Desktop,2.0,0.0,6.0,5.0,Instagram,0.0,2,Increased,NO,Gaming,YES,YES,Education,Young Adults
+609,R617,Outside Delhi-NCR,15,3.0,Very poor,Smartphone,2.0,0.0,10.0,1.0,Youtube,2.0,2,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+610,R618,Delhi-NCR,25,6.0,Good,Laptop/Desktop,0.0,1.0,7.0,3.0,Instagram,0.0,2,Increased,NO,Watching videos,NO,YES,Social Interactions,Young Adults
+611,R619,Outside Delhi-NCR,17,2.0,Excellent,Smartphone,3.0,1.0,8.0,1.0,Facebook,2.0,1,Increased,NO,Sleeping,YES,YES,Education,Pre-Teens
+612,R620,Outside Delhi-NCR,25,1.0,Average,Laptop/Desktop,4.0,0.5,9.0,2.0,WhatsApp,5.0,3,Increased,NO,Gaming,NO,YES,Education,Young Adults
+613,R621,Delhi-NCR,22,1.0,Very poor,Smartphone,0.0,0.0,6.0,2.0,Instagram,2.0,3,Increased,YES,Watching videos,NO,NO,Education,Young Adults
+614,R622,Outside Delhi-NCR,21,0.0,Very poor,Smartphone,3.0,0.0,8.0,4.0,Instagram,1.0,3,Remain Constant,YES,Social Media,NO,YES,Social Interactions,Young Adults
+615,R623,Outside Delhi-NCR,20,1.0,Good,Laptop/Desktop,3.0,1.0,12.0,3.0,Youtube,2.0,4,Remain Constant,NO,Reading books,YES,YES,Education,Young Adults
+616,R624,Outside Delhi-NCR,21,2.0,Good,Smartphone,5.0,0.0,12.0,3.0,Youtube,0.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+617,R625,Delhi-NCR,13,3.5,Good,Smartphone,2.0,2.0,9.0,1.0,WhatsApp,6.0,1,Increased,YES,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+618,R626,Delhi-NCR,32,6.0,Good,Laptop/Desktop,2.0,1.0,5.0,2.0,Youtube,2.0,2,Increased,NO,Exercise,YES,YES,Travel and Exploration,Adults
+619,R627,Delhi-NCR,34,2.0,Average,Laptop/Desktop,2.0,1.0,7.0,4.0,Facebook,2.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Adults
+620,R628,Delhi-NCR,22,0.0,Very poor,Smartphone,1.0,0.0,8.0,5.0,WhatsApp,1.5,3,Remain Constant,NO,Reading books,NO,NO,Personal Exploration,Young Adults
+621,R629,Outside Delhi-NCR,21,4.0,Average,Laptop/Desktop,4.0,1.0,6.0,1.0,Linkedin,1.0,3,Remain Constant,YES,Meditation,YES,NO,Education,Young Adults
+622,R630,Delhi-NCR,17,1.0,Good,Smartphone,1.0,1.0,8.0,2.0,Instagram,1.0,3,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+623,R631,Delhi-NCR,13,4.0,Excellent,Smartphone,5.0,1.0,13.0,2.0,WhatsApp,3.0,2,Decreased,YES,Reading books,YES,YES,Social Interactions,Pre-Teens
+624,R632,Delhi-NCR,30,4.0,Average,Laptop/Desktop,3.0,1.0,7.0,1.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Adults
+625,R633,Delhi-NCR,21,2.0,Average,Smartphone,1.0,1.0,9.0,2.0,Youtube,2.0,3,Remain Constant,NO,Watching videos,NO,YES,Education,Young Adults
+626,R634,Outside Delhi-NCR,28,3.0,Good,Laptop/Desktop,4.0,1.0,9.0,2.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+627,R635,Delhi-NCR,21,4.0,Very poor,Laptop/Desktop,3.0,0.0,6.0,2.0,Instagram,0.0,2,Remain Constant,NO,Gaming,NO,NO,Dining and Entertainment,Young Adults
+628,R636,Outside Delhi-NCR,15,2.0,Excellent,Smartphone,5.0,3.0,11.0,1.0,WhatsApp,1.0,4,Increased,NO,Reading books,NO,YES,Education,Pre-Teens
+629,R637,Delhi-NCR,16,1.0,Good,Smartphone,1.0,1.0,7.0,2.0,Youtube,2.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+630,R638,Delhi-NCR,40,3.0,Average,Smartphone,1.0,0.5,7.0,4.0,Instagram,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+631,R639,Delhi-NCR,43,2.0,Good,Laptop/Desktop,2.0,1.0,7.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Sleeping,YES,YES,Travel and Exploration,Adults
+632,R640,Delhi-NCR,25,1.0,Average,Smartphone,2.0,0.0,10.0,1.0,WhatsApp,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+633,R641,Outside Delhi-NCR,24,0.0,NA,,1.0,0.0,8.0,2.0,Linkedin,1.0,3,Increased,NO,Social Media,NO,NO,Personal Reflection,Young Adults
+634,R642,Outside Delhi-NCR,16,2.0,Good,,5.0,1.0,9.0,1.0,Instagram,1.0,1,Decreased,NO,Reading books,YES,NO,Education,Pre-Teens
+635,R643,Delhi-NCR,16,0.8,Very poor,,1.0,0.0,8.0,1.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+636,R644,Delhi-NCR,34,2.0,Good,,1.0,1.0,9.0,2.0,WhatsApp,1.0,3,Increased,NO,Communication with others,YES,YES,Social Interactions,Adults
+637,R645,Outside Delhi-NCR,28,2.0,Excellent,,2.0,1.0,7.0,1.0,Facebook,1.0,2,Decreased,NO,Social Media,YES,YES,Social Interactions,Young Adults
+638,R646,Outside Delhi-NCR,17,0.75,Good,Smartphone,2.0,2.0,6.0,1.0,Instagram,1.0,3,Increased,NO,Exercise,YES,YES,Education,Pre-Teens
+639,R647,Outside Delhi-NCR,18,0.75,Good,Smartphone,1.0,1.0,12.0,1.0,Facebook,1.0,3,Increased,NO,Exercise,YES,YES,Education,Pre-Teens
+640,R648,Outside Delhi-NCR,17,0.75,Good,Smartphone,2.0,1.0,12.0,1.0,Instagram,1.0,3,Increased,NO,Exercise,YES,YES,Education,Pre-Teens
+641,R649,Delhi-NCR,30,4.0,Excellent,Laptop/Desktop,4.0,0.0,5.0,6.0,WhatsApp,1.0,2,Remain Constant,NO,Watching videos,YES,YES,Personal Exploration,Adults
+642,R650,Delhi-NCR,19,4.0,Average,Laptop/Desktop,4.0,1.0,8.0,0.0,Youtube,0.0,2,Increased,NO,Gaming,NO,NO,Personal Exploration,Pre-Teens
+643,R651,Delhi-NCR,21,0.0,Very poor,Smartphone,2.0,0.0,10.0,2.0,Instagram,0.0,3,Remain Constant,NO,Watching videos,NO,NO,Personal Exploration,Young Adults
+644,R652,Outside Delhi-NCR,20,4.0,Good,Laptop/Desktop,6.0,0.0,8.0,3.0,Facebook,0.0,3,Increased,NO,Gaming,YES,YES,Travel and Exploration,Young Adults
+645,R653,Delhi-NCR,19,5.0,Very poor,Smartphone,1.0,1.0,5.0,2.0,Youtube,4.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+646,R654,Delhi-NCR,19,3.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,3.0,Youtube,0.0,3,Remain Constant,NO,Exercise,NO,YES,Education,Pre-Teens
+647,R655,Delhi-NCR,19,0.0,Very poor,Smartphone,0.0,0.0,12.0,4.0,Youtube,6.0,3,Decreased,NO,Watching videos,NO,NO,Travel and Exploration,Pre-Teens
+648,R656,Outside Delhi-NCR,20,4.0,Average,Laptop/Desktop,2.0,1.0,7.0,1.0,Quora,0.0,3,Decreased,YES,Exercise,NO,YES,Personal Exploration,Young Adults
+649,R657,Delhi-NCR,19,4.0,Very poor,Smartphone,5.0,0.0,6.0,2.0,WhatsApp,0.0,3,Increased,NO,Reading books,YES,YES,Education,Pre-Teens
+650,R658,Outside Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,4.0,Youtube,2.0,4,Increased,YES,Meditation,NO,NO,Travel and Exploration,Young Adults
+651,R659,Outside Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,2.0,1.0,9.0,1.0,Instagram,0.0,2,Decreased,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+652,R660,Delhi-NCR,21,6.0,Very poor,Smartphone,4.0,1.0,7.0,2.0,WhatsApp,0.0,4,Increased,NO,Social Media,NO,NO,Social Interactions,Young Adults
+653,R661,Delhi-NCR,20,4.0,Very poor,Smartphone,3.0,0.0,8.0,3.0,Youtube,0.0,3,Remain Constant,NO,Gaming,NO,NO,Travel and Exploration,Young Adults
+654,R662,Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,4.0,1.0,7.0,1.0,Instagram,2.0,4,Remain Constant,NO,Sleeping,NO,YES,Social Interactions,Young Adults
+655,R663,Delhi-NCR,20,5.0,Average,Laptop/Desktop,0.5,0.0,8.0,1.0,WhatsApp,0.5,3,Remain Constant,NO,Social Media,NO,YES,Education,Young Adults
+656,R664,Delhi-NCR,20,5.0,Very poor,Smartphone,2.0,1.0,7.0,1.0,Youtube,0.0,5,Increased,NO,Exercise,YES,YES,Personal Exploration,Young Adults
+657,R665,Outside Delhi-NCR,22,6.0,Average,Smartphone,2.0,1.0,11.0,6.0,Instagram,2.0,4,Increased,YES,Watching videos,NO,NO,Social Interactions,Young Adults
+658,R666,Delhi-NCR,22,3.0,Very poor,Laptop/Desktop,2.0,0.0,9.0,4.0,Instagram,1.0,4,Increased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+659,R667,Delhi-NCR,21,1.0,Average,Smartphone,1.0,2.0,8.0,2.0,Instagram,0.5,3,Decreased,NO,Gaming,NO,YES,Personal Exploration,Young Adults
+660,R668,Delhi-NCR,30,2.0,Very poor,Laptop/Desktop,1.0,1.0,5.0,1.0,Youtube,0.0,3,Remain Constant,NO,Communication with others,YES,YES,Personal Exploration,Adults
+661,R669,Delhi-NCR,21,2.0,Very poor,Laptop/Desktop,2.0,0.0,6.0,3.0,WhatsApp,0.0,3,Remain Constant,NO,Gaming,NO,NO,Social Interactions,Young Adults
+662,R670,Delhi-NCR,22,3.0,Average,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,0.0,2,Decreased,NO,Exercise,YES,NO,Social Interactions,Young Adults
+663,R671,Outside Delhi-NCR,21,4.0,Good,Smartphone,3.0,1.0,8.0,3.0,Instagram,3.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+664,R672,Outside Delhi-NCR,21,5.0,Very poor,Smartphone,1.0,0.5,9.0,1.5,Instagram,0.0,3,Remain Constant,NO,Social Media,NO,NO,Personal Exploration,Young Adults
+665,R673,Outside Delhi-NCR,19,5.0,Good,Laptop/Desktop,3.0,0.0,9.0,5.0,WhatsApp,1.0,3,Remain Constant,NO,Gaming,YES,YES,Travel and Exploration,Pre-Teens
+666,R674,Delhi-NCR,22,1.0,Very poor,Laptop/Desktop,2.0,1.0,9.0,1.5,WhatsApp,0.5,3,Remain Constant,YES,Watching videos,NO,NO,Social Interactions,Young Adults
+667,R675,Delhi-NCR,20,6.0,Average,Laptop/Desktop,2.0,1.0,8.0,4.0,Instagram,0.0,2,Remain Constant,NO,Gaming,NO,NO,Personal Exploration,Young Adults
+668,R676,Delhi-NCR,21,3.0,Excellent,Laptop/Desktop,6.5,0.0,7.0,0.5,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+669,R678,Outside Delhi-NCR,21,3.0,Average,Laptop/Desktop,2.0,1.0,7.0,2.0,Youtube,1.0,3,Decreased,NO,Gaming,YES,YES,Travel and Exploration,Young Adults
+670,R679,Outside Delhi-NCR,21,0.0,Very poor,Laptop/Desktop,4.0,1.0,8.0,1.0,Linkedin,0.0,4,Remain Constant,NO,Social Media,YES,NO,Personal Exploration,Young Adults
+671,R680,Outside Delhi-NCR,21,5.0,Good,Laptop/Desktop,4.0,2.0,8.0,1.0,Instagram,0.0,4,Decreased,YES,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+672,R681,Delhi-NCR,22,0.0,Very poor,Smartphone,0.5,1.0,10.0,1.0,Youtube,0.0,3,Increased,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+673,R682,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,0.0,0.0,10.0,10.0,Instagram,0.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+674,R683,Delhi-NCR,20,3.0,Good,Laptop/Desktop,3.0,1.0,7.0,2.0,Instagram,1.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Young Adults
+675,R684,Delhi-NCR,18,2.0,Average,Smartphone,1.0,1.0,10.0,4.0,Youtube,1.0,4,Increased,NO,Gaming,NO,NO,Dining and Entertainment,Pre-Teens
+676,R685,Delhi-NCR,19,0.0,Average,Laptop/Desktop,3.0,1.0,9.0,2.0,Instagram,0.0,2,Remain Constant,NO,Gaming,NO,NO,Dining and Entertainment,Pre-Teens
+677,R686,Delhi-NCR,21,3.0,Average,Laptop/Desktop,4.0,1.0,7.0,1.0,Youtube,2.0,4,Decreased,NO,Meditation,NO,YES,Social Interactions,Young Adults
+678,R687,Outside Delhi-NCR,19,4.0,Poor,Laptop/Desktop,5.0,2.0,7.0,0.5,WhatsApp,0.0,4,Remain Constant,YES,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+679,R688,Outside Delhi-NCR,22,3.0,Very poor,Laptop/Desktop,3.0,0.0,7.0,4.0,Youtube,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Social Interactions,Young Adults
+680,R689,Delhi-NCR,21,7.0,Very poor,Laptop/Desktop,0.0,0.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Gaming,YES,NO,Dining and Entertainment,Young Adults
+681,R690,Outside Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,2.0,2.0,9.0,2.0,Instagram,0.5,3,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+682,R691,Delhi-NCR,20,4.0,Very poor,Smartphone,2.0,1.0,6.0,2.0,Instagram,1.0,3,Increased,NO,Unable to reduce stress,YES,YES,All Options,Young Adults
+683,R692,Delhi-NCR,21,4.0,Good,Smartphone,2.0,1.0,7.0,3.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+684,R693,Delhi-NCR,23,3.0,Very poor,Laptop/Desktop,6.0,1.0,7.0,1.5,Instagram,0.5,3,Increased,YES,Exercise,YES,YES,Education,Young Adults
+685,R694,Delhi-NCR,22,0.0,Very poor,Laptop/Desktop,1.0,0.0,14.0,2.0,WhatsApp,2.0,3,Increased,NO,Sleeping,NO,NO,Personal Exploration,Young Adults
+686,R695,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,1.0,2.0,12.0,2.0,WhatsApp,2.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,All Options,Young Adults
+687,R696,Delhi-NCR,20,6.0,Very poor,Laptop/Desktop,6.0,1.0,8.0,0.0,Linkedin,1.0,3,Decreased,NO,Gaming,NO,YES,Personal Reflection,Young Adults
+688,R697,Delhi-NCR,21,3.0,Average,Laptop/Desktop,3.0,0.0,9.0,2.0,Linkedin,0.0,8,Increased,NO,Watching videos,YES,YES,Personal Exploration,Young Adults
+689,R698,Delhi-NCR,19,1.0,Average,Laptop/Desktop,3.0,0.0,10.0,4.0,Instagram,0.0,3,Decreased,NO,Gaming,NO,NO,Personal Exploration,Pre-Teens
+690,R699,Delhi-NCR,22,0.0,Average,Laptop/Desktop,6.0,1.0,6.0,1.0,Youtube,2.0,3,Remain Constant,NO,Gaming,YES,YES,Sports and Activities,Young Adults
+691,R700,Outside Delhi-NCR,20,3.0,Poor,Laptop/Desktop,5.0,1.0,7.0,1.0,WhatsApp,0.0,3,Increased,YES,Watching videos,NO,NO,Personal Exploration,Young Adults
+692,R701,Outside Delhi-NCR,19,1.0,Average,Laptop/Desktop,2.0,1.0,7.0,3.0,Instagram,0.0,3,Remain Constant,NO,Reading books,NO,YES,Social Interactions,Pre-Teens
+693,R702,Delhi-NCR,22,2.0,Good,Laptop/Desktop,10.0,1.0,6.0,1.0,WhatsApp,0.0,6,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+694,R703,Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,1.0,2.0,5.0,4.0,Instagram,1.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+695,R704,Delhi-NCR,18,3.0,Average,Smartphone,1.0,1.0,9.0,4.0,Instagram,0.5,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+696,R705,Delhi-NCR,20,2.0,Average,Laptop/Desktop,2.0,1.0,9.0,1.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Young Adults
+697,R706,Delhi-NCR,19,2.0,Very poor,Laptop/Desktop,2.0,0.0,12.0,2.0,WhatsApp,0.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+698,R707,Delhi-NCR,23,2.0,Average,Smartphone,5.0,1.0,12.0,1.0,Linkedin,0.0,3,Remain Constant,YES,Leisure and Entertainment,YES,NO,Education,Young Adults
+699,R708,Delhi-NCR,19,0.0,Average,Smartphone,1.0,0.0,8.0,4.0,Youtube,3.0,3,Increased,NO,Gaming,NO,YES,Personal Exploration,Pre-Teens
+700,R709,Delhi-NCR,18,0.0,NA,,1.0,1.0,10.0,9.0,Instagram,2.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+701,R710,Outside Delhi-NCR,19,2.0,Good,Laptop/Desktop,3.0,1.0,8.0,2.0,Youtube,1.0,3,Remain Constant,YES,Reading books,YES,YES,Education,Pre-Teens
+702,R711,Delhi-NCR,17,7.0,Very poor,Laptop/Desktop,3.0,2.0,6.0,2.0,Instagram,0.0,4,Remain Constant,NO,Sleeping,YES,NO,Dining and Entertainment,Pre-Teens
+703,R712,Delhi-NCR,18,7.0,Average,Laptop/Desktop,2.0,1.0,8.0,3.0,WhatsApp,1.0,3,Decreased,NO,Watching videos,YES,YES,Social Interactions,Pre-Teens
+704,R713,Delhi-NCR,22,2.0,Good,Any Gadget,1.5,1.0,7.0,1.0,Youtube,2.0,3,Increased,NO,Watching videos,NO,NO,Travel and Exploration,Young Adults
+705,R714,Delhi-NCR,21,4.0,Average,Laptop/Desktop,4.0,0.0,7.0,2.0,WhatsApp,1.0,3,Increased,NO,Watching videos,YES,YES,Social Interactions,Young Adults
+706,R715,Delhi-NCR,17,3.0,Average,Laptop/Desktop,2.0,0.0,6.0,2.0,Instagram,0.0,3,Increased,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+707,R716,Delhi-NCR,19,0.0,Good,Tablet,0.5,1.0,6.0,2.0,Instagram,1.0,4,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+708,R717,Delhi-NCR,20,5.0,Very poor,Smartphone,2.0,2.0,6.0,3.0,Youtube,2.0,2,Decreased,NO,Reading books,NO,NO,Personal Exploration,Young Adults
+709,R718,Delhi-NCR,17,4.0,Very poor,Smartphone,1.0,0.0,6.0,2.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+710,R719,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,3.0,Instagram,2.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Social Interactions,Young Adults
+711,R720,Delhi-NCR,19,2.0,Average,Smartphone,2.0,0.0,9.0,5.0,Instagram,1.0,2,Remain Constant,NO,Sleeping,NO,NO,Education,Pre-Teens
+712,R721,Delhi-NCR,20,1.5,Very poor,Smartphone,2.5,2.0,9.0,1.0,Youtube,1.5,2,Decreased,YES,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+713,R722,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,3.0,0.0,9.0,4.0,Snapchat,0.75,4,Increased,NO,Sleeping,NO,NO,Education,Young Adults
+714,R723,Outside Delhi-NCR,19,2.0,Average,Laptop/Desktop,4.0,1.0,6.0,3.0,Instagram,1.0,4,Increased,NO,Social Media,NO,YES,Social Interactions,Pre-Teens
+715,R724,Delhi-NCR,38,4.0,Excellent,Laptop/Desktop,5.0,1.0,6.0,1.0,Youtube,2.0,3,Increased,NO,Gaming,YES,YES,Personal Exploration,Adults
+716,R725,Delhi-NCR,19,3.0,Average,Smartphone,7.0,1.0,6.0,1.0,Linkedin,1.0,4,Increased,NO,Communication with others,YES,YES,Education,Pre-Teens
+717,R726,Delhi-NCR,17,2.0,Average,Laptop/Desktop,0.0,0.0,11.0,1.5,Instagram,2.0,4,Remain Constant,NO,Communication with others,NO,YES,Dining and Entertainment,Pre-Teens
+718,R727,Outside Delhi-NCR,18,3.0,Good,Laptop/Desktop,3.0,0.0,10.0,2.0,Instagram,0.0,2,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+719,R728,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,2.0,3.0,10.0,1.0,Youtube,0.5,2,Decreased,YES,Leisure and Entertainment,YES,YES,Sports and Activities,Young Adults
+720,R729,Delhi-NCR,20,2.0,Very poor,Smartphone,6.0,1.0,5.0,4.0,Youtube,0.5,1,Increased,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+721,R730,Delhi-NCR,23,0.0,Average,Laptop/Desktop,1.0,1.0,9.0,3.0,Linkedin,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+722,R731,Outside Delhi-NCR,29,2.0,Average,Laptop/Desktop,2.0,1.0,8.0,0.0,Youtube,0.0,2,Remain Constant,NO,Reading books,NO,YES,Personal Reflection,Young Adults
+723,R732,Delhi-NCR,20,0.0,Very poor,Laptop/Desktop,6.0,0.0,9.0,1.0,WhatsApp,1.0,3,Increased,NO,Sleeping,NO,NO,Travel and Exploration,Young Adults
+725,R734,Delhi-NCR,18,2.0,Average,Laptop/Desktop,3.0,1.0,8.0,2.0,Youtube,3.0,3,Increased,NO,Gaming,YES,YES,Education,Pre-Teens
+726,R735,Delhi-NCR,15,4.0,Good,Smartphone,4.0,1.0,4.0,3.0,Youtube,2.0,3,Remain Constant,NO,Sleeping,YES,YES,Social Interactions,Pre-Teens
+727,R736,Delhi-NCR,19,4.0,Average,Smartphone,5.0,1.0,8.0,2.0,Youtube,1.0,3,Remain Constant,NO,Meditation,YES,YES,Travel and Exploration,Pre-Teens
+728,R737,Delhi-NCR,20,2.0,Very poor,Smartphone,2.0,0.0,9.0,10.0,Youtube,1.0,2,Decreased,NO,Gaming,YES,YES,Personal Reflection,Young Adults
+729,R738,Outside Delhi-NCR,21,1.0,Very poor,Smartphone,4.0,1.0,9.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Watching videos,YES,NO,Dining and Entertainment,Young Adults
+730,R739,Outside Delhi-NCR,21,4.0,Average,Laptop/Desktop,3.0,0.0,8.0,2.0,Youtube,1.0,3,Decreased,NO,Gaming,YES,YES,Personal Exploration,Young Adults
+731,R740,Delhi-NCR,20,4.0,Very poor,Smartphone,1.0,1.0,10.0,2.0,Instagram,1.0,3,Increased,YES,Exercise,NO,YES,Dining and Entertainment,Young Adults
+732,R741,Delhi-NCR,20,2.0,Average,Smartphone,1.0,2.0,8.0,4.0,Facebook,2.0,4,Decreased,NO,Reading books,NO,YES,Travel and Exploration,Young Adults
+733,R742,Outside Delhi-NCR,19,0.0,Very poor,Smartphone,2.0,1.0,7.0,4.0,Instagram,0.0,2,Remain Constant,NO,Meditation,NO,YES,Travel and Exploration,Pre-Teens
+734,R743,Outside Delhi-NCR,28,3.0,Good,Laptop/Desktop,1.0,0.0,10.0,1.0,WhatsApp,0.0,2,Increased,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+735,R744,Delhi-NCR,19,6.0,Good,Laptop/Desktop,6.0,0.0,8.0,2.0,Youtube,0.5,2,Increased,NO,Leisure and Entertainment,YES,NO,Travel and Exploration,Pre-Teens
+736,R745,Delhi-NCR,21,2.0,Average,Smartphone,2.0,1.0,8.0,1.0,Youtube,0.0,3,Remain Constant,NO,Sleeping,NO,NO,Social Interactions,Young Adults
+737,R746,Delhi-NCR,23,0.0,Good,Laptop/Desktop,3.0,0.0,10.0,4.0,Youtube,1.0,3,Increased,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+738,R747,Delhi-NCR,20,3.0,Good,Laptop/Desktop,2.0,1.0,7.0,5.0,WhatsApp,2.0,3,Remain Constant,NO,Reading books,NO,YES,Education,Young Adults
+739,R748,Delhi-NCR,22,4.0,Good,Laptop/Desktop,2.0,1.0,12.0,2.0,Instagram,2.0,3,Remain Constant,NO,Communication with others,NO,YES,Education,Young Adults
+740,R749,Delhi-NCR,20,2.0,Average,Smartphone,4.0,1.0,8.0,2.0,Youtube,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+741,R750,Outside Delhi-NCR,22,0.0,NA,,0.0,1.0,5.0,4.0,Instagram,0.0,2,Decreased,NO,Watching videos,NO,YES,Travel and Exploration,Young Adults
+742,R751,Outside Delhi-NCR,20,5.0,Good,Laptop/Desktop,4.0,1.0,7.0,3.0,Youtube,1.0,3,Increased,NO,Reading books,YES,YES,Travel and Exploration,Young Adults
+743,R752,Outside Delhi-NCR,23,3.0,Good,Laptop/Desktop,2.0,1.0,6.0,1.0,WhatsApp,0.0,2,Remain Constant,NO,Reading books,YES,YES,Dining and Entertainment,Young Adults
+744,R753,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,2.0,1.0,8.0,4.0,WhatsApp,1.0,4,Increased,NO,Social Media,NO,YES,Travel and Exploration,Young Adults
+745,R754,Delhi-NCR,19,3.0,Very poor,Smartphone,2.0,1.0,9.0,5.0,Instagram,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+746,R755,Outside Delhi-NCR,23,3.0,Good,Laptop/Desktop,5.0,0.0,6.0,1.0,Youtube,0.0,2,Remain Constant,NO,Watching videos,NO,YES,Education,Young Adults
+747,R756,Outside Delhi-NCR,20,4.0,Average,Smartphone,2.0,0.0,8.0,2.0,WhatsApp,4.0,3,Remain Constant,NO,Sleeping,YES,YES,Social Interactions,Young Adults
+748,R757,Outside Delhi-NCR,22,2.0,Good,Laptop/Desktop,2.0,1.0,8.0,2.0,WhatsApp,0.0,4,Increased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+749,R758,Delhi-NCR,19,2.0,Poor,Smartphone,2.0,2.0,8.0,3.0,Youtube,0.0,4,Decreased,YES,Exercise,YES,NO,Personal Exploration,Pre-Teens
+750,R759,Outside Delhi-NCR,21,5.0,Very poor,Smartphone,4.0,1.0,7.0,1.0,Youtube,0.0,3,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Young Adults
+751,R760,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,5.0,0.0,8.0,1.0,Youtube,0.0,3,Decreased,YES,No stress,NO,YES,Personal Reflection,Young Adults
+752,R761,Outside Delhi-NCR,21,1.0,Very poor,Laptop/Desktop,5.0,1.0,11.0,2.0,Instagram,0.0,3,Increased,NO,Exercise,NO,YES,Dining and Entertainment,Young Adults
+753,R762,Delhi-NCR,22,5.0,Good,Laptop/Desktop,3.0,0.0,7.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Sleeping,YES,YES,Travel and Exploration,Young Adults
+754,R763,Delhi-NCR,18,4.0,Good,Smartphone,2.0,0.5,6.0,2.0,WhatsApp,0.0,4,Remain Constant,NO,Gaming,YES,NO,Education,Pre-Teens
+755,R764,Delhi-NCR,21,1.0,Good,Laptop/Desktop,1.0,2.0,7.0,2.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+756,R765,Outside Delhi-NCR,22,2.0,Average,Laptop/Desktop,5.0,0.3,8.0,1.0,Linkedin,1.0,3,Increased,YES,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+757,R766,Outside Delhi-NCR,20,4.0,Average,Laptop/Desktop,3.0,1.0,9.0,3.0,Instagram,1.0,2,Increased,NO,Meditation,NO,YES,Social Interactions,Young Adults
+758,R767,Delhi-NCR,19,6.0,Very poor,Smartphone,4.0,2.0,6.0,2.0,Instagram,0.0,4,Decreased,YES,Gaming,YES,YES,Social Interactions,Pre-Teens
+759,R768,Delhi-NCR,21,0.5,Very poor,Smartphone,2.0,1.0,9.0,1.0,Youtube,0.0,3,Increased,NO,Reading books,NO,YES,Travel and Exploration,Young Adults
+760,R769,Delhi-NCR,21,1.0,Very poor,Laptop/Desktop,0.0,0.0,9.0,3.0,WhatsApp,0.0,3,Remain Constant,NO,Watching videos,NO,NO,Education,Young Adults
+761,R770,Delhi-NCR,19,4.0,Very poor,Smartphone,2.0,1.0,9.0,7.0,Instagram,3.0,3,Increased,NO,Sleeping,NO,YES,Education,Pre-Teens
+762,R771,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,2.0,0.0,8.0,1.0,Twitter,0.0,3,Increased,YES,Reading books,NO,YES,Education,Young Adults
+763,R772,Outside Delhi-NCR,23,5.5,Excellent,Laptop/Desktop,3.0,1.0,8.0,1.0,WhatsApp,0.0,2,Decreased,NO,Watching videos,YES,YES,Education,Young Adults
+764,R773,Delhi-NCR,21,0.0,Very poor,Smartphone,0.0,0.0,9.0,4.0,Youtube,0.0,4,Increased,NO,Watching videos,NO,NO,Dining and Entertainment,Young Adults
+765,R774,Delhi-NCR,40,6.0,Average,Laptop/Desktop,3.0,0.0,7.0,2.0,WhatsApp,2.0,3,Remain Constant,NO,Unable to reduce stress,NO,YES,Travel and Exploration,Adults
+766,R775,Delhi-NCR,20,4.0,Good,Laptop/Desktop,1.0,0.0,9.0,2.0,Instagram,0.0,3,Increased,NO,Social Media,NO,YES,Education,Young Adults
+767,R776,Outside Delhi-NCR,40,5.0,Excellent,Laptop/Desktop,4.0,0.5,6.0,1.0,WhatsApp,2.0,2,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+768,R777,Delhi-NCR,19,3.0,Average,Smartphone,1.0,1.0,6.0,2.0,Instagram,0.0,3,Decreased,NO,Watching videos,YES,YES,Education,Pre-Teens
+769,R778,Outside Delhi-NCR,18,2.0,Very poor,Laptop/Desktop,4.0,0.0,8.0,1.5,Instagram,0.0,2,Remain Constant,NO,Watching videos,NO,NO,Education,Pre-Teens
+770,R779,Delhi-NCR,23,3.0,Average,Laptop/Desktop,2.0,1.0,6.0,3.0,Twitter,2.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+771,R780,Outside Delhi-NCR,21,7.0,Average,Laptop/Desktop,8.0,0.0,6.0,1.0,Linkedin,1.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+772,R781,Outside Delhi-NCR,12,5.0,Average,Smartphone,2.0,1.0,7.0,0.0,None,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Children
+773,R782,Outside Delhi-NCR,20,0.5,Very poor,Smartphone,1.0,1.0,8.0,0.5,WhatsApp,2.5,3,Remain Constant,NO,Sleeping,NO,YES,All Options,Young Adults
+774,R783,Delhi-NCR,22,0.0,NA,,2.0,1.0,8.0,2.0,Instagram,2.0,3,Remain Constant,NO,Exercise,YES,YES,Education,Young Adults
+775,R784,Outside Delhi-NCR,30,4.0,Average,Laptop/Desktop,3.0,1.0,7.8,4.0,WhatsApp,2.0,3,Increased,NO,Watching videos,NO,NO,Personal Exploration,Adults
+776,R785,Outside Delhi-NCR,21,5.0,Average,Laptop/Desktop,1.0,1.0,8.0,2.0,Instagram,2.0,4,Remain Constant,NO,Watching videos,YES,YES,Social Interactions,Young Adults
+777,R786,Delhi-NCR,20,1.0,Very poor,Laptop/Desktop,0.0,0.0,8.0,4.0,WhatsApp,0.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+778,R787,Delhi-NCR,22,3.0,Average,Laptop/Desktop,5.0,0.0,8.0,2.0,Instagram,0.0,2,Remain Constant,YES,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+779,R788,Delhi-NCR,40,1.0,Excellent,Laptop/Desktop,2.0,1.0,6.7,1.0,WhatsApp,1.0,2,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Adults
+780,R789,Outside Delhi-NCR,24,5.0,Excellent,Laptop/Desktop,3.0,3.0,8.0,2.0,WhatsApp,2.0,3,Remain Constant,NO,Work,YES,YES,All Options,Young Adults
+781,R790,Outside Delhi-NCR,18,4.0,Very poor,Smartphone,1.0,2.0,9.0,2.0,WhatsApp,0.5,2,Decreased,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Pre-Teens
+782,R791,Outside Delhi-NCR,22,1.0,Very poor,Smartphone,2.0,1.0,5.0,10.0,Instagram,0.0,2,Decreased,NO,Watching videos,NO,NO,Personal Exploration,Young Adults
+783,R792,Outside Delhi-NCR,20,7.0,Poor,Smartphone,2.0,0.0,8.0,3.0,Instagram,0.0,2,Remain Constant,YES,Social Media,NO,YES,Travel and Social Interactions,Young Adults
+784,R793,Delhi-NCR,35,3.0,Good,Laptop/Desktop,3.0,1.0,7.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Sleeping,NO,NO,Education,Adults
+785,R794,Delhi-NCR,40,2.0,Poor,Smartphone,3.0,0.0,5.0,1.0,WhatsApp,1.0,4,Increased,NO,Watching videos,NO,YES,Education,Adults
+786,R795,Outside Delhi-NCR,18,0.0,Poor,Laptop/Desktop,2.0,2.0,7.0,4.0,Instagram,1.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+787,R796,Outside Delhi-NCR,19,4.0,Very poor,Smartphone,0.0,0.0,7.0,1.0,Youtube,0.0,2,Increased,NO,Leisure and Entertainment,NO,NO,Dining and Entertainment,Pre-Teens
+788,R797,Delhi-NCR,35,4.0,Average,Laptop/Desktop,4.0,2.0,10.0,2.0,Facebook,1.0,3,Remain Constant,NO,Gaming,YES,YES,Personal Exploration,Adults
+789,R798,Delhi-NCR,16,5.0,Very poor,Laptop/Desktop,4.0,0.5,8.0,0.5,Youtube,0.0,3,Increased,NO,Reading books,NO,NO,Dining and Entertainment,Pre-Teens
+790,R799,Outside Delhi-NCR,30,1.0,Good,Smartphone,1.0,1.0,7.0,1.0,WhatsApp,0.0,4,Remain Constant,NO,Exercise,NO,YES,Education,Adults
+791,R800,Delhi-NCR,23,5.0,Excellent,Laptop/Desktop,2.0,1.0,8.0,1.0,WhatsApp,4.0,3,Remain Constant,YES,Meditation,YES,YES,Social Interactions,Young Adults
+792,R801,Outside Delhi-NCR,19,2.0,Average,Laptop/Desktop,5.0,0.0,9.0,2.0,Instagram,0.5,3,Increased,YES,Communication with others,NO,YES,Social Interactions,Pre-Teens
+793,R802,Outside Delhi-NCR,19,4.0,Very poor,Smartphone,2.0,1.0,8.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+794,R803,Outside Delhi-NCR,37,4.0,Good,Laptop/Desktop,5.0,1.0,7.0,4.0,Instagram,0.0,2,Increased,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+795,R804,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,2.0,0.0,7.0,1.0,Instagram,0.0,2,Increased,NO,Social Media,NO,NO,Education,Young Adults
+796,R805,Outside Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,4.0,0.0,9.0,2.0,Youtube,1.0,4,Increased,NO,Social Media,YES,NO,Social Interactions,Young Adults
+797,R806,Delhi-NCR,24,0.0,Average,Smartphone,1.0,1.0,8.0,1.0,Linkedin,0.0,3,Remain Constant,NO,Work,YES,NO,Personal Exploration,Young Adults
+798,R807,Delhi-NCR,40,0.0,Average,Laptop/Desktop,0.0,1.0,10.0,2.0,WhatsApp,1.0,3,Increased,NO,Watching videos,NO,YES,Social Interactions,Adults
+799,R808,Outside Delhi-NCR,20,2.0,Very poor,Smartphone,1.0,0.5,8.0,2.0,Youtube,5.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+800,R809,Outside Delhi-NCR,23,3.0,Poor,Smartphone,4.0,0.0,9.0,3.0,Facebook,0.0,2,Increased,NO,Watching videos,NO,YES,Social Interactions,Young Adults
+801,R810,Delhi-NCR,26,3.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,1.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Personal Exploration,Young Adults
+802,R811,Outside Delhi-NCR,20,5.0,Good,Smartphone,3.0,0.0,7.0,2.0,Youtube,2.0,4,Remain Constant,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+803,R812,Outside Delhi-NCR,22,0.0,Very poor,Smartphone,4.0,1.0,8.0,0.0,None,0.0,4,Remain Constant,YES,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+804,R813,Outside Delhi-NCR,14,5.0,Good,Laptop/Desktop,4.0,0.0,8.0,2.0,Facebook,2.0,3,Increased,NO,Sleeping,NO,YES,Education,Pre-Teens
+805,R814,Outside Delhi-NCR,20,0.0,Very poor,Smartphone,1.0,0.0,10.0,4.0,Youtube,1.0,3,Increased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+806,R815,Outside Delhi-NCR,22,0.0,Average,Smartphone,0.0,0.0,10.0,5.0,Facebook,4.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+807,R816,Outside Delhi-NCR,40,5.0,Average,Smartphone,2.0,1.0,8.0,4.0,WhatsApp,6.0,3,Remain Constant,NO,Social Media,YES,YES,Personal Exploration,Adults
+808,R817,Outside Delhi-NCR,23,1.0,Poor,Smartphone,2.0,1.0,8.0,2.0,Instagram,2.0,2,Increased,YES,Meditation,NO,YES,Education,Young Adults
+809,R818,Outside Delhi-NCR,21,3.0,Very poor,Smartphone,2.0,2.0,7.0,3.0,WhatsApp,3.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+810,R819,Outside Delhi-NCR,21,5.0,Average,Smartphone,5.0,0.0,5.0,2.0,Instagram,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Reflection,Young Adults
+811,R820,Delhi-NCR,34,2.0,Average,Smartphone,1.0,1.0,7.0,4.0,WhatsApp,2.0,3,Increased,NO,Social Media,YES,YES,Travel and Exploration,Adults
+812,R821,Outside Delhi-NCR,40,1.0,Average,Smartphone,1.0,1.0,8.0,3.0,Facebook,2.0,2,Decreased,NO,Leisure and Entertainment,NO,YES,Education,Adults
+813,R822,Outside Delhi-NCR,22,3.0,Good,Smartphone,2.0,1.0,8.0,2.0,Youtube,1.0,2,Remain Constant,NO,Gaming,YES,NO,Social Interactions,Young Adults
+814,R823,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,0.0,2.0,8.0,4.0,Instagram,2.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Travel and Exploration,Young Adults
+815,R824,Outside Delhi-NCR,18,2.0,Poor,Smartphone,1.0,1.0,8.5,2.0,WhatsApp,3.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+816,R825,Outside Delhi-NCR,22,2.0,Average,Laptop/Desktop,7.0,1.0,9.0,2.0,Instagram,0.0,2,Decreased,NO,Social Media,NO,NO,Personal Exploration,Young Adults
+817,R826,Outside Delhi-NCR,21,0.0,Very poor,Smartphone,2.0,3.0,9.0,1.0,WhatsApp,1.0,1,Decreased,YES,Gaming,NO,NO,Personal Exploration,Young Adults
+818,R827,Outside Delhi-NCR,22,3.0,Very poor,Laptop/Desktop,5.0,1.0,8.0,3.0,Facebook,1.0,4,Remain Constant,NO,Social Media,YES,YES,Social Interactions,Young Adults
+819,R828,Outside Delhi-NCR,21,2.0,Good,Laptop/Desktop,2.0,2.0,7.0,0.5,WhatsApp,0.0,4,Remain Constant,NO,Reading books,YES,YES,Social Interactions,Young Adults
+820,R829,Outside Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,12.0,0.0,6.0,1.0,Linkedin,0.0,2,Decreased,YES,Social Media,NO,NO,Education,Young Adults
+821,R830,Delhi-NCR,21,2.0,Very poor,Smartphone,3.0,0.0,8.0,2.0,Instagram,0.0,2,Increased,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+822,R831,Outside Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,4.0,0.0,11.0,3.0,Instagram,0.0,3,Increased,NO,Watching videos,NO,NO,Dining and Entertainment,Young Adults
+823,R832,Delhi-NCR,20,4.0,NA,,3.0,1.0,7.0,2.0,WhatsApp,2.0,4,Remain Constant,NO,Watching videos,YES,YES,All Options,Young Adults
+824,R833,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,5.0,0.0,7.0,1.0,Youtube,0.0,4,Remain Constant,NO,Gaming,YES,NO,Dining and Entertainment,Young Adults
+825,R834,Outside Delhi-NCR,20,4.0,Average,Laptop/Desktop,5.0,0.5,8.0,1.0,WhatsApp,2.0,3,Increased,NO,Meditation,YES,YES,Social Interactions,Young Adults
+826,R835,Outside Delhi-NCR,21,4.0,Average,Laptop/Desktop,4.0,0.0,6.0,4.0,WhatsApp,0.0,3,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Young Adults
+827,R836,Delhi-NCR,21,3.0,Very poor,Smartphone,8.0,1.0,8.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Meditation,YES,NO,Social Interactions,Young Adults
+828,R837,Delhi-NCR,21,5.0,Average,Smartphone,6.0,0.0,5.0,2.0,Youtube,0.0,3,Increased,YES,Gaming,YES,YES,Dining and Entertainment,Young Adults
+829,R838,Outside Delhi-NCR,40,6.0,Excellent,Laptop/Desktop,2.0,1.0,6.0,2.0,WhatsApp,2.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Education,Adults
+830,R839,Delhi-NCR,20,2.0,Very poor,Smartphone,3.0,2.0,8.0,1.0,Youtube,1.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+831,R840,Delhi-NCR,22,4.0,Good,Laptop/Desktop,2.0,1.0,8.0,5.0,WhatsApp,0.0,3,Remain Constant,NO,Social Media,NO,YES,Education,Young Adults
+832,R841,Delhi-NCR,19,5.0,Average,Smartphone,6.0,1.0,6.0,0.0,WhatsApp,0.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+833,R842,Delhi-NCR,22,3.0,Good,Smartphone,3.0,0.0,12.0,1.0,Youtube,4.0,2,Remain Constant,NO,Gaming,NO,NO,All Options,Young Adults
+834,R843,Delhi-NCR,20,6.0,Very poor,Laptop/Desktop,4.0,1.0,6.0,3.0,WhatsApp,0.5,3,Remain Constant,NO,Watching videos,YES,YES,Social Interactions,Young Adults
+835,R844,Delhi-NCR,36,4.0,Good,Laptop/Desktop,2.0,1.0,10.0,1.0,Youtube,1.0,3,Increased,NO,Sleeping,YES,YES,Social Interactions,Adults
+836,R845,Delhi-NCR,23,4.0,Good,Laptop/Desktop,2.0,0.5,7.0,3.0,Youtube,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Young Adults
+837,R846,Outside Delhi-NCR,32,2.0,Average,Laptop/Desktop,3.0,0.0,9.0,2.0,None,0.5,3,Increased,NO,Reading books,NO,YES,Education,Adults
+838,R847,Outside Delhi-NCR,24,2.0,Average,Smartphone,3.0,0.5,9.0,2.0,Twitter,0.0,2,Remain Constant,NO,Sleeping,YES,YES,Family,Young Adults
+839,R848,Outside Delhi-NCR,20,5.0,Average,Laptop/Desktop,4.0,1.0,8.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+840,R849,Delhi-NCR,22,2.0,Excellent,Laptop/Desktop,3.0,1.0,8.0,2.0,Instagram,1.0,3,Decreased,NO,Gaming,YES,YES,Dining and Entertainment,Young Adults
+841,R850,Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,1.0,Youtube,0.5,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Young Adults
+842,R851,Delhi-NCR,21,4.0,Very poor,Laptop/Desktop,2.0,0.0,10.0,2.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+843,R852,Outside Delhi-NCR,38,4.0,Very poor,Laptop/Desktop,3.0,1.0,6.0,2.0,Youtube,2.0,3,Remain Constant,NO,Sleeping,YES,YES,Travel and Exploration,Adults
+844,R853,Delhi-NCR,27,3.0,Good,Laptop/Desktop,2.0,1.0,8.0,2.0,Instagram,0.5,4,Decreased,YES,Watching videos,NO,NO,Travel and Exploration,Young Adults
+845,R854,Outside Delhi-NCR,20,2.0,Average,Laptop/Desktop,2.0,0.0,7.0,2.0,WhatsApp,1.0,3,Increased,NO,Social Media,NO,YES,Social Interactions,Young Adults
+846,R855,Outside Delhi-NCR,21,2.0,Very poor,Laptop/Desktop,12.0,1.0,9.0,5.0,Youtube,1.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+847,R856,Delhi-NCR,20,8.0,Very poor,Laptop/Desktop,2.0,0.0,6.0,2.0,Linkedin,3.0,3,Decreased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+848,R857,Delhi-NCR,20,4.0,Average,Smartphone,1.0,0.0,6.0,10.0,Talklife,2.0,1,Remain Constant,NO,Gaming,NO,NO,Education,Young Adults
+849,R858,Delhi-NCR,22,5.0,Average,Smartphone,4.0,1.0,6.0,2.0,Instagram,2.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+850,R859,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,0.75,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Sports and Activities,Young Adults
+851,R860,Outside Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,1.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+852,R861,Delhi-NCR,21,4.0,Very poor,Smartphone,6.0,0.0,9.0,2.0,Youtube,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+853,R862,Delhi-NCR,21,4.0,Very poor,Smartphone,1.0,1.0,7.0,2.0,Instagram,0.0,4,Increased,NO,Social Media,YES,YES,Dining and Entertainment,Young Adults
+854,R863,Delhi-NCR,21,4.0,Average,Smartphone,2.0,2.0,12.0,2.0,Instagram,0.0,2,Decreased,NO,Gaming,NO,YES,Social Interactions,Young Adults
+855,R864,Delhi-NCR,20,5.0,Average,Smartphone,5.0,1.0,6.0,2.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+856,R865,Delhi-NCR,33,2.0,Very poor,Laptop/Desktop,1.0,1.0,7.0,1.0,Youtube,0.0,3,Remain Constant,YES,Gaming,NO,YES,Travel and Exploration,Adults
+857,R866,Delhi-NCR,20,4.0,Very poor,Smartphone,5.0,1.0,10.0,3.0,WhatsApp,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+858,R867,Delhi-NCR,21,3.0,Average,Smartphone,2.0,2.0,7.0,1.0,WhatsApp,3.0,2,Remain Constant,NO,Exercise,YES,YES,Travel and Exploration,Young Adults
+859,R868,Delhi-NCR,20,6.0,Average,Laptop/Desktop,2.0,2.0,7.0,3.0,WhatsApp,1.0,4,Decreased,NO,Meditation,YES,NO,Social Interactions,Young Adults
+860,R869,Delhi-NCR,37,2.0,Good,Laptop/Desktop,1.0,1.0,7.0,0.5,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Adults
+861,R870,Delhi-NCR,22,5.0,Average,Smartphone,3.0,0.0,8.0,3.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+862,R871,Outside Delhi-NCR,33,4.0,Average,Laptop/Desktop,1.0,0.0,7.0,1.0,WhatsApp,0.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Education,Adults
+863,R872,Outside Delhi-NCR,17,1.0,Very poor,Smartphone,2.0,0.0,7.0,2.0,Snapchat,1.0,3,Increased,YES,Exercise,NO,NO,Social Interactions,Pre-Teens
+864,R873,Outside Delhi-NCR,20,4.0,Average,Smartphone,5.0,1.0,7.0,0.5,Instagram,0.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+865,R874,Delhi-NCR,19,2.0,Average,Laptop/Desktop,2.0,1.0,9.0,2.0,Instagram,1.0,4,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+866,R875,Outside Delhi-NCR,20,4.0,Average,Smartphone,3.0,1.0,7.0,1.0,Youtube,1.0,2,Increased,NO,Meditation,YES,YES,Travel and Exploration,Young Adults
+867,R876,Outside Delhi-NCR,21,3.0,Very poor,Smartphone,4.0,1.0,5.0,2.0,Youtube,0.0,3,Remain Constant,NO,Sleeping,YES,YES,Education,Young Adults
+868,R877,Delhi-NCR,17,7.0,Very poor,Smartphone,2.0,1.0,6.0,3.0,Youtube,1.0,3,Increased,NO,Watching videos,NO,YES,Travel and Exploration,Pre-Teens
+869,R878,Outside Delhi-NCR,20,3.0,Poor,Smartphone,2.0,0.0,7.0,3.0,Youtube,1.0,2,Decreased,YES,Watching videos,NO,YES,Social Interactions,Young Adults
+870,R879,Outside Delhi-NCR,20,7.0,Very poor,Laptop/Desktop,4.0,0.0,7.0,2.0,Instagram,1.0,3,Remain Constant,NO,Gaming,YES,YES,Travel and Exploration,Young Adults
+871,R880,Outside Delhi-NCR,19,10.0,Average,Laptop/Desktop,3.0,1.0,5.0,1.0,Instagram,0.5,4,Remain Constant,NO,Reading books,NO,NO,Social Interactions,Pre-Teens
+872,R881,Outside Delhi-NCR,21,5.0,Average,Laptop/Desktop,2.0,0.0,9.0,1.0,Instagram,2.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,All Options,Young Adults
+873,R882,Outside Delhi-NCR,20,8.0,Average,Laptop/Desktop,5.0,1.0,5.0,3.0,Instagram,0.5,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+874,R883,Outside Delhi-NCR,36,5.0,Good,Laptop/Desktop,4.0,1.0,5.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Reading books,YES,YES,Travel and Exploration,Adults
+875,R884,Outside Delhi-NCR,20,4.0,Very poor,Smartphone,4.0,0.0,8.0,1.0,Instagram,0.0,3,Remain Constant,NO,Meditation,NO,NO,Dining and Entertainment,Young Adults
+876,R885,Outside Delhi-NCR,31,4.0,Good,Laptop/Desktop,3.0,2.0,9.0,2.0,Linkedin,0.0,2,Decreased,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+877,R886,Delhi-NCR,22,6.0,Very poor,Laptop/Desktop,4.0,0.0,8.0,2.0,WhatsApp,0.5,4,Increased,NO,Sleeping,NO,NO,Education,Young Adults
+878,R887,Delhi-NCR,22,5.0,Average,Smartphone,4.0,1.0,8.0,2.0,Youtube,1.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+879,R888,Delhi-NCR,28,3.0,Good,Laptop/Desktop,2.0,1.0,8.0,4.0,Instagram,1.0,3,Remain Constant,NO,Reading books,YES,YES,Travel and Exploration,Young Adults
+880,R889,Outside Delhi-NCR,16,5.0,Very poor,Smartphone,1.0,0.0,10.0,3.0,WhatsApp,0.0,2,Decreased,NO,Social Media,NO,NO,Social Interactions,Pre-Teens
+881,R890,Delhi-NCR,20,2.0,Average,Smartphone,3.0,0.0,12.0,7.0,Instagram,1.5,4,Decreased,YES,Social Media,NO,NO,Education,Young Adults
+882,R891,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,4.0,0.0,8.0,1.0,WhatsApp,2.0,3,Increased,YES,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+883,R892,Delhi-NCR,19,4.0,Average,Laptop/Desktop,3.0,2.0,7.0,4.0,Instagram,0.0,3,Decreased,NO,Gaming,NO,YES,Travel and Exploration,Pre-Teens
+884,R893,Delhi-NCR,20,6.0,Average,Laptop/Desktop,2.0,1.0,8.0,2.0,Instagram,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Personal Exploration,Young Adults
+885,R894,Outside Delhi-NCR,14,2.0,Good,Smartphone,2.0,1.0,8.0,3.0,WhatsApp,1.0,3,Increased,NO,Sleeping,NO,YES,Education,Pre-Teens
+886,R895,Outside Delhi-NCR,26,1.0,Average,Smartphone,3.0,1.0,8.0,4.0,Youtube,0.0,3,Decreased,YES,Watching videos,NO,YES,Personal Exploration,Young Adults
+887,R896,Delhi-NCR,21,3.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,6.0,Instagram,5.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+888,R897,Outside Delhi-NCR,34,1.0,Good,Smartphone,3.0,0.5,7.0,0.0,None,1.0,1,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Adults
+889,R898,Delhi-NCR,19,5.0,Very poor,Smartphone,2.0,0.0,6.0,3.0,Instagram,0.0,1,Increased,NO,Gaming,NO,YES,Travel and Exploration,Pre-Teens
+890,R899,Delhi-NCR,19,8.0,Very poor,Laptop/Desktop,2.0,1.0,6.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Sleeping,NO,NO,Personal Exploration,Pre-Teens
+891,R900,Outside Delhi-NCR,21,7.0,Good,Any Gadget,7.0,0.0,10.0,3.0,WhatsApp,0.0,3,Remain Constant,NO,Sleeping,YES,YES,Education,Young Adults
+892,R901,Outside Delhi-NCR,23,4.0,Very poor,Laptop/Desktop,1.0,0.0,7.0,8.0,Facebook,2.0,3,Decreased,NO,Gaming,NO,YES,Travel and Exploration,Young Adults
+893,R902,Delhi-NCR,19,5.0,Very poor,Smartphone,2.0,0.0,7.0,3.0,Instagram,0.0,3,Increased,NO,Social Media,YES,YES,Dining and Entertainment,Pre-Teens
+894,R903,Delhi-NCR,27,1.0,Average,Laptop/Desktop,2.0,0.0,8.0,3.0,Instagram,2.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+895,R904,Outside Delhi-NCR,33,3.0,Average,Smartphone,1.0,0.0,6.0,1.0,WhatsApp,4.0,2,Decreased,YES,Sleeping,NO,YES,Personal Exploration,Adults
+896,R905,Outside Delhi-NCR,21,5.0,Average,Smartphone,3.0,1.0,11.0,3.0,Youtube,2.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+897,R906,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,3.0,0.0,8.0,4.0,WhatsApp,1.0,3,Remain Constant,NO,Watching videos,NO,NO,All Options,Young Adults
+898,R907,Outside Delhi-NCR,24,0.0,Very poor,Smartphone,1.0,0.0,5.0,4.0,Linkedin,6.0,3,Decreased,YES,Social Media,NO,YES,Social Interactions,Young Adults
+899,R908,Outside Delhi-NCR,23,0.0,Good,Laptop/Desktop,0.0,0.0,8.0,3.0,Youtube,0.0,1,Remain Constant,NO,Social Media,NO,NO,Sports and Activities,Young Adults
+900,R909,Delhi-NCR,20,5.0,Good,Laptop/Desktop,1.0,1.0,8.0,1.0,Instagram,1.0,4,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+901,R910,Outside Delhi-NCR,29,10.0,Good,Laptop/Desktop,7.0,1.0,6.0,7.0,WhatsApp,2.0,2,Remain Constant,NO,Watching videos,YES,YES,Dining and Entertainment,Young Adults
+902,R911,Outside Delhi-NCR,20,4.0,Average,Laptop/Desktop,1.0,1.0,10.0,5.0,Instagram,0.3,3,Decreased,NO,Gaming,YES,YES,Travel and Exploration,Young Adults
+903,R912,Delhi-NCR,21,1.0,Good,Smartphone,5.0,0.0,7.0,2.0,Linkedin,2.0,2,Remain Constant,NO,Exercise,NO,NO,Education,Young Adults
+904,R913,Outside Delhi-NCR,21,6.0,Average,Laptop/Desktop,2.0,1.0,8.0,5.0,Instagram,2.0,2,Increased,NO,Reading books,NO,YES,Personal Exploration,Young Adults
+905,R914,Delhi-NCR,19,7.0,Average,Laptop/Desktop,1.0,1.0,5.0,6.0,Instagram,1.0,3,Remain Constant,NO,Exercise,NO,YES,Social Interactions,Pre-Teens
+906,R915,Delhi-NCR,19,5.0,Average,Smartphone,6.0,2.0,5.0,4.0,Instagram,0.0,3,Remain Constant,NO,Social Media,YES,YES,Education,Pre-Teens
+907,R916,Delhi-NCR,39,2.0,Excellent,Tablet,1.0,1.0,7.0,1.0,WhatsApp,0.5,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Adults
+908,R917,Outside Delhi-NCR,20,3.0,Average,Smartphone,2.0,0.0,8.0,1.0,Facebook,1.0,3,Remain Constant,NO,Meditation,NO,YES,Education,Young Adults
+909,R918,Delhi-NCR,19,5.0,Average,Laptop/Desktop,2.0,0.5,8.0,2.0,WhatsApp,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Pre-Teens
+910,R919,Outside Delhi-NCR,23,2.0,Average,Laptop/Desktop,6.0,2.0,7.0,4.0,Facebook,2.0,4,Remain Constant,NO,Gaming,YES,YES,Personal Exploration,Young Adults
+911,R920,Outside Delhi-NCR,21,5.0,Average,Laptop/Desktop,2.0,0.0,10.0,2.0,WhatsApp,0.5,3,Increased,NO,Leisure and Entertainment,YES,NO,Education,Young Adults
+912,R921,Outside Delhi-NCR,10,5.0,Average,Laptop/Desktop,2.0,1.0,9.0,1.5,WhatsApp,1.0,4,Increased,NO,Gaming,YES,YES,All Options,Children
+913,R922,Delhi-NCR,14,5.0,Average,Tablet,1.0,1.0,9.0,1.0,Youtube,4.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+914,R923,Outside Delhi-NCR,9,5.0,Excellent,Smartphone or Laptop/Desktop,2.0,0.6,7.0,1.0,WhatsApp,0.0,4,Remain Constant,NO,Gaming,YES,YES,Dining and Entertainment,Children
+915,R924,Outside Delhi-NCR,22,4.0,Average,Laptop/Desktop,3.0,1.0,7.0,1.0,Twitter,2.0,3,Decreased,NO,Gaming,YES,YES,Personal Exploration,Young Adults
+916,R925,Outside Delhi-NCR,13,4.0,Good,Laptop/Desktop,2.0,0.0,10.0,3.0,Youtube,0.0,4,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+917,R926,Delhi-NCR,23,2.0,Very poor,Smartphone,2.0,1.0,6.0,3.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Education,Young Adults
+918,R927,Delhi-NCR,13,5.0,Very poor,Smartphone,1.0,0.6,7.0,4.0,Youtube,2.0,4,Decreased,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+919,R928,Outside Delhi-NCR,21,1.0,Good,Laptop/Desktop,3.0,1.0,10.0,3.0,Instagram,1.0,3,Increased,NO,Social Media,YES,YES,Education,Young Adults
+920,R929,Outside Delhi-NCR,34,3.0,Average,Smartphone,6.0,0.0,6.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Adults
+921,R930,Delhi-NCR,14,9.0,Good,Smartphone,2.0,1.0,9.0,1.0,Instagram,0.0,2,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+922,R931,Delhi-NCR,32,2.0,Average,Smartphone,2.0,1.0,6.0,1.0,Youtube,0.0,1,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Adults
+923,R932,Outside Delhi-NCR,21,3.0,Average,Smartphone,2.0,1.0,8.0,6.0,WhatsApp,3.0,2,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+924,R933,Delhi-NCR,19,3.0,Excellent,Smartphone,0.0,1.0,6.0,4.0,Facebook,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+925,R934,Outside Delhi-NCR,14,5.0,Average,Tablet,3.0,1.0,6.0,4.0,Youtube,0.0,2,Increased,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+926,R935,Delhi-NCR,22,1.0,Average,Smartphone,1.0,0.0,9.0,3.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Young Adults
+927,R936,Outside Delhi-NCR,26,9.0,Very poor,Laptop/Desktop,2.0,0.0,5.0,3.0,Linkedin,1.0,3,Increased,NO,Reading books,YES,YES,Education,Young Adults
+928,R937,Outside Delhi-NCR,21,2.0,Very poor,Smartphone,2.0,0.0,7.0,1.0,Youtube,1.0,3,Remain Constant,YES,Leisure and Entertainment,NO,YES,Education,Young Adults
+929,R938,Delhi-NCR,22,1.0,Very poor,Laptop/Desktop,6.0,0.0,6.0,2.0,WhatsApp,0.0,2,Increased,YES,Watching videos,YES,YES,Travel and Exploration,Young Adults
+930,R939,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,3.0,1.0,8.0,6.0,Instagram,2.0,3,Remain Constant,NO,Exercise,YES,YES,Travel and Exploration,Young Adults
+931,R940,Outside Delhi-NCR,40,5.0,Excellent,Laptop/Desktop,4.0,1.0,7.0,6.0,Linkedin,2.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Adults
+932,R941,Outside Delhi-NCR,15,2.0,Good,Laptop/Desktop,2.0,0.0,11.0,5.0,Youtube,0.0,3,Remain Constant,NO,Watching videos,NO,YES,Personal Reflection,Pre-Teens
+933,R942,Delhi-NCR,16,3.0,Average,Smartphone,3.0,0.0,10.0,5.0,Instagram,3.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Pre-Teens
+934,R943,Outside Delhi-NCR,20,4.0,Very poor,Smartphone,3.0,1.0,8.0,5.0,Youtube,2.0,4,Increased,NO,Reading books,YES,YES,Personal Exploration,Young Adults
+935,R944,Outside Delhi-NCR,22,2.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,4.0,WhatsApp,0.0,2,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Young Adults
+936,R945,Outside Delhi-NCR,22,4.0,Average,Laptop/Desktop,6.0,0.0,8.0,5.0,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+937,R946,Delhi-NCR,23,2.0,Good,Smartphone,7.0,0.0,7.0,4.0,Instagram,1.0,4,Increased,NO,Exercise,NO,YES,Travel and Exploration,Young Adults
+938,R947,Delhi-NCR,21,4.0,Good,Laptop/Desktop,10.0,1.0,7.0,3.0,WhatsApp,0.0,3,Remain Constant,YES,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+939,R948,Outside Delhi-NCR,17,3.0,Average,Smartphone,2.0,1.0,8.0,5.0,WhatsApp,3.5,1,Remain Constant,NO,Watching videos,YES,YES,Education,Pre-Teens
+940,R949,Delhi-NCR,24,0.0,Average,Laptop/Desktop,10.0,1.0,8.0,1.0,WhatsApp,0.0,3,Increased,NO,Communication with others,YES,YES,Education,Young Adults
+941,R950,Delhi-NCR,19,1.0,Average,Smartphone,0.0,0.0,8.0,6.0,Instagram,2.0,2,Decreased,YES,Gaming,NO,NO,Dining and Entertainment,Pre-Teens
+942,R951,Delhi-NCR,23,10.0,Average,Laptop/Desktop,1.0,0.0,8.0,8.0,Youtube,1.0,3,Decreased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+943,R952,Delhi-NCR,21,6.0,Average,Smartphone,2.0,1.0,7.0,3.0,WhatsApp,1.0,3,Decreased,NO,Reading books,YES,YES,Social Interactions,Young Adults
+944,R953,Delhi-NCR,14,6.0,Good,Tablet,2.0,0.0,8.3,1.0,Youtube,2.5,3,Increased,NO,Gaming,NO,YES,All Options,Pre-Teens
+945,R954,Outside Delhi-NCR,14,3.0,Good,Smartphone,1.0,0.0,8.0,3.0,Youtube,1.0,4,Remain Constant,NO,Watching videos,NO,YES,Social Interactions,Pre-Teens
+946,R955,Delhi-NCR,23,2.0,Average,Laptop/Desktop,6.0,1.0,7.0,2.0,Linkedin,1.0,3,Increased,NO,Gaming,NO,YES,Education,Young Adults
+947,R956,Delhi-NCR,21,0.0,NA,,1.0,1.0,11.0,8.0,Instagram,3.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+948,R957,Outside Delhi-NCR,33,2.0,Average,Smartphone,1.0,0.0,6.0,1.0,WhatsApp,0.5,2,Remain Constant,NO,Meditation,NO,YES,Travel and Exploration,Adults
+949,R958,Delhi-NCR,11,4.0,Good,Smartphone,2.0,0.0,9.0,1.0,WhatsApp,0.0,3,Remain Constant,NO,Sleeping,YES,YES,Education,Children
+950,R959,Delhi-NCR,20,3.0,Good,Laptop/Desktop,2.0,1.0,10.0,2.0,Instagram,0.0,4,Increased,NO,Sleeping,YES,YES,Social Interactions,Young Adults
+951,R960,Outside Delhi-NCR,23,2.0,Average,Smartphone,2.0,0.3,8.0,1.0,WhatsApp,0.0,3,Decreased,NO,Meditation,YES,YES,Social Interactions,Young Adults
+952,R961,Delhi-NCR,20,0.0,NA,,2.0,0.0,7.0,0.5,Twitter,2.0,2,Remain Constant,NO,Gaming,NO,YES,Dining and Entertainment,Young Adults
+953,R962,Delhi-NCR,18,0.0,Poor,Smartphone,0.0,2.0,12.0,1.0,Twitter,0.0,7,Increased,NO,Gaming,NO,YES,Personal Exploration,Pre-Teens
+954,R963,Delhi-NCR,21,4.0,Average,Smartphone,8.0,0.0,6.0,1.0,Youtube,0.0,2,Decreased,YES,Gaming,NO,NO,Travel and Exploration,Young Adults
+955,R964,Delhi-NCR,38,2.0,Very poor,Laptop/Desktop,4.0,0.0,7.0,3.0,WhatsApp,1.0,3,Increased,NO,Social Media,NO,NO,Personal Exploration,Adults
+956,R965,Delhi-NCR,20,5.0,Good,Laptop/Desktop,5.0,0.0,8.0,3.0,Youtube,0.0,2,Remain Constant,NO,Reading books,YES,NO,Social Interactions,Young Adults
+957,R966,Delhi-NCR,21,0.0,NA,,6.0,1.0,9.0,2.0,WhatsApp,0.5,4,Increased,NO,Social Media,YES,YES,Social Interactions,Young Adults
+958,R967,Delhi-NCR,11,2.0,Excellent,Smartphone,1.0,0.0,10.0,3.0,Youtube,2.0,3,Increased,NO,Gaming,YES,YES,Social Interactions,Children
+959,R968,Outside Delhi-NCR,22,0.0,Good,Laptop/Desktop,4.0,1.0,7.0,3.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+960,R969,Delhi-NCR,23,0.0,NA,,2.0,2.0,10.0,6.0,Youtube,0.0,2,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Young Adults
+961,R970,Delhi-NCR,21,8.0,Very poor,Laptop/Desktop,1.0,1.0,9.0,2.0,Instagram,0.0,3,Remain Constant,YES,Social Media,NO,NO,Dining and Entertainment,Young Adults
+962,R971,Delhi-NCR,26,0.0,Very poor,Smartphone,0.0,0.0,12.0,2.0,Linkedin,2.0,2,Remain Constant,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+963,R972,Outside Delhi-NCR,23,2.0,Very poor,Laptop/Desktop,1.0,1.0,7.5,1.0,WhatsApp,2.0,3,Remain Constant,NO,Gaming,YES,YES,Travel and Exploration,Young Adults
+964,R973,Delhi-NCR,19,3.0,Average,Smartphone,5.0,1.0,6.0,1.0,Youtube,0.0,2,Remain Constant,NO,Reading books,YES,YES,Social Interactions,Pre-Teens
+965,R974,Delhi-NCR,21,5.0,Average,Smartphone,3.0,1.0,8.0,4.0,Youtube,0.0,4,Remain Constant,YES,Leisure and Entertainment,NO,NO,Education,Young Adults
+966,R975,Delhi-NCR,20,4.0,Very poor,Laptop/Desktop,3.0,0.0,9.0,2.0,Instagram,1.0,2,Remain Constant,NO,Social Media,YES,NO,Education,Young Adults
+967,R976,Outside Delhi-NCR,19,1.0,Good,Laptop/Desktop,2.0,0.0,8.0,1.0,WhatsApp,0.3,3,Remain Constant,NO,Exercise,NO,YES,Education,Pre-Teens
+968,R977,Outside Delhi-NCR,20,4.0,Very poor,Smartphone,2.0,0.0,10.0,1.0,Instagram,0.0,3,Decreased,NO,Sleeping,NO,NO,Personal Exploration,Young Adults
+969,R978,Delhi-NCR,19,2.0,Average,Laptop/Desktop,3.0,0.5,8.0,2.0,Instagram,1.0,3,Increased,NO,Watching videos,NO,NO,Education,Pre-Teens
+970,R979,Delhi-NCR,17,4.0,Good,Laptop/Desktop,2.0,1.0,10.0,6.0,WhatsApp,4.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+971,R980,Delhi-NCR,20,10.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,5.0,Instagram,0.0,3,Remain Constant,NO,Social Media,NO,NO,Personal Reflection,Young Adults
+972,R981,Outside Delhi-NCR,20,4.0,Good,Smartphone,2.0,1.0,8.0,2.0,Instagram,0.1,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+973,R982,Outside Delhi-NCR,27,4.0,Average,Smartphone,2.0,0.0,7.0,8.0,Youtube,4.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+974,R983,Delhi-NCR,18,7.0,Very poor,Smartphone,4.0,0.0,9.0,2.0,Instagram,0.0,2,Decreased,NO,Gaming,NO,YES,Education,Pre-Teens
+975,R984,Outside Delhi-NCR,18,8.0,Good,Smartphone,2.0,0.25,7.0,1.5,Instagram,1.0,3,Increased,NO,Communication with others,NO,NO,Education,Pre-Teens
+976,R985,Outside Delhi-NCR,19,6.0,Average,Smartphone,4.0,1.0,6.0,5.0,WhatsApp,2.0,3,Remain Constant,NO,Gaming,NO,NO,Education,Pre-Teens
+977,R986,Delhi-NCR,18,5.0,Very poor,Smartphone,0.0,0.0,7.0,1.0,Instagram,0.5,3,Decreased,NO,Gaming,YES,NO,Education,Pre-Teens
+978,R987,Outside Delhi-NCR,20,4.0,Good,Smartphone,2.0,1.0,8.0,2.0,Instagram,0.1,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+979,R988,Outside Delhi-NCR,19,6.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,2.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Pre-Teens
+980,R989,Delhi-NCR,19,6.0,Average,Laptop/Desktop,5.0,1.0,7.0,3.0,Instagram,0.3,4,Increased,NO,Watching videos,YES,YES,Education,Pre-Teens
+981,R990,Delhi-NCR,18,8.0,Very poor,Smartphone,0.0,1.0,6.0,5.0,WhatsApp,0.0,2,Decreased,NO,Gaming,NO,YES,Personal Exploration,Pre-Teens
+982,R991,Delhi-NCR,18,4.0,Very poor,Smartphone,0.0,1.0,8.0,2.0,Instagram,0.3,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+983,R992,Delhi-NCR,19,8.0,Good,Smartphone,2.0,2.0,8.0,5.0,Instagram,1.0,2,Decreased,YES,Exercise,NO,YES,Education,Pre-Teens
+984,R993,Delhi-NCR,26,1.0,Average,Smartphone,1.0,0.0,8.0,3.0,Facebook,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+985,R994,Outside Delhi-NCR,18,8.0,Average,Smartphone,3.0,1.0,5.0,4.0,Youtube,2.0,2,Decreased,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+986,R995,Outside Delhi-NCR,19,2.0,Good,Smartphone,2.0,1.0,8.0,3.0,WhatsApp,2.0,1,Decreased,YES,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+987,R996,Outside Delhi-NCR,18,5.0,Average,Smartphone,2.0,0.0,6.0,1.0,Instagram,0.0,3,Remain Constant,NO,Communication with others,NO,YES,Education,Pre-Teens
+988,R997,Outside Delhi-NCR,21,2.0,Average,Laptop/Desktop,1.0,0.0,12.0,3.0,Instagram,0.0,2,Increased,NO,Leisure and Entertainment,NO,YES,Education,Young Adults
+989,R998,Outside Delhi-NCR,19,0.0,Very poor,Laptop/Desktop,8.0,0.0,8.0,10.0,Instagram,0.0,3,Remain Constant,YES,Communication with others,YES,YES,Social Interactions,Pre-Teens
+990,R999,Outside Delhi-NCR,23,2.0,Average,Laptop/Desktop,2.0,2.0,7.0,5.0,WhatsApp,2.0,2,Remain Constant,NO,Social Media,NO,YES,Social Interactions,Young Adults
+991,R1000,Outside Delhi-NCR,22,4.0,Good,Laptop/Desktop,2.0,0.0,9.0,3.0,Instagram,1.0,2,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+992,R1001,Delhi-NCR,19,8.0,Average,Smartphone,4.0,0.0,6.0,1.0,WhatsApp,2.0,2,Remain Constant,NO,Sleeping,NO,YES,Education,Pre-Teens
+993,R1002,Outside Delhi-NCR,19,6.0,Good,Laptop/Desktop,2.0,0.0,8.0,10.0,Instagram,0.0,4,Increased,NO,Social Media,NO,YES,Education,Pre-Teens
+994,R1004,Delhi-NCR,18,6.0,Very poor,Smartphone,4.0,0.0,7.0,3.0,Instagram,0.3,4,Decreased,NO,Gaming,YES,YES,Education,Pre-Teens
+995,R1005,Outside Delhi-NCR,12,0.0,Excellent,Smartphone,3.0,1.0,8.0,1.0,WhatsApp,2.0,2,Increased,NO,Reading books,YES,YES,Education,Children
+996,R1006,Outside Delhi-NCR,18,5.0,Good,Smartphone,3.0,2.0,8.0,3.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Pre-Teens
+997,R1007,Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,2.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Pre-Teens
+998,R1008,Delhi-NCR,19,6.0,Average,Laptop/Desktop,2.0,2.0,6.0,3.0,Instagram,0.3,2,Increased,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+999,R1009,Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,2.0,0.0,7.0,3.0,Instagram,0.0,4,Decreased,YES,Reading books,NO,NO,Education,Young Adults
+1000,R1010,Outside Delhi-NCR,26,4.0,Very poor,Smartphone,2.0,0.0,7.0,2.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Travel and Exploration,Young Adults
+1001,R1011,Outside Delhi-NCR,20,3.0,Very poor,Laptop/Desktop,2.0,1.0,8.0,1.0,WhatsApp,1.0,4,Increased,NO,Gaming,NO,YES,Education,Young Adults
+1002,R1012,Outside Delhi-NCR,23,4.0,Good,Smartphone,2.0,1.0,7.0,3.0,Linkedin,1.0,3,Remain Constant,YES,Leisure and Entertainment,YES,YES,Social Interactions,Young Adults
+1003,R1013,Delhi-NCR,26,4.0,Very poor,Smartphone,3.0,1.0,7.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+1004,R1014,Delhi-NCR,19,4.0,Average,Laptop/Desktop,2.0,0.5,8.0,2.0,WhatsApp,1.0,2,Remain Constant,NO,Watching videos,NO,NO,Social Interactions,Pre-Teens
+1005,R1015,Outside Delhi-NCR,22,0.0,Good,Laptop/Desktop,2.0,1.0,9.0,2.0,Instagram,2.0,2,Remain Constant,NO,Sleeping,YES,YES,Education,Young Adults
+1006,R1016,Outside Delhi-NCR,23,3.0,Average,Smartphone,4.0,1.0,8.0,3.0,WhatsApp,2.0,3,Remain Constant,NO,Gaming,YES,NO,Education,Young Adults
+1007,R1017,Delhi-NCR,20,2.0,Good,Smartphone,3.0,1.0,6.0,2.0,WhatsApp,3.0,2,Remain Constant,NO,Sleeping,NO,YES,Travel and Exploration,Young Adults
+1008,R1018,Outside Delhi-NCR,29,5.0,Average,Laptop/Desktop,3.0,1.0,8.0,2.0,Linkedin,2.0,3,Remain Constant,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+1009,R1019,Outside Delhi-NCR,28,5.0,Good,Laptop/Desktop,4.0,1.0,10.0,2.0,WhatsApp,1.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Young Adults
+1010,R1020,Delhi-NCR,32,3.0,Average,Laptop/Desktop,2.0,0.0,6.0,2.0,WhatsApp,0.3,3,Increased,YES,Communication with others,YES,YES,Social Interactions,Adults
+1011,R1021,Outside Delhi-NCR,21,0.0,Poor,Smartphone,1.0,2.0,7.0,2.0,Instagram,0.5,4,Decreased,NO,Meditation,YES,YES,Travel and Exploration,Young Adults
+1012,R1022,Outside Delhi-NCR,24,1.0,Good,Smartphone,3.0,2.0,8.0,2.0,Youtube,0.0,2,Remain Constant,NO,Social Media,YES,YES,Dining and Entertainment,Young Adults
+1013,R1023,Delhi-NCR,25,0.0,Good,Laptop/Desktop,4.0,1.0,8.0,2.0,WhatsApp,0.0,2,Remain Constant,YES,Watching videos,NO,YES,Travel and Exploration,Young Adults
+1014,R1024,Delhi-NCR,32,4.0,Average,Laptop/Desktop,4.0,1.0,6.0,0.3,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Adults
+1015,R1025,Delhi-NCR,35,1.0,Good,Smartphone,3.0,1.0,7.0,2.0,WhatsApp,0.0,2,Remain Constant,NO,Communication with others,YES,YES,Travel and Exploration,Adults
+1016,R1026,Delhi-NCR,27,0.0,Good,Smartphone,2.0,0.0,8.0,2.0,Youtube,2.0,3,Remain Constant,NO,Sleeping,NO,YES,Travel and Exploration,Young Adults
+1017,R1027,Delhi-NCR,36,3.0,Average,Laptop/Desktop,2.0,0.0,10.0,2.0,Youtube,0.0,3,Increased,NO,Watching videos,NO,NO,Travel and Exploration,Adults
+1018,R1028,Delhi-NCR,22,5.0,Very poor,Laptop/Desktop,1.0,1.0,8.0,1.0,Twitter,0.5,3,Decreased,YES,Sleeping,YES,YES,Dining and Entertainment,Young Adults
+1019,R1029,Delhi-NCR,20,6.0,Good,Laptop/Desktop,4.0,1.0,6.0,1.0,Instagram,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Education,Young Adults
+1020,R1030,Outside Delhi-NCR,16,4.0,Very poor,Smartphone,2.0,0.0,9.0,2.0,Youtube,0.0,2,Remain Constant,NO,Social Media,NO,YES,Education,Pre-Teens
+1021,R1031,Outside Delhi-NCR,38,2.0,Average,Laptop/Desktop,3.0,1.0,5.0,3.0,WhatsApp,0.0,3,Increased,NO,Leisure and Entertainment,YES,NO,Personal Exploration,Adults
+1022,R1032,Delhi-NCR,24,2.0,Good,Smartphone,0.0,1.0,9.0,5.0,Instagram,3.0,4,Increased,NO,Gaming,YES,YES,Social Interactions,Young Adults
+1023,R1033,Outside Delhi-NCR,25,0.0,Very poor,Smartphone,2.0,0.0,7.0,5.0,Facebook,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Young Adults
+1024,R1034,Outside Delhi-NCR,20,2.0,Very poor,Smartphone,8.0,1.0,6.0,1.0,Youtube,0.0,3,Remain Constant,NO,Watching videos,YES,YES,Social Interactions,Young Adults
+1025,R1035,Delhi-NCR,22,2.0,Very poor,Smartphone,1.0,0.0,9.0,3.0,Youtube,2.0,2,Decreased,YES,Leisure and Entertainment,NO,YES,Education,Young Adults
+1026,R1036,Delhi-NCR,23,4.0,Average,Smartphone,3.0,1.0,8.0,2.0,WhatsApp,0.0,4,Remain Constant,NO,Social Media,NO,YES,Education,Young Adults
+1027,R1037,Outside Delhi-NCR,24,2.0,Very poor,Smartphone,6.0,0.0,12.0,4.0,Twitter,0.0,4,Remain Constant,NO,Social Media,NO,YES,Education,Young Adults
+1028,R1038,Delhi-NCR,20,0.0,Average,Smartphone,0.0,2.0,9.0,2.0,Youtube,0.5,3,Remain Constant,NO,Sports and games,NO,YES,Education,Young Adults
+1029,R1040,Outside Delhi-NCR,20,5.0,Average,Laptop/Desktop,4.0,1.0,8.0,1.5,Instagram,1.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Young Adults
+1030,R1041,Outside Delhi-NCR,19,3.0,Very poor,Laptop/Desktop,3.0,0.0,8.0,3.0,WhatsApp,0.0,3,Remain Constant,YES,Social Media,NO,NO,Dining and Entertainment,Pre-Teens
+1031,R1042,Outside Delhi-NCR,18,4.0,Very poor,Laptop/Desktop,1.0,1.0,10.0,3.0,WhatsApp,1.0,4,Increased,NO,Reading books,NO,NO,Dining and Entertainment,Pre-Teens
+1032,R1043,Outside Delhi-NCR,20,5.0,Very poor,Laptop/Desktop,3.0,0.5,10.0,3.0,WhatsApp,2.0,3,Increased,NO,Sleeping,YES,NO,Social Interactions,Young Adults
+1033,R1044,Outside Delhi-NCR,21,6.0,Good,Laptop/Desktop,4.0,1.0,8.0,2.0,WhatsApp,0.5,3,Remain Constant,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+1034,R1045,Outside Delhi-NCR,20,2.0,Very poor,Laptop/Desktop,1.0,0.0,6.0,1.0,Twitter,2.0,3,Decreased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Young Adults
+1035,R1046,Outside Delhi-NCR,20,2.0,Good,Smartphone,2.0,1.0,8.0,2.0,Instagram,3.0,3,Decreased,NO,Sleeping,YES,YES,Social Interactions,Young Adults
+1036,R1047,Outside Delhi-NCR,21,4.0,Excellent,Laptop/Desktop,2.0,0.0,8.0,0.5,WhatsApp,4.0,3,Increased,YES,Meditation,YES,YES,Social Interactions,Young Adults
+1037,R1048,Delhi-NCR,22,2.0,Average,Laptop/Desktop,2.0,1.0,8.0,3.0,WhatsApp,0.5,3,Remain Constant,NO,Social Media,NO,NO,Social Interactions,Young Adults
+1038,R1049,Delhi-NCR,22,2.0,Very poor,Smartphone,3.0,1.0,10.0,4.0,Instagram,2.0,4,Remain Constant,NO,Social Media,NO,YES,Dining and Entertainment,Young Adults
+1039,R1050,Delhi-NCR,21,0.0,Poor,Smartphone,1.0,0.0,7.0,0.0,WhatsApp,0.0,2,Increased,NO,Reading books,YES,YES,Social Interactions,Young Adults
+1040,R1051,Delhi-NCR,19,4.0,Very poor,Laptop/Desktop,3.0,0.0,10.0,4.0,Youtube,0.0,2,Increased,YES,Sleeping,NO,NO,Education,Pre-Teens
+1041,R1052,Delhi-NCR,18,2.0,Average,Smartphone,2.0,1.0,8.0,1.3,Instagram,2.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1042,R1053,Delhi-NCR,20,3.0,Very poor,Smartphone,2.0,0.0,6.0,3.0,Instagram,0.0,2,Increased,NO,Reading books,YES,NO,Personal Exploration,Young Adults
+1043,R1054,Delhi-NCR,20,3.0,Average,Smartphone,3.0,1.0,11.0,3.0,Facebook,0.0,3,Remain Constant,NO,Communication with others,NO,YES,Education,Young Adults
+1044,R1055,Outside Delhi-NCR,18,0.0,Good,Smartphone,3.0,1.0,7.0,2.0,Instagram,1.0,4,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Pre-Teens
+1045,R1056,Delhi-NCR,31,8.0,Very poor,Laptop/Desktop,1.0,0.0,8.0,2.0,WhatsApp,1.0,2,Remain Constant,NO,Gaming,NO,YES,Personal Exploration,Adults
+1046,R1057,Delhi-NCR,18,6.0,Very poor,Laptop/Desktop,2.0,0.0,8.0,1.0,Instagram,0.5,2,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+1047,R1058,Outside Delhi-NCR,23,2.0,Good,Smartphone,1.0,1.0,5.0,2.0,None,1.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Personal Reflection,Young Adults
+1048,R1059,Outside Delhi-NCR,20,3.0,Average,Laptop/Desktop,2.0,0.0,9.0,5.0,Youtube,0.0,4,Increased,NO,Social Media,NO,NO,Dining and Entertainment,Young Adults
+1049,R1060,Delhi-NCR,33,4.0,Average,Smartphone,2.0,1.0,6.0,4.0,Youtube,1.0,3,Increased,YES,Communication with others,YES,YES,Education,Adults
+1050,R1061,Delhi-NCR,24,2.0,Average,Smartphone,4.0,0.0,6.0,3.0,Instagram,0.0,4,Increased,NO,Watching videos,NO,YES,Travel and Exploration,Young Adults
+1051,R1062,Outside Delhi-NCR,17,5.0,Very poor,Laptop/Desktop,0.5,0.3,7.5,0.5,Youtube,0.3,3,Remain Constant,NO,Gaming,YES,NO,Travel and Exploration,Pre-Teens
+1052,R1063,Outside Delhi-NCR,15,4.0,Average,Laptop/Desktop,3.0,0.0,8.0,2.0,Instagram,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Pre-Teens
+1053,R1064,Outside Delhi-NCR,17,4.0,Average,Laptop/Desktop,5.0,2.0,7.0,0.4,Youtube,0.5,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1054,R1065,Outside Delhi-NCR,16,4.0,Excellent,Smartphone or Laptop/Desktop,3.0,1.0,8.0,5.0,Youtube,5.0,3,Increased,NO,Leisure and Entertainment,NO,NO,Personal Exploration,Pre-Teens
+1055,R1066,Outside Delhi-NCR,15,8.0,Average,Tablet,4.0,0.0,5.0,2.0,Youtube,1.0,3,Remain Constant,NO,Watching videos,YES,NO,Education,Pre-Teens
+1056,R1067,Outside Delhi-NCR,16,8.0,Good,Smartphone,5.0,0.0,9.0,1.0,Youtube,0.0,2,Increased,NO,Social Media,NO,NO,Social Interactions,Pre-Teens
+1057,R1068,Outside Delhi-NCR,16,5.0,Average,Laptop/Desktop,2.0,1.0,10.0,1.0,None,2.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+1058,R1069,Outside Delhi-NCR,15,7.0,Good,Smartphone,3.0,2.0,6.0,0.0,WhatsApp,1.0,3,Remain Constant,NO,Sleeping,NO,YES,Education,Pre-Teens
+1059,R1070,Outside Delhi-NCR,16,5.0,Very poor,Smartphone,1.0,2.0,10.0,1.5,Instagram,0.0,3,Remain Constant,NO,Gaming,NO,NO,Personal Exploration,Pre-Teens
+1060,R1071,Delhi-NCR,16,4.0,Very poor,Smartphone,4.0,1.0,7.0,2.0,Instagram,0.0,3,Remain Constant,NO,Watching videos,NO,YES,Social Interactions,Pre-Teens
+1061,R1072,Delhi-NCR,16,7.0,Good,Tablet,3.0,0.0,8.0,0.5,WhatsApp,0.0,2,Decreased,NO,Leisure and Entertainment,NO,NO,All Options,Pre-Teens
+1062,R1073,Outside Delhi-NCR,30,2.0,Very poor,Laptop/Desktop,0.0,1.0,8.0,1.0,Youtube,8.0,4,Increased,NO,Watching videos,NO,NO,Personal Reflection,Adults
+1063,R1074,Outside Delhi-NCR,16,5.0,Very poor,Smartphone,2.0,0.5,7.0,1.0,Youtube,2.0,3,Remain Constant,NO,Communication with others,NO,YES,Social Interactions,Pre-Teens
+1064,R1075,Delhi-NCR,15,5.0,Average,Laptop/Desktop,4.0,1.0,8.0,2.0,WhatsApp,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1065,R1076,Delhi-NCR,16,4.0,Average,Laptop/Desktop,8.0,1.0,8.0,0.5,Youtube,0.5,4,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1066,R1077,Delhi-NCR,15,4.0,Very poor,Laptop/Desktop,4.0,0.0,5.0,4.0,Youtube,0.0,3,Decreased,NO,Gaming,NO,NO,Education,Pre-Teens
+1067,R1078,Delhi-NCR,15,4.0,Good,Smartphone,4.0,1.0,7.0,2.0,Youtube,1.0,4,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+1068,R1079,Delhi-NCR,15,8.0,Very poor,Smartphone,2.0,0.0,8.0,1.0,Youtube,0.0,3,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+1069,R1080,Delhi-NCR,16,7.0,Good,Smartphone,2.0,0.0,8.0,0.5,Youtube,1.5,3,Remain Constant,NO,Communication with others,NO,YES,Education,Pre-Teens
+1070,R1081,Delhi-NCR,15,3.0,Average,Smartphone,4.0,0.5,7.0,1.0,Instagram,1.5,4,Increased,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Pre-Teens
+1071,R1082,Outside Delhi-NCR,16,8.0,Average,Laptop/Desktop,1.0,0.3,8.0,0.0,Telegram,0.0,2,Increased,YES,No stress,NO,NO,Social Interactions,Pre-Teens
+1072,R1083,Delhi-NCR,16,7.0,Average,Laptop/Desktop,3.0,0.0,8.0,3.0,Youtube,2.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+1073,R1084,Delhi-NCR,15,4.0,Average,Laptop/Desktop,4.0,1.0,7.0,1.0,WhatsApp,1.5,3,Remain Constant,NO,Reading books,YES,YES,Social Interactions,Pre-Teens
+1074,R1085,Delhi-NCR,16,8.0,Average,Laptop/Desktop,8.0,0.0,7.0,2.0,WhatsApp,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+1075,R1087,Delhi-NCR,15,5.0,Excellent,Laptop/Desktop,4.0,0.5,8.0,0.0,None,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Social Interactions,Pre-Teens
+1076,R1088,Delhi-NCR,16,8.0,Average,Smartphone,4.0,0.0,5.0,8.0,WhatsApp,3.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1077,R1089,Delhi-NCR,16,8.0,Good,Laptop/Desktop,4.0,0.0,7.0,2.0,WhatsApp,0.0,2,Increased,NO,Social Media,NO,YES,Education,Pre-Teens
+1078,R1090,Delhi-NCR,16,4.0,Good,Smartphone,4.0,1.0,7.0,2.0,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1079,R1091,Delhi-NCR,16,7.0,Good,Smartphone,3.0,0.0,7.0,2.0,Instagram,1.0,2,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1080,R1092,Delhi-NCR,16,6.0,Average,Laptop/Desktop,1.0,0.5,9.0,1.0,WhatsApp,1.0,2,Decreased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1081,R1093,Delhi-NCR,17,6.0,Average,Smartphone,1.0,0.0,8.0,1.0,Reddit,0.0,2,Remain Constant,NO,Gaming,NO,NO,Transportation,Pre-Teens
+1082,R1094,Delhi-NCR,16,8.0,Very poor,Smartphone,5.0,1.0,8.0,1.0,Facebook,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Social Interactions,Pre-Teens
+1083,R1095,Delhi-NCR,16,4.0,Average,Laptop/Desktop,1.0,1.0,9.0,2.0,Youtube,0.4,4,Remain Constant,NO,Gaming,YES,NO,Social Interactions,Pre-Teens
+1084,R1096,Delhi-NCR,15,9.0,Excellent,Laptop/Desktop,10.0,0.5,6.0,0.0,WhatsApp,2.0,3,Remain Constant,NO,Reading books,NO,YES,Social Interactions,Pre-Teens
+1085,R1097,Delhi-NCR,17,3.0,Very poor,Smartphone,6.0,0.0,8.0,2.0,Youtube,0.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+1086,R1098,Delhi-NCR,16,6.0,Very poor,Smartphone,3.0,1.0,10.0,1.0,Youtube,0.5,3,Remain Constant,NO,Sleeping,YES,YES,All Options,Pre-Teens
+1087,R1099,Delhi-NCR,16,8.0,Average,Laptop/Desktop,0.0,0.0,6.0,6.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,NO,NO,Education,Pre-Teens
+1088,R1100,Delhi-NCR,16,8.0,Average,Laptop/Desktop,1.0,0.0,8.0,1.0,Youtube,2.0,2,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+1089,R1101,Delhi-NCR,15,5.0,Very poor,Smartphone,3.0,1.0,9.0,3.0,Instagram,0.0,3,Decreased,NO,Social Media,YES,YES,Dining and Entertainment,Pre-Teens
+1090,R1102,Delhi-NCR,16,4.0,Good,Smartphone,3.0,1.0,8.0,1.0,WhatsApp,1.0,4,Remain Constant,NO,Communication with others,YES,NO,Dining and Entertainment,Pre-Teens
+1091,R1103,Delhi-NCR,17,4.0,Very poor,Laptop/Desktop,0.0,1.0,7.0,1.0,Youtube,3.0,4,Increased,NO,Gaming,NO,NO,Social Interactions,Pre-Teens
+1092,R1104,Delhi-NCR,25,5.0,Average,Laptop/Desktop,1.0,3.0,6.0,5.0,Instagram,0.0,3,Decreased,NO,Watching videos,YES,YES,Travel and Exploration,Young Adults
+1093,R1105,Delhi-NCR,20,0.0,Very poor,Smartphone,6.0,1.0,9.0,3.0,Youtube,0.0,3,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Young Adults
+1094,R1106,Delhi-NCR,16,5.0,Very poor,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,4.0,2,Increased,NO,Communication with others,NO,YES,Social Interactions,Pre-Teens
+1095,R1107,Delhi-NCR,16,4.0,Very poor,Smartphone,5.0,1.0,7.0,1.0,Instagram,1.0,3,Increased,NO,Gaming,YES,NO,Personal Exploration,Pre-Teens
+1096,R1108,Delhi-NCR,15,5.0,Good,Laptop/Desktop,2.0,2.0,6.0,0.5,WhatsApp,2.0,3,Remain Constant,NO,Social Media,NO,NO,Travel and Exploration,Pre-Teens
+1097,R1109,Delhi-NCR,16,4.0,Very poor,Smartphone,2.0,2.0,6.0,5.0,Youtube,0.0,4,Increased,NO,Sleeping,NO,YES,Education,Pre-Teens
+1098,R1110,Delhi-NCR,24,6.0,Average,Smartphone,6.0,0.0,7.0,2.0,Youtube,0.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Travel and Exploration,Young Adults
+1099,R1111,Delhi-NCR,16,5.0,Excellent,Smartphone,1.0,1.0,11.0,0.0,WhatsApp,2.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1100,R1112,Delhi-NCR,16,5.0,Average,Laptop/Desktop,4.0,0.0,6.0,1.0,Instagram,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1101,R1113,Delhi-NCR,16,5.0,Average,Smartphone,2.0,1.0,10.0,1.0,WhatsApp,0.5,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Education,Pre-Teens
+1102,R1114,Outside Delhi-NCR,15,6.0,Average,Smartphone,1.0,1.0,9.0,1.0,Instagram,2.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1103,R1115,Outside Delhi-NCR,17,2.0,Very poor,Tablet,8.0,3.0,5.0,0.0,Youtube,1.0,4,Increased,NO,Watching videos,NO,YES,Education,Pre-Teens
+1104,R1116,Delhi-NCR,16,5.0,Average,Laptop/Desktop,8.0,2.0,5.0,2.0,Youtube,0.0,4,Remain Constant,NO,Communication with others,YES,YES,Education,Pre-Teens
+1105,R1117,Delhi-NCR,12,5.0,Good,Tablet,1.0,0.0,7.0,4.0,Youtube,0.0,2,Increased,NO,Gaming,YES,YES,Education,Children
+1106,R1118,Delhi-NCR,14,4.0,Excellent,Smartphone,2.0,1.0,9.0,1.0,WhatsApp,2.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1107,R1119,Outside Delhi-NCR,13,4.0,Excellent,Smartphone,3.0,0.25,8.0,1.0,Youtube,0.5,1,Increased,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+1108,R1120,Outside Delhi-NCR,12,5.0,Good,Smartphone,5.0,0.0,6.0,1.0,Youtube,2.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Children
+1109,R1121,Delhi-NCR,15,6.0,Average,Smartphone,11.0,0.25,7.0,5.0,Youtube,0.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+1110,R1122,Delhi-NCR,13,5.0,Excellent,Tablet,4.0,1.0,8.0,0.0,Youtube,0.5,4,Remain Constant,NO,Leisure and Entertainment,YES,NO,Education,Pre-Teens
+1111,R1123,Outside Delhi-NCR,12,4.0,Good,Tablet,1.0,1.0,9.0,1.0,Youtube,3.0,3,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Children
+1112,R1124,Outside Delhi-NCR,13,6.0,Good,Smartphone,2.0,2.0,6.0,1.0,Youtube,1.0,1,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1113,R1125,Delhi-NCR,16,4.0,Good,Laptop/Desktop,1.0,1.0,7.0,1.0,Instagram,3.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+1114,R1126,Delhi-NCR,12,4.0,Excellent,Smartphone,2.0,1.0,6.0,0.0,Youtube,2.0,2,Remain Constant,YES,Leisure and Entertainment,YES,YES,Social Interactions,Children
+1115,R1127,Delhi-NCR,14,4.0,Good,Smartphone,3.5,0.0,9.0,2.0,Youtube,3.0,3,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1116,R1128,Delhi-NCR,13,8.0,Good,Smartphone,3.0,1.0,13.0,1.0,WhatsApp,2.0,2,Increased,NO,Meditation,NO,YES,Social Interactions,Pre-Teens
+1117,R1129,Delhi-NCR,13,6.0,Average,Laptop/Desktop,2.0,0.0,5.0,1.0,Youtube,0.0,3,Remain Constant,NO,Gaming,NO,NO,Social Interactions,Pre-Teens
+1118,R1130,Delhi-NCR,14,6.0,Average,Laptop/Desktop,8.0,1.0,8.0,1.0,Youtube,0.1,2,Remain Constant,NO,Social Media,NO,NO,Personal Exploration,Pre-Teens
+1119,R1131,Delhi-NCR,14,4.0,Average,Smartphone,0.0,1.0,9.0,3.0,Youtube,1.0,3,Remain Constant,NO,Gaming,YES,YES,Education,Pre-Teens
+1120,R1132,Delhi-NCR,14,6.0,Good,Smartphone,3.0,1.0,7.0,1.0,WhatsApp,1.0,4,Remain Constant,NO,Sleeping,YES,YES,Education,Pre-Teens
+1121,R1133,Delhi-NCR,14,6.0,Average,Smartphone,2.0,1.0,4.0,1.0,Youtube,2.0,3,Remain Constant,NO,Exercise,YES,NO,Social Interactions,Pre-Teens
+1122,R1134,Delhi-NCR,14,4.0,Excellent,Smartphone,2.0,2.0,12.0,1.0,WhatsApp,2.0,3,Decreased,NO,Watching videos,YES,YES,Education,Pre-Teens
+1123,R1135,Outside Delhi-NCR,13,5.0,Good,Tablet,4.0,1.0,8.0,1.0,Youtube,0.0,2,Decreased,NO,Leisure and Entertainment,YES,NO,Social Interactions,Pre-Teens
+1124,R1136,Delhi-NCR,18,7.0,Average,Smartphone,4.0,0.0,6.0,1.0,WhatsApp,0.0,2,Remain Constant,NO,Leisure and Entertainment,NO,NO,Social Interactions,Pre-Teens
+1125,R1137,Delhi-NCR,13,3.0,Good,Tablet,4.0,1.0,7.0,1.0,Youtube,3.0,3,Increased,NO,Gaming,NO,YES,Education,Pre-Teens
+1126,R1138,Delhi-NCR,14,6.0,Average,Smartphone,3.0,1.0,10.0,1.0,WhatsApp,2.0,4,Remain Constant,NO,Sleeping,YES,YES,Education,Pre-Teens
+1127,R1139,Delhi-NCR,13,3.0,Very poor,Smartphone,1.0,2.0,7.0,3.0,Youtube,2.0,3,Remain Constant,NO,Gaming,NO,YES,Personal Reflection,Pre-Teens
+1128,R1140,Delhi-NCR,13,4.0,Average,Smartphone,2.0,1.0,8.0,2.0,Youtube,5.0,3,Remain Constant,NO,Gaming,NO,YES,All Options,Pre-Teens
+1129,R1141,Delhi-NCR,12,5.5,Good,Smartphone,2.0,1.0,7.0,3.0,Youtube,1.0,2,Remain Constant,NO,Social Media,YES,YES,Education,Children
+1130,R1142,Delhi-NCR,11,4.0,Excellent,Smartphone,2.0,0.0,11.0,1.0,WhatsApp,2.0,2,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Children
+1131,R1143,Delhi-NCR,12,6.0,Excellent,Tablet,2.0,0.5,9.0,1.0,WhatsApp,1.0,3,Increased,NO,Watching videos,YES,YES,Social Interactions,Children
+1132,R1144,Delhi-NCR,13,2.0,Good,Smartphone,2.0,1.0,6.0,1.0,WhatsApp,0.0,2,Decreased,NO,Leisure and Entertainment,NO,YES,Dining and Entertainment,Pre-Teens
+1133,R1145,Delhi-NCR,14,6.0,Good,Laptop/Desktop,3.0,1.0,6.0,1.0,Youtube,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Education,Pre-Teens
+1134,R1146,Delhi-NCR,16,4.0,Average,Smartphone,2.0,0.0,5.0,1.0,Youtube,1.0,3,Increased,NO,Gaming,YES,NO,Travel and Exploration,Pre-Teens
+1135,R1147,Delhi-NCR,10,4.0,Good,Smartphone,2.0,1.0,7.0,0.0,None,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Education,Children
+1136,R1148,Delhi-NCR,13,5.0,Excellent,Smartphone,3.0,1.0,8.0,2.0,Youtube,1.0,2,Increased,NO,Reading books,YES,YES,Education,Pre-Teens
+1137,R1149,Outside Delhi-NCR,12,4.0,Average,Smartphone,1.0,1.0,8.0,2.0,Youtube,0.5,2,Remain Constant,NO,Social Media,YES,YES,Social Interactions,Children
+1138,R1150,Delhi-NCR,15,8.0,Good,Laptop/Desktop,1.5,0.5,8.0,0.5,WhatsApp,0.3,3,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+1139,R1151,Delhi-NCR,14,5.0,Average,Smartphone or Laptop/Desktop,2.0,0.0,9.0,0.5,WhatsApp,0.5,4,Increased,YES,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+1140,R1152,Delhi-NCR,14,3.0,Average,Smartphone,1.0,1.0,10.0,1.0,WhatsApp,2.0,2,Decreased,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1141,R1153,Delhi-NCR,13,4.0,Average,Smartphone,1.0,0.0,10.0,1.0,None,1.0,2,Remain Constant,NO,Gaming,NO,YES,Social Interactions,Pre-Teens
+1142,R1154,Delhi-NCR,15,4.0,Very poor,Smartphone,2.0,1.0,9.0,0.5,Instagram,2.0,4,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+1143,R1155,Outside Delhi-NCR,17,6.0,Very poor,Smartphone,3.0,1.0,7.0,1.0,Instagram,1.0,2,Decreased,NO,Exercise,NO,YES,Education and Social Interactions,Pre-Teens
+1144,R1156,Outside Delhi-NCR,22,5.0,Average,Laptop/Desktop,4.0,0.0,8.0,3.0,Linkedin,0.0,2,Increased,NO,Communication with others,NO,YES,Education,Young Adults
+1145,R1157,Outside Delhi-NCR,13,6.0,Good,Smartphone,2.0,0.0,11.0,1.0,WhatsApp,0.5,3,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+1146,R1158,Outside Delhi-NCR,11,5.0,Average,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,0.5,1,Decreased,NO,Watching videos,YES,NO,Education,Children
+1147,R1159,Delhi-NCR,13,4.0,Good,Smartphone,1.0,0.5,7.0,1.0,Instagram,2.0,4,Increased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1148,R1160,Outside Delhi-NCR,14,5.0,Excellent,Smartphone,2.0,0.0,12.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,NO,YES,Social Interactions,Pre-Teens
+1149,R1161,Delhi-NCR,12,6.0,Good,Laptop/Desktop,2.0,2.0,8.0,7.0,Snapchat,2.0,3,Remain Constant,NO,Social Media,YES,YES,Dining and Entertainment,Children
+1150,R1162,Delhi-NCR,13,4.0,Excellent,Laptop/Desktop,4.0,1.0,8.0,0.0,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,All Options,Pre-Teens
+1151,R1164,Delhi-NCR,12,4.0,Good,Smartphone,2.0,1.0,8.0,0.0,WhatsApp,3.0,4,Remain Constant,NO,Meditation,YES,YES,Social Interactions,Children
+1152,R1165,Delhi-NCR,12,5.0,Excellent,Laptop/Desktop,3.0,1.0,7.0,0.0,None,2.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Dining and Entertainment,Children
+1153,R1166,Delhi-NCR,13,6.0,Excellent,Smartphone,7.0,0.0,5.0,0.0,Youtube,0.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Personal Reflection,Pre-Teens
+1154,R1167,Outside Delhi-NCR,14,6.0,Excellent,Laptop/Desktop,1.0,2.0,7.0,1.0,WhatsApp,1.0,4,Increased,NO,Sleeping,YES,YES,Personal Exploration,Pre-Teens
+1155,R1168,Delhi-NCR,14,6.0,Good,Smartphone,2.0,1.0,8.0,1.0,WhatsApp,1.0,1,Decreased,NO,Social Media,NO,YES,Social Interactions,Pre-Teens
+1156,R1169,Delhi-NCR,12,6.0,Excellent,Smartphone,5.0,1.0,8.0,2.0,Youtube,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Children
+1157,R1171,Delhi-NCR,14,6.0,Average,Smartphone,2.0,0.5,10.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Sleeping,YES,YES,Education and Social Interactions,Pre-Teens
+1158,R1172,Delhi-NCR,14,3.0,Excellent,Smartphone,5.0,2.0,12.0,0.25,WhatsApp,0.0,3,Increased,NO,Sleeping,YES,YES,Education,Pre-Teens
+1159,R1173,Delhi-NCR,12,4.0,Excellent,Smartphone,3.0,2.0,10.0,1.0,WhatsApp,1.0,4,Increased,NO,Sleeping,YES,YES,Social Interactions,Children
+1160,R1174,Delhi-NCR,14,4.0,Excellent,Smartphone,2.0,1.0,6.0,1.0,WhatsApp,1.0,2,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1161,R1175,Delhi-NCR,13,6.0,Very poor,Laptop/Desktop,3.0,1.0,8.0,2.0,WhatsApp,2.0,3,Decreased,NO,Leisure and Entertainment,YES,NO,Social Interactions,Pre-Teens
+1162,R1176,Delhi-NCR,12,5.0,Excellent,Smartphone,2.0,1.0,12.0,0.0,Youtube,1.0,3,Remain Constant,NO,Exercise,YES,YES,Social Interactions,Children
+1163,R1177,Delhi-NCR,13,5.0,Excellent,Laptop/Desktop,4.0,1.0,8.0,1.0,WhatsApp,1.5,3,Decreased,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1164,R1178,Delhi-NCR,12,4.0,Very poor,Smartphone,1.5,0.0,9.0,5.0,Youtube,1.0,4,Increased,NO,Leisure and Entertainment,NO,YES,Social Interactions,Children
+1165,R1179,Delhi-NCR,13,6.0,Excellent,Laptop/Desktop,2.0,0.5,9.0,1.0,WhatsApp,3.0,4,Remain Constant,NO,Gaming,YES,YES,Social Interactions,Pre-Teens
+1166,R1180,Delhi-NCR,12,6.0,Average,Smartphone,3.0,1.0,9.0,1.0,WhatsApp,1.0,4,Remain Constant,NO,Leisure and Entertainment,NO,YES,Personal Exploration,Children
+1167,R1181,Delhi-NCR,12,5.0,Good,Laptop/Desktop,2.0,0.0,8.0,2.0,Youtube,1.0,3,Remain Constant,NO,Leisure and Entertainment,YES,NO,Social Interactions,Children
+1168,R1182,Delhi-NCR,13,6.0,Good,Tablet,2.0,1.0,6.0,1.0,Youtube,2.0,3,Decreased,NO,Exercise,YES,YES,Social Interactions,Pre-Teens
+1169,R1183,Delhi-NCR,16,7.5,Good,Laptop/Desktop,4.5,0.0,6.0,0.5,WhatsApp,2.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1170,R1184,Outside Delhi-NCR,13,5.0,Excellent,Laptop/Desktop,6.0,1.0,6.0,0.0,Youtube,0.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Education,Pre-Teens
+1171,R1185,Delhi-NCR,13,4.0,Good,Smartphone,4.0,1.0,8.0,1.0,WhatsApp,2.0,3,Decreased,NO,Reading books,YES,YES,Education,Pre-Teens
+1172,R1186,Delhi-NCR,15,5.0,Average,Smartphone,2.0,1.0,13.0,1.0,Youtube,1.0,2,Remain Constant,NO,Gaming,NO,YES,Education,Pre-Teens
+1173,R1187,Delhi-NCR,12,6.0,Excellent,Laptop/Desktop,3.0,1.0,9.0,4.0,Youtube,3.0,4,Remain Constant,NO,Communication with others,YES,YES,Education,Children
+1174,R1188,Delhi-NCR,13,8.0,Average,Laptop/Desktop,2.0,1.0,7.0,1.0,WhatsApp,1.0,3,Decreased,NO,Leisure and Entertainment,YES,YES,Travel and Exploration,Pre-Teens
+1175,R1189,Delhi-NCR,15,5.0,Good,Tablet,4.0,1.0,7.0,2.0,WhatsApp,0.0,4,Increased,NO,Social Media,NO,YES,Travel and Exploration,Pre-Teens
+1176,R1190,Delhi-NCR,13,3.0,Very poor,Smartphone,1.0,0.5,8.0,3.0,Youtube,1.0,3,Remain Constant,NO,Watching videos,NO,NO,Education,Pre-Teens
+1177,R1191,Delhi-NCR,12,3.0,Good,Smartphone,4.0,1.0,8.0,1.0,Instagram,2.0,3,Decreased,NO,Exercise,YES,YES,Travel and Exploration,Children
+1178,R1192,Delhi-NCR,14,6.0,Average,Smartphone,4.0,1.0,9.0,1.0,WhatsApp,1.0,4,Remain Constant,NO,Leisure and Entertainment,YES,YES,Social Interactions,Pre-Teens
+1179,R1193,Delhi-NCR,13,4.0,Average,Smartphone,0.0,0.5,8.0,3.0,Youtube,2.0,4,Decreased,NO,Gaming,NO,YES,Education,Pre-Teens
+1180,R1194,Delhi-NCR,14,5.0,Excellent,Laptop/Desktop,3.5,1.0,8.0,0.5,Youtube,1.0,4,Remain Constant,NO,Reading books,YES,YES,Education,Pre-Teens
+1181,R1195,Delhi-NCR,13,5.0,Good,Tablet,2.0,0.5,7.0,1.0,WhatsApp,1.0,3,Remain Constant,NO,Communication with others,YES,YES,Education,Pre-Teens
