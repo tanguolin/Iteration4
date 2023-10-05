@@ -1,0 +1,2 @@
+DecisionTreeClassificationModel: uid=DecisionTreeClassifier_f6c7295ea2d8, depth=0, numNodes=1, numClasses=1, numFeatures=11
+  Predict: 0.0
