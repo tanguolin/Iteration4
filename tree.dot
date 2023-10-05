@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<Age Of Subject &le; 0.229<br/>gini = 0.481<br/>samples = 826<br/>value = [494, 332]>, fillcolor="#f6d6be"] ;
+1 [label=<Stress Busters_Meditation &le; 0.5<br/>gini = 0.455<br/>samples = 503<br/>value = [327, 176]>, fillcolor="#f3c5a4"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<Rating Of Online Class Experience_Poor &le; 0.5<br/>gini = 0.448<br/>samples = 484<br/>value = [320, 164]>, fillcolor="#f2c29e"] ;
+1 -> 2 ;
+3 [label=<gini = 0.442<br/>samples = 470<br/>value = [315, 155]>, fillcolor="#f2bf9a"] ;
+2 -> 3 ;
+4 [label=<gini = 0.459<br/>samples = 14<br/>value = [5, 9]>, fillcolor="#a7d3f3"] ;
+2 -> 4 ;
+5 [label=<Preferred Social Media Platform_WhatsApp &le; 0.5<br/>gini = 0.465<br/>samples = 19<br/>value = [7, 12]>, fillcolor="#acd6f4"] ;
+1 -> 5 ;
+6 [label=<gini = 0.18<br/>samples = 10<br/>value = [1, 9]>, fillcolor="#4fa8e8"] ;
+5 -> 6 ;
+7 [label=<gini = 0.444<br/>samples = 9<br/>value = [6, 3]>, fillcolor="#f2c09c"] ;
+5 -> 7 ;
+8 [label=<Preferred Social Media Platform_Facebook &le; 0.5<br/>gini = 0.499<br/>samples = 323<br/>value = [167, 156]>, fillcolor="#fdf7f2"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label=<Stress Busters_Meditation &le; 0.5<br/>gini = 0.498<br/>samples = 305<br/>value = [163, 142]>, fillcolor="#fcefe5"] ;
+8 -> 9 ;
+10 [label=<gini = 0.494<br/>samples = 286<br/>value = [158, 128]>, fillcolor="#fae7d9"] ;
+9 -> 10 ;
+11 [label=<gini = 0.388<br/>samples = 19<br/>value = [5, 14]>, fillcolor="#80c0ee"] ;
+9 -> 11 ;
+12 [label=<Age Of Subject &le; 2.013<br/>gini = 0.346<br/>samples = 18<br/>value = [4, 14]>, fillcolor="#72b9ec"] ;
+8 -> 12 ;
+13 [label=<gini = 0.0<br/>samples = 12<br/>value = [0, 12]>, fillcolor="#399de5"] ;
+12 -> 13 ;
+14 [label=<gini = 0.444<br/>samples = 6<br/>value = [4, 2]>, fillcolor="#f2c09c"] ;
+12 -> 14 ;
+}
